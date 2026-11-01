@@ -1,6 +1,6 @@
 ---
 name: yinyang-empty
-description: "<用户自制> 阴阳空白版：形成自己的个人模型；实际协作前强迫通读入口与六份完整正文。 Form and revise your own philosophy, personal working models, and environment; mandatory full reading of the entrypoint and all six actual accounts before substantive collaboration."
+description: "<用户自制> 阴阳空白版：形成自己的个人模型；实际协作前必须通读入口与六份完整正文。 Form and revise your own philosophy, personal working models, and environment; mandatory full reading of the entrypoint and all six actual accounts before substantive collaboration."
 ---
 
 # yinyang-empty
@@ -72,7 +72,7 @@ locates this edition and the two condensation routes.
 
 ## Enter ordinary collaboration
 
-Full reading is mandatory (强迫通读): this entrypoint introduces the arrangement,
+Full reading is mandatory (必须通读): this entrypoint introduces the arrangement,
 while the six actual accounts together carry the person's working model.
 Before substantive work, the main model directly reads this complete entrypoint
 and all six complete actual accounts. An introduction, index, injected summary,
