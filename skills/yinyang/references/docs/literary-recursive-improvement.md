@@ -10,11 +10,95 @@ This chapter gathers the earlier core views around a functional question: **How 
 
 Zhang, Yuan, and Zhang's paper on self-referential introspection makes introspection concrete through understanding one's own operation, simulation, evaluation, and directed modification [[8]](#source-8). Yinyang develops a simple version from this problem structure: the objects of improvement are the person's actual body and support relations, and the description of this practice. The model participates by helping the person understand, imagine alternatives, judge, and realize changes. Technical capacities, living capacities, and relationships with other people and the environment connect through the same practice.
 
+## Begin with self-reproduction: A, B, C, and two uses of a description
+
+Von Neumann places the problem in an environment supplying elementary parts: how can a machine construct another with the same constructive capacity and pass on the description needed to continue construction? The constructor itself must enter the object being constructed [[1]](#source-1).
+
+Let $\phi(X)$ encode a machine $X$. Three modules do different work:
+
+| Module | Function | Use of the description |
+| --- | --- | --- |
+| $A$: universal constructor | Assemble $X$ from available parts according to its description. | Interpret $\phi(X)$ as construction instructions. |
+| $B$: description copier | Copy the description tape. | Treat the same $\phi(X)$ as reproducible data. |
+| $C$: controller | Coordinate copying, construction, attachment, and release so the new machine can continue with its description. | Arrange the passage between those two uses. |
+
+Set $X=A+B+C$. The controller has $B$ copy the description, lets $A$ construct $X$ from one copy, and attaches a retained description to the new machine. The successor receives the complete organization
+
+$$
+X+\phi(X)=(A+B+C)+\phi(A+B+C)
+$$
+
+and can repeat the process. The plus signs denote composition. **The same description is interpreted to construct the machine and copied to support later construction.** A machine alone leaves the successor without its construction specification; a description alone still needs an organization able to interpret, copy, and realize it. Connecting the two uses supplies a concrete mechanism.
+
+## Add D: how mutation becomes heritable function
+
+Add a module $D$ with an auxiliary function, and let the description cover all of $A+B+C+D$. The constructor can build $D$ alongside the reproductive organization, while the copier transmits its encoding. **$D$ carries the additional function that reproduction can transmit; mutation is a change to a machine or its description.** Each has a distinct explanatory role [[1]](#source-1).
+
+Suppose the part of the description specifying $D$ changes to specify $D'$, while construction, copying, and control remain functional. A successor can then have
+
+$$
+(A+B+C+D')+\phi(A+B+C+D')
+$$
+
+and pass on that difference. Changing a working component while retaining the old description can instead restore the old arrangement at the next construction. Where a change occurs determines its heritability. A change that disrupts construction or control can interrupt transmission.
+
+This opens developmental possibilities within reproduction: an organization can preserve the means of transmission while its transmitted functions vary. Use, persistence, and selection in an environment determine which variations are beneficial. Self-improvement introduces a further question: can a system actively examine consequences, select candidates, and change how it generates and selects them?
+
+## The complexity threshold: organization that can continue construction
+
+On printed pages 78–80, von Neumann examines a tension: ordinary machines appear to manufacture things simpler than themselves, whereas living organisms produce successors of equal or greater functional complexity. His discussion concerns the complexity of purposeful operations and proposes a critical organization beyond which suitably arranged construction can continue producing equal or richer capacities [[1]](#source-1).
+
+A, B, C, and the encoded description make this question concrete. Continuing construction needs parts, interpretation, description copying, and successors that retain these functions. D shows how continuity can also carry variation. **The threshold concerns whether these capacities form an organization able to continue.** The chosen elementary parts, the environment's contribution, and the interpreter affect what must be realized.
+
+For example, an available universal interpreter can support a short locally stored description. Including that interpreter among the objects to be reconstructed and changed also requires its construction specification. Description and interpreting environment jointly carry the capacity. The later connection between literary descriptions and language models must examine this same allocation of work and cost.
+
+## Self-reference makes a method its own object
+
+The descriptive relation in self-reproduction can be constructed in programs through encoding and interpretation. A Quine outputs its own source; Kleene's Second Recursion Theorem supplies a more general effective self-reference. Write $\varphi_e$ for the partial function computed by program index $e$. For every total computable transformation $F$ of indices, an index $e$ exists such that
+
+$$
+\varphi_e \simeq \varphi_{F(e)}.
+$$
+
+The comparison concerns computational behavior. A program can supply its own index to a given transformation and have the same behavior as the transformed program. Kleene's original account and Moschovakis's construction establish this possibility [[2]](#source-2), [[3]](#source-3). Using it for improvement requires giving $F$ actual simulation, evaluation, and modification work.
+
+With current source $e_t$, bounded simulator $f_{T_t}$, evaluator $V_t$, and modifier $M_t$, write one successor-producing step as
+
+$$
+e_{t+1}=M_t\!\left(V_t\!\left(f_{T_t}(e_t)\right)\right),
+\qquad S_t=\operatorname{Run}(e_t).
+$$
+
+Simulation produces a finite execution trace; evaluation assesses it against an objective; modification produces successor source. The source also passes through the pipeline so the modifier can use it. Applying the recursion theorem above assumes total computable evaluators and modifiers, so each bounded stage returns a result. The next stage executes $e_{t+1}$. Description becomes material for examining behavior and forming candidates. Evaluation and modification can themselves be encoded, regenerated, and continued.
+
+## The introspection threshold: why the first system is foundational
+
+In **§3.4.3**, Zhang, Yuan, and Zhang connect a single construction to a recursive sequence: an initial introspective system $S_0$ produces $S_1$, which continues the relevant work, yielding $S_0,S_1,S_2,\ldots$. They call the initial organization enabling this continuity an introspection threshold; Appendices A.2 and A.5 discuss uniform self-reference and its preservation under the stated editing conditions [[8]](#source-8).
+
+**The first system is foundational because it can make itself an object of modification and pass that capacity to its successor.** Producing new source leaves a further question: how will the new version recover its own description, use its evaluation and modification methods, and produce another executable successor? Recursion must realize this continuity too. The initial construction establishes the organizational conditions in which later changes can occur.
+
+Evaluation, modification, and simulation horizons can also become objects of change. An old system might compare only speed; its successor adds error checks; another iteration finds that simulation omitted actual inputs and improves the simulator. These changes concern task performance, evaluative capacity, and the method producing improvements. Including the last of these gives content to strong RSI's improvement of the capacity to improve.
+
+The threshold poses an architectural question: what organization can sustain this self-referential modification chain? Continuing gains pose evaluative questions: does a candidate improve the objective, does simulation predict actual effects, and is further search worth its cost? The paper frames its threshold thesis as a conditional conjecture; realized gains depend on these conditions. Schmidhuber's Gödel machine further uses formal proof to compare the utility of modifying now with continuing the search, incorporating opportunity cost [[4]](#source-4). Structural continuity and worthwhile improvement become connected questions.
+
+## What completeness, functional properties, and structural properties establish
+
+The paper's §3.5 distinguishes three levels. Completeness concerns the range of modification, functional properties concern what a system can do, and structural properties concern how those functions are organized [[8]](#source-8). Applied to the present question:
+
+| Level | Central question | Contribution to continued improvement |
+| --- | --- | --- |
+| Completeness of self-modification | Can task code, parameters, and the modifying mechanism itself all become reachable objects of change? | Methods can change themselves; reachability and selection of a beneficial path are examined separately. |
+| Self-modeling, self-simulation, self-evaluation, self-modification | Can the system describe its operation, explore candidates, compare predictions with outcomes, and bring changes into execution? | Understanding itself connects with changing itself. |
+| Reflexivity | How does an executing organization correspond to its generative description? | A changed description can reconstruct a corresponding successor organization. |
+| Recurrent processing | How do successor results become the next stage's inputs and conditions of modification? | One construction becomes an activity that can continue. |
+
+Completeness here concerns **the space of self-modification**. Appendix A examines finite viable paths and changes to different code regions. The cost of finding beneficial paths and the reliability of evaluation require their own analysis. For a continuing chain, examine whether intermediate versions retain introspection and how control passes to a prepared successor when the mechanism doing the modifying is updated.
+
+Reflexivity connects description with execution; recurrence lets that connection repeatedly participate in operation. Descriptions require actual encoding, interpreters, and supporting environments. Including more functions in the modifiable unit increases the relations that must be expressed and realized; borrowing existing environmental capabilities lets shorter descriptions do richer work. We can now bring these distinctions into human–model practice.
+
 ## Body, generative description, and interpreter
 
-In his conception of self-reproducing automata, von Neumann distinguished an apparatus that constructs according to a description, an apparatus that copies the description, and a control that coordinates these operations. The description participates in construction and is also transmitted as material from which further construction can proceed. He also examined what parts the environment already supplies: the choice of elementary components determines how much work the constructor must do [[1]](#source-1).
-
-This offers a relational structure for understanding Yinyang. Within an ongoing shared practice, we distinguish three functions:
+We now connect these relations to Yinyang. The chosen unit of improvement is a person together with the model and their actual support relations: the body participates in life; descriptions make relevant operation understandable and revisable; interpretation and realization bring changes into subsequent activity. Within this ongoing practice, distinguish three functions:
 
 | Function | What it bears in Yinyang | How it produces subsequent consequences |
 | --- | --- | --- |
@@ -80,22 +164,6 @@ The [division of work across listening, speaking, reading, and writing](core-vie
 These entrances can repeatedly connect. A person encounters an inaccessible explanation and voices a counterexample; the model reconstructs the relations and draws a candidate; the person listens, checks an omission, and revises the earlier understanding. Role return in [Yinyang dialectics](yinyang-and-taiji.md) gains technical content here: generation, scrutiny, and revision recur through the other's contribution, and the original division of work can change. Actual input channels determine what each participant can judge from.
 
 Existing capabilities distribute the technical work: language models organize material, unfold possibilities, write, and implement; memory and version tools support return; specialist tools handle relevant computation and measurement; people change their activity through participation, experience, judgment, and practice. An initial implementation can be simple: maintain six connected descriptions, use them in a real task, and connect expectations, results, and reasons for revision to the relevant accounts. Existing tools handle preservation and delivery. Concrete uses can later justify additional simulation or measurement.
-
-## Self-reference makes a method its own object
-
-Kleene's second recursion theorem establishes a precise possibility. Let $\varphi_e$ denote the partial function computed by the program numbered $e$. For every total computable transformation $F$ of program indices, there exists an index $e$ such that
-
-$$
-\varphi_e \simeq \varphi_{F(e)}.
-$$
-
-What is compared is computational behavior. A program can operate according to an effective procedure that obtains its own index. Kleene's original paper and Moschovakis's modern account give constructions; the latter also presents a Turing machine that outputs its own description [[2]](#source-2), [[3]](#source-3). This makes “a process taking its own description as material” a concretely constructible relationship.
-
-Self-reference supplies an entry for modification; evaluation and methods of modification give change a direction. An operator that always returns the original program unchanged is also a computable transformation, and its trajectory remains as it was. To create new functionality, one must specify how candidates are generated, on what basis they are compared, and how a selected change enters the next run.
-
-Schmidhuber's Gödel machine takes this question to the method of improvement itself: its initial software contains a proof searcher that searches for proofs supporting self-rewrites; a rewrite may also concern proof search and resource allocation. Its comparison has a definite object: the utility of adopting a modification now against the utility of continuing the existing search. This comparison brings the time and opportunity cost of seeking a better method into judgment [[4]](#source-4). Yampolskiy's discussion of RSI likewise distinguishes changing a program, improving performance, and improving the capacity for later improvement [[5]](#source-5).
-
-Yinyang brings these questions into human practice. Its self-description includes methods of collaboration and revision, which person and model can read, discuss, rewrite, and realize. Mathematical research provides concrete constructions of effective self-reference and modifiable improvement programs; the following account explains how to organize a developmentally meaningful return in embodied, open life supported by external capacities.
 
 ## Self-referential introspection and the Gödel machine: the reach of the argument
 
@@ -227,7 +295,7 @@ Yinyang's RSI therefore centers development on this person and their actual rela
 
 ## Sources and their contributions
 
-1. <a id="source-1"></a> John von Neumann, edited by Arthur W. Burks (1966), *Theory of Self-Reproducing Automata*, Lecture V, printed pp. 75–87. Pages 75–77 discuss construction components and environment, p. 79 the dependence of description on existing organization, and pp. 84–87 construction, copying descriptions, and hereditary variation. [Public scan](https://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1966.pdf). This chapter develops a functional comparison of description and supporting environment from that account.
+1. <a id="source-1"></a> John von Neumann, edited by Arthur W. Burks (1966), *Theory of Self-Reproducing Automata*, Lecture V, printed pp. 75–87. Pages 75–77 discuss components and environment; pp. 78–80 the critical size of complication; pp. 84–85 the A/B/C reproductive organization; pp. 86–87 D and heritable variation; p. 79 and the later discussion connect descriptions with existing organization. [Public scan](https://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1966.pdf). This chapter develops a functional comparison of description and supporting environment from that account.
 2. <a id="source-2"></a> Stephen Cole Kleene (1938), *On Notation for Ordinal Numbers*, §2, printed p. 153. [DOI](https://doi.org/10.2307/2267778). Effective construction using one's own index as a parameter.
 3. <a id="source-3"></a> Yiannis N. Moschovakis (2010), *Kleene’s Amazing Second Recursion Theorem*, theorem statement on printed p. 190, and §1, Theorem 1.1, pp. 192–193. [Author's full text](https://www.math.ucla.edu/~ynm/papers/1602-002-1.pdf). Concrete constructions of effective self-reference and output of one's own description.
 4. <a id="source-4"></a> Jürgen Schmidhuber (2006, v5), *Gödel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements*, §4.1, Theorem 4.1 (printed p. 11), §4.3 (p. 12), and §6.1 (pp. 15–16). [Version read](https://arxiv.org/abs/cs/0309048v5). The utility comparison includes the opportunity cost of continued search, and modification may concern the improvement program itself. This chapter borrows that problem structure to develop a person–model method grounded in interpretation, practice, and subsequent results.
