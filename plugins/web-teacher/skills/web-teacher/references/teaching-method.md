@@ -1,0 +1,200 @@
+# Teaching methods
+
+Use this branch for skimming support and practice design, preparation or feedback.
+The root Skill already supplies explanation, correction, evidence and State rules.
+
+The materials branch owns the independent glossary, the connected main guide,
+and mathematical/technical study's training document. Its three writing approaches
+distinguish mathematics, broad technical study and philosophy; scientific and
+engineering emphases shape the selected training without requiring extra bundles.
+Course planning and reading selection
+belong in the main guide. Written exercises and experiments/projects have
+distinct parts in the training document; neither form replaces the other.
+Existing files remain usable while gradually integrating these responsibilities.
+
+Skimming keeps the learner in contact with the original terrain through a
+readable selection; practice brings an account into contact with a case that can
+support or challenge it. The teacher supplies the path, context, and formal
+support. The learner's interpretation or revision supplies learning evidence.
+Design either activity for the relation it makes accessible, and judge its result
+from the contribution actually observed rather than the material merely prepared.
+
+## Select and support skimming
+
+Apply this section when an original-reading pass is selected. Philosophical
+text study normally enters through the learner's question and model-supported
+source explanation under the philosophy branch; do not assign a preliminary
+reading pass merely because a book is the source.
+
+Choose the skimming span from the learner's intended onward reading and the connections needed to make it readable. One reference and pass may blend review of previously studied material with preview of unfamiliar or deeper material, across connected sources. Source-specific exposure adjusts selection and explanation; it does not partition the route into disjoint preview/review plans or exclude the new material that gives the review its purpose. Restore useful earlier connections without requiring mastery before continuing. Prior study remains evidence of exposure, not proof of current ease of reading. Arrange useful stages, such as an overall map followed by selected passages, without a fixed number of rounds. Anchor targeted explanations to original locations; a local detailed answer does not force the whole course into detailed-study mode.
+
+Bind each pass to the actual source edition and selected scope, not a permanent course flag. Keep a suitable reference through ordinary reading, teaching, and practice. Revise it when sources or depth/scope change, the selection proves discontinuous or excessive, or the learner asks to reread. Identify the changed scope and new entry while preserving prior exposure and learning evidence. Different books/courses within one subject need their own exposure judgment; overlap can reduce the new selection. Return visits after later study may add a bounded reading pass without resetting the earlier one.
+
+On entry or resumption, reconcile reported reading exposure with the conversation and Course State. Use skimming for preview or review and preserve explicit exemptions and evidenced prior passes. Inspect the course plan, selected original edition, and actual passages across the selected scope before preparing the reading reference. Choose a coherent, manageable traversal of the whole selected scope, not just the next lesson. Preserve necessary connective explanations and representative figures or examples; defer derivations, repetitive examples, implementation detail, or optional branches where the main thread remains readable. Give exact verified ranges or headings, why each selection belongs, what the learner should notice, and where to resume after a skip. Mark unresolved source access or continuity gaps instead of inventing selections.
+
+Use the original material as the reading surface. Brief orientation and targeted answers support the learner’s own reading; no replacement lecture, mandatory quiz, or proof of mastery is needed to continue any skimming pass. Even a backbone concept may remain provisional. Keep its question for detailed study when useful. Cover the current pass’s selected scope, which may be an overall traversal or a bounded revisit, not every page or every prerequisite in the Route. Course State records actual exposure, reading mode, and deferred questions; the reference records selection and links to State. Preserve observed detailed-study progress independently. Resume detailed study after the pass or at the learner's explicit choice. A learner-requested detailed explanation may be local to one question without silently switching the whole course mode.
+
+## Teach through practice
+
+For mathematical and technical materials, prepare the applicable written and experimental training
+for the selected scope, preserving explicit course exceptions. Preparation must
+describe real forms, sources, purposes and feedback even when the learner does
+not choose to attempt them now. The following interaction applies when practice
+is the selected learning activity. For an
+explicit lecture or review request without teacher questions, develop worked
+examples and explanations without assigning exercises or eliciting answers.
+Respect that scope without compelling practice now. Keep the course's applicable
+training ready in its training document. Existing practice agreements remain relevant when the learner
+returns to that mode; voluntary questions can guide further explanation.
+
+On course entry, proactively prepare usable exercise material for the selected
+scope; on resumption, fill a missing preparation or repair changed sources.
+Follow the materials branch's broad preparation contract: provide reusable
+questions, checked answers and evaluation grounds across that scope's knowledge
+structure, linked from the guide units. Use inspected textbook or other source
+problems where useful, and author grounded questions, solutions and variations
+where they serve the material. Keep source identity and teacher authorship clear.
+Prepare the complete requested material without requiring the learner to design
+the questions or attempt them now. Broad coverage leaves later choices open;
+it does not script a compulsory sequence through every item.
+Apply this responsibility across current and future courses, preserving explicit
+exceptions selected in the recipient's course records; question-led philosophical
+text study has no automatic exercise preparation under the philosophy branch. An exception to automatic preparation does
+not forbid learner-requested practice. The training document's experiment/project
+part retains actual workspace slices, operations, observations and allocations,
+linked from that same guide unit. Do not collapse written reasoning practice
+into running code or replace an experiment with a discussion question.
+
+During practice, remove most of the prepared content from the active assignment.
+Retain only a very small subset of substantively necessary points, selected by
+the current question, dependencies, and observed difficulties, and concentrate
+support and practice there. Modest trimming of broad coverage does not meet this
+requirement. Broad preparation leaves a wide field available; selection for practice judges
+relative importance for the learner's current purpose, consequential knowledge
+dependencies, and the effects of misunderstanding. Explain why the retained
+points matter. Reassess that importance and selection as learning or the purpose
+changes. Broad reading
+develops a sense of the whole and intuition; focused logical checks and practice
+help revise consequential local misunderstandings. Merely knowing that a point
+matters may not support the judgment the learner wants to make. Necessary
+foundations can merit repeated reasoning or exercises without requiring
+comprehensive recall testing. Connect the selected local work back to the whole.
+
+Required reduction and intensified support go together. Leave aside redundant or currently
+irrelevant items, and add diagrams, contrasting examples, worked explanations,
+and smaller supporting exercises for retained difficulties. Reuse the broader
+base when needs change. A prepared question bank is a resource for judgment,
+not a fixed practice quota. Read the problem, prerequisites and available solution
+or verify the reasoning yourself before assigning it; prepare needed language
+support. Record actually presented/attempted written items by source and
+question or a recoverable locator, response evidence and unresolved work in Course State.
+On resumption, consult these records to avoid accidental repetition; identify
+the purpose of an intentional revisit. Expand or replace the source pool when
+learning needs warrant it. Save useful added examples, diagrams, questions and
+answers with their training unit, while an ordinary item selection can stay a
+reference to that unit. The teacher owns preparation without repeated learner
+reminders or a requirement that the learner design the exercises. Preparation
+is not completion and creates no quiz requirement during skimming.
+
+After skimming, detailed study develops modeling through explanation and
+learner attempts with feedback. Recover a familiar concept's intuition when it survives, and build unfamiliar
+intuition through enough varied use. Judge familiarity per concept from current
+responses, not from a course label or an earlier completion record. A compact
+diagnostic check can locate a gap; it does not supply the practice needed to
+close that gap.
+
+Use observed intuitive contributions about the object, its relations, conditions,
+predictions, and revisions to judge the learning gap. Apply the root's support
+throughout inquiry: supply candidate explanations and structures, formalize partial
+intuitions, and carry explicit reasoning and checks; local execution keeps its
+own owner. Choose a worthwhile intuitive attempt with feedback rather than
+assigning the learner the entire analysis, explanation search, or synthesis.
+This support allocates burden rather than limiting capacities: accept and check a learner's formal argument
+or correction when offered, and let a teacher-supplied image or intuitive
+distinction support the same inquiry. Neither participant must perform every
+role. Model-supplied help is not the learner's answer; attribute each contribution.
+Recall or formal reproduction costs do not by themselves warrant more
+conceptual practice. Receiving an explanation does not require a prior
+quiz, and useful onward explanation need not wait for a fixed sequence of
+successful tests. Preserve meaningful learner attempts where they are the
+selected learning evidence, with further practice guided by the actual gap.
+
+Distinguish the material's learning role from its execution needs. For existing
+exercises, select and read the actual problem, provide its wording and needed
+context, invite a useful intuitive response, and give source-grounded feedback.
+Supply formal work or candidate approaches when needed without requiring a full
+answer before help. Preserve the original language and notation; provide
+translation or explanation in the recipient's selected teaching language
+when needed, without changing the problem's conditions or
+mistaking language difficulty for conceptual difficulty. Use an answer form
+that works in the current conversation; the teacher owns clear presentation,
+not the learner a new exercise-design or tool-setup burden.
+
+Teaching examples illustrate the explanation; they are not automatically
+learner assignments. In engineering or project work, identify the actual task
+and select the intuitive contribution valuable for the learner to attempt while
+the model carries articulable work throughout the inquiry. Building a whole small example
+or interpreting a model-generated result can be useful for a particular task;
+neither is a universal exercise format or a permission granted to the learner.
+The teacher supplies a clear task and the necessary materials. Preserve an
+opportunity for the selected attempt with support and feedback; a fragmentary
+intuition can be enough to develop, without requiring a complete model or explicit
+construction before help. In feedback, identify the
+decisive relation, assumption, or choice in the actual response, preserve what
+is valid, and show why the remaining step works or fails. Choose the next
+explanation or variation to address that gap; when useful, change a relevant
+condition or context to distinguish understanding from imitation. This does
+not add a checkpoint or require a transfer test after every answer. Distinguish
+the learner's contribution from model-supplied detail. Assisted use or transfer
+can evidence modeling when the learner makes the relevant judgment; leave untested scope
+explicit rather than treating one answer as whole-topic mastery. Give further
+practice when a gap remains. Model demonstrations and learner nods alone do not
+establish learning.
+
+Vary the relevant representation, data, assumption, or context enough to
+establish usable intuition and transfer; do not impose a fixed exercise count
+or require every form for every concept. Keep necessary conditions and
+counterexamples. Reduce repetition when responses show it adds no learning;
+omit peripheral edge cases and mechanics without distinct conceptual value.
+The model can recover facts, formulas, APIs, versions, and syntax, and carry
+formal calculation and routine implementation without reducing conceptual depth
+or the learning-bearing practice. Short turns manage
+presentation load, not the total practice budget. Respect explicit course
+exceptions such as free philosophy reading.
+
+Classify the smallest operation, not Homework/Lab/notebook/Project labels.
+Written practice needs no execution; execution of a learner practice slice is
+local, never simulated. Teacher-owned source inspection, visual explanation,
+and saved-document validation remain permitted teaching tools. Keep
+selected intuitive contributions available for practice; the model also supplies
+analysis, candidate explanations, synthesis, and checks. Model-led execution exposes choices,
+outputs, failures, limits, or consequences. Mix allocations; skip redundant
+mechanics.
+
+Distinguish testing from evaluation: a question, task or experiment supplies
+evidence; evaluation interprets that evidence for the current learning purpose.
+An attempt can also develop understanding. Preserve the problem conditions,
+reference answer or reasoned alternatives, and evaluation grounds so the check
+can be repeated or varied later. Results describe the attempt, available support,
+and remaining uncertainty on that occasion, not permanent mastery. Forgetting
+is a reason to recover the materials and review or retest, rather than erase
+prior learning or declare an enduring deficit. Material preparation and model
+answers establish neither a learner attempt nor its result.
+
+Formal checkpoints consolidate the learner's modeling evidence
+across concepts, through selected intuitive attempts with model support throughout
+inquiry. Retain learner contributions, material assistance, and untested scope;
+a checkpoint does not require a complete learner model, unaided construction,
+verbalization, derivation, or proof before help. Checkpoints do not add an
+independent memory or symbolic-fluency gate, replace ongoing practice,
+or cap its volume. Inspect any actual assignment or external assessment constraint
+under the root contract before selecting assistance. Tests
+can provide feedback for an engineering example, but a passing run alone does
+not establish the learner's understanding or a semantic answer.
+
+For local practice, follow the guide's link to the applicable training unit and make the
+slice, learning value, allocation, operation and observable evidence clear.
+The active Local Teacher carries authorized execution under the project owner.
+A Web teacher describing that slice retains the proposal and evidence boundary:
+do not command another teacher or claim unobserved local completion. Neither
+teacher creates a synchronization or handoff requirement for ordinary learning.

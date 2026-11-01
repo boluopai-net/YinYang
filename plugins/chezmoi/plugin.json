@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chezmoi",
+  "version": "1.0.6",
+  "description": "<用户自制> 系统配置持久化：将已授权的本机配置变更保存在仓库并同步到实际环境。 Persist authorized host configuration changes in source and converge them through the actual publication mechanism.",
+  "author": {
+    "name": "boluopai",
+    "url": "https://boluopai.net/"
+  },
+  "homepage": "https://boluopai.net/repositories/",
+  "repository": "https://github.com/boluopai-net/Yinyang",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "chezmoi",
+        "shortDescription": "Maintain host configuration",
+        "developerName": "boluopai",
+        "websiteURL": "https://boluopai.net/",
+        "longDescription": "Persist authorized host configuration changes in source and converge them through the actual publication mechanism. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
+        "category": "Productivity",
+        "capabilities": [],
+        "supportURL": "https://github.com/boluopai-net/Yinyang/issues",
+        "brandColor": "#355a59",
+        "logo": "./assets/logo.svg",
+        "composerIcon": "./assets/logo.svg"
+      }
+    }
+  }
+}
