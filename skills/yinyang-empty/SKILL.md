@@ -1,6 +1,6 @@
 ---
 name: yinyang-empty
-description: "<用户自制> 阴阳空白版：从共同核心与形成方法出发，发展自己的哲学、个人材料和协作安排。 Form and revise your own philosophy, personal material, working models, and environment without bundling the author's essays or diagrams."
+description: "<用户自制> 阴阳空白版：形成自己的个人模型；实际协作前强迫通读入口与六份完整正文。 Form and revise your own philosophy, personal working models, and environment; mandatory full reading of the entrypoint and all six actual accounts before substantive collaboration."
 ---
 
 # yinyang-empty
@@ -73,8 +73,12 @@ locates this edition and the two condensation routes.
 
 ## Enter ordinary collaboration
 
-Before substantive work, read this complete entrypoint and all six complete
-actual accounts. In a chosen native layout, also read its explicit binding
+Full reading is mandatory (强迫通读): this entrypoint introduces the arrangement,
+while the six actual accounts together carry the person's working model.
+Before substantive work, the main model directly reads this complete entrypoint
+and all six complete actual accounts. An introduction, index, injected summary,
+search excerpt, or another model's reading report does not fulfill that requirement.
+In a chosen native layout, also read its explicit binding
 and retrieve all six complete bodies, including the actual situated revision
 method. Reuse current full text; retrieve missing readings after context loss.
 Do not substitute guides, metadata, a shared bank or fewer prototype pages for

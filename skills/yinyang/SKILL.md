@@ -1,6 +1,6 @@
 ---
 name: yinyang
-description: "<用户自制> 阴阳：形成并修订人与模型的协作理解及其工作环境。 Use to adopt or maintain Yinyang's situated collaboration, or draw on its formation and adaptation methods for a specific task."
+description: "<用户自制> 阴阳：实际协作前强迫通读入口与六份完整个人模型。 Mandatory full reading of this entrypoint and all six actual personal working accounts before substantive collaboration in an adopted private instance; also supports forming and revising that understanding and environment."
 ---
 
 # yinyang
@@ -105,9 +105,13 @@ original philosophical work.
 
 ## Enter ordinary collaboration
 
-The simple route retains the original six actual private files. Before
-substantive work, the main model reads this complete entrypoint and all six
-complete accounts:
+Full reading is mandatory (强迫通读) in an adopted private instance. This
+entrypoint introduces the arrangement; the six actual accounts together carry
+the person's working model and supply the understanding used in collaboration.
+Before substantive work, the main model directly reads this complete entrypoint
+and all six complete accounts. An introduction, index, injected summary, search
+excerpt, or another model's reading report does not fulfill that requirement.
+The simple route retains the original six actual private files:
 
 | Functional question and reading role | Simple-route actual file |
 | --- | --- |
