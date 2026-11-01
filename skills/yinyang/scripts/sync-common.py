@@ -20,7 +20,14 @@ LEGACY_ACCOUNTS = {
     "references/usage.md",
 }
 PRIVATE_TREES = {"references/situated", "references/personal"}
-PRIVATE_ENTRYPOINTS = {"SKILL.md", "SKILL.zh-CN.md", "README.md", "README.zh-CN.md", "MODEL.md", "AGENTS.md"}
+PRIVATE_ENTRYPOINTS = {
+    "SKILL.md",
+    "SKILL.zh-CN.md",
+    "README.md",
+    "README.zh-CN.md",
+    "MODEL.md",
+    "AGENTS.md",
+}
 
 
 def situated(path):
@@ -74,7 +81,9 @@ def package(value, *, source=False):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", required=True, help="Canonical philosophy and shared-method source")
+    parser.add_argument(
+        "--source", required=True, help="Canonical philosophy and shared-method source"
+    )
     parser.add_argument("--target", required=True, help="Situated source Skill directory")
     parser.add_argument("--apply", action="store_true", help="Copy changed common files")
     args = parser.parse_args()
