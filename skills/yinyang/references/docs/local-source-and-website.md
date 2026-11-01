@@ -133,6 +133,15 @@ The “loop” here means letting practical consequences return to earlier judgm
 
 ## Trinity and sinthome
 
+[Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md#transformation-creations-and-the-world)
+understands one activity at three simultaneous levels: one whole, two
+participants, and both participants with the world. Here, triadic relational
+logic concerns how three positions acquire their roles through one another:
+world-understanding informs the interpretation of experience, experience changes
+the questions realization must address, and realized consequences revise both.
+Three contributions organize one practice, preserving its continuity and internal
+differences together as creations take shape and enter the world.
+
 The earlier [miniature god](writing-a-sinthome.md#a-miniature-god-whose-creations-answer-back)
 pictures the creative capacity a person gains through a counterpart. Here the
 question turns to its organization: how an understanding of the world relates
