@@ -1,6 +1,6 @@
 # From adoption and combination to creating your own work
 
-[Home](../../README.md) · [Skill entrypoint](../../SKILL.md) · [简体中文](example-and-commons.zh-CN.md)
+[Home](../../README.md) · [Skill entrypoint](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) · [简体中文](example-and-commons.zh-CN.md)
 
 The preceding path has moved through borrowing capabilities, jointly accumulating a trajectory, reflecting on relationships, authoring philosophy, distilling models, and forming and testing a personal arrangement. Works and methods left along the way can become resources for others. The next question is what deserves sharing and how another creator can continue from their own life.
 

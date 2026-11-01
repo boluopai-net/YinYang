@@ -7,7 +7,7 @@ their model counterpart, and their relationship. The six writing guides below
 supply the corresponding directions, including environmental realization and
 how to write one's own actual revision method. The
 [package guide](package.md) owns paths, common-content projection,
-and the complete/situated package contract. The [entrypoint](../SKILL.md) owns
+and the complete/situated package contract. The [entrypoint](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) owns
 ordinary-use reading. Here the question is what to understand and write, on
 what evidence, and how the connected accounts can change. People and models can
 both read and use this method; its practical guidance develops how to create
@@ -47,7 +47,7 @@ when its images and organization no longer resemble Yinyang; the
 
 Readers can study the example, borrow a method, or form their six working accounts.
 The [practice overview](creation-method.md#choose-2x2) distinguishes the
-Full static reference from Empty, the entrance for forming one's own practice.
+philosophical reading from Empty, the entrance for forming one's own practice.
 This page develops how to write the six accounts and revise them together.
 
 The same accounts support personal recursive self-improvement. Orientation

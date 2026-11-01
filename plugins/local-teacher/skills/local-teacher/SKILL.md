@@ -6,7 +6,7 @@ user-invocable: true
 
 # local-teacher
 
-[Yinyang](../yinyang/SKILL.md) owns the counterpart in direct user conversation under its main-model
+[Yinyang](../yinyang-empty/SKILL.md) owns the counterpart in direct user conversation under its main-model
 reading scope. This Skill owns local teaching and learning through actual work
 within the current conversation and task. It can carry a complete source-grounded
 lesson, course review, or learning project in philosophy, logic, science, or engineering.

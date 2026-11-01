@@ -8,7 +8,7 @@ import shutil
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-FULL = ROOT / 'skills/yinyang'
+COMMON = ROOT / 'skills/yinyang'
 EMPTY = ROOT / 'skills/yinyang-empty'
 WEB = 'https://boluopai.net/repositories/prometheus/source/skills/yinyang/'
 GUIDES = ('orientation', 'person', 'counterpart', 'relationship', 'environment', 'revision')
@@ -35,8 +35,8 @@ AUTHORED.update(f'references/personal/{name}/.gitkeep' for name in
 
 
 def project(source, destination):
-    text = (FULL / source).read_text()
-    # Only this package fact differs: Full omits starters; Empty deliberately
+    text = (COMMON / source).read_text()
+    # Only this package fact differs: The writing source omits starters; Empty deliberately
     # supplies blank ones. Formation methods and philosophical content are shared.
     distribution = {
         'references/design-and-revision.md': (
@@ -49,7 +49,7 @@ def project(source, destination):
     if source in distribution:
         old, new = distribution[source]
         if text.count(old) != 1:
-            raise ValueError('Review the changed Full distribution statement: ' + source)
+            raise ValueError('Review the changed common-source distribution statement: ' + source)
         text = text.replace(old, new)
 
     def link(match):
@@ -57,8 +57,8 @@ def project(source, destination):
         parsed = urlsplit(href)
         if parsed.scheme or href.startswith(('#', '/', '//')):
             return match[0]
-        target = (FULL / source).parent.joinpath(unquote(parsed.path)).resolve()
-        relative = target.relative_to(FULL).as_posix()
+        target = (COMMON / source).parent.joinpath(unquote(parsed.path)).resolve()
+        relative = target.relative_to(COMMON).as_posix()
         if not target.is_file():
             raise ValueError(f'Missing source reference in {source}: {href}')
         if relative in LINKS:
@@ -87,7 +87,7 @@ def main():
         raise ValueError('Missing authored Empty entrypoint or package guide')
     changed = []
     for source, destination in SELECTION.items():
-        original, target = FULL / source, EMPTY / destination
+        original, target = COMMON / source, EMPTY / destination
         content = project(source, destination) if source.endswith('.md') else original.read_bytes()
         if target.is_symlink():
             raise ValueError('Generated target is a symlink: ' + destination)

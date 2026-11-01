@@ -1,6 +1,6 @@
 # 从采用、组合到自己的创作
 
-[首页](../../README.zh-CN.md) · [阴阳方法](../../SKILL.zh-CN.md) · [English](example-and-commons.md)
+[首页](../../README.zh-CN.md) · [阴阳方法](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md) · [English](example-and-commons.md)
 
 前面的路径已经走过借用能力、共同积累轨迹、反思关系、编写哲学、凝练模型，以及形成和检验个人安排。沿途留下的作品与方法，可以成为其他人的资源。这里接着问：哪些部分值得分享，另一位创造者又怎样从自己的生活继续？
 

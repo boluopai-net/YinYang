@@ -52,7 +52,7 @@
 提供这条创作路径。实际起步可沿[工具使用](https://boluopai.net/getting-started/)。
 
 采用阴阳时，用[实践总览](skills/yinyang/references/docs/creation-method.zh-CN.md#choose-2x2)
-通过 **Empty 的递归自我改进方法**形成自己的内容：由模型直接凝练工作描述，或由 Hindsight 等社区项目辅助处理。Full 是网页哲学在 Skill 中的静态参考形式，禁止用于自己的实践。
+通过 **Empty 的递归自我改进方法**形成自己的内容：由模型直接凝练工作描述，或由 Hindsight 等社区项目辅助处理。哲学文章继续作为阅读材料公开。
 
 [个人模型的凝练指引](skills/yinyang/references/formation/person.zh-CN.md#从事件历史哲学与个人材料凝练个人模型)
 展开这些材料怎样成为本人、所需模型伙伴及双方关系的描述，再让共同工作进入现实，
@@ -89,16 +89,15 @@
 
 ## 集合里的 Skill
 
-阴阳区分参考与实践包：**[Full](skills/yinyang/)** 包含文章与图示，仅供查看作者哲学在 Skill 中的静态形式；自己的实践使用 **[Empty](skills/yinyang-empty/)**，
+阴阳公开提供 **[Empty](skills/yinyang-empty/)** 方法包，
 保留反向对齐、角色交叉与阴阳辩证法、六份 formation 指南及实践建议，不含 `docs` 和
-`diagrams`，由使用者与模型共同形成自己的哲学、Personal 与 Situated。两版都不分发私人材料。
+`diagrams`，由使用者与模型共同形成自己的哲学、Personal 与 Situated。公开包提供未填写的起始结构，实际个人材料保留在私人来源。
 
 每个成员维护自己的入口、方法与配套资源。取得想使用的 Skill 的完整目录，
 通过模型实际的 Skill 机制让它读取。
 
 | Skill | 用途 | 包 |
 | --- | --- | --- |
-| [yinyang](skills/yinyang/SKILL.zh-CN.md) | 仅供静态参考：作者的哲学在 Skill 中的表达形式，禁止用于自己的实践。 | [参考说明与哲学资源](skills/yinyang/README.zh-CN.md) |
 | [yinyang-empty](skills/yinyang-empty/SKILL.zh-CN.md) | 保留辩证核心与方法指南，形成自己的哲学、个人材料和实际工作模型。 | [Empty 使用说明](skills/yinyang-empty/README.zh-CN.md) |
 | [random-wheel](skills/random-wheel/SKILL.md) | 把截图或明确给出的选项变成可调速的动画转盘，以等概率随机抽选。 | [完整包](skills/random-wheel/) |
 | [research](skills/research/SKILL.md) | 调查事实、产品行为与方案，把来源、观察、假设和覆盖限制放在同一个可检查的回答中。 | [完整包](skills/research/) |
@@ -122,7 +121,7 @@
 | [network](skills/network/SKILL.md) | 通过本机证据排查 DNS、代理、网站连接和路由问题。 | [完整包](skills/network/) |
 | [clash-auto-switch](skills/clash-auto-switch/SKILL.md) | 维护 Clash 节点选择、地区回退与 DNS/TUN 保护。 | [完整包](skills/clash-auto-switch/) |
 
-实际实践安装 **Empty：`yinyang-empty`**。Full 只保留参考源码与阅读入口。
+实际实践安装 **Empty：`yinyang-empty`**。哲学文章另有阅读入口。
 随后按[实践方法入口](skills/yinyang/references/docs/creation-method.zh-CN.md#choose-2x2)形成自己的六份工作描述。
 个人材料与实际描述保存在自己的私人来源中。
 
@@ -141,7 +140,7 @@
 
 [安装与更新说明](docs/codex.zh-CN.md)
 
-集合中的实践 Skill 可从 **boluopai** 插件市场独立安装；Full 仅保留为静态源码参考，不列入安装目录。把下面的命令交给 Codex，
+集合中的实践 Skill 可从 **boluopai** 插件市场独立安装。把下面的命令交给 Codex，
 即可安装阴阳 Empty，无须手工下载或解压 ZIP：
 
 ```bash

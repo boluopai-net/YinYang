@@ -2,10 +2,9 @@
 
 [简体中文](package.zh-CN.md) · [Package entrance](../README.md)
 
-The collection retains Full at `skills/yinyang/` as a static reference of the website's philosophy in Skill form, not for loading into your own practice. `skills/yinyang-empty/` is Empty, the practice package:
+`skills/yinyang-empty/` is the public Yinyang method package:
 the shared dialectical core, six formation guides, selected suggestions, and
-practical method entrances. Both are complete packages for their stated use.
-Neither public edition includes anyone's private personal accounts. Empty
+practical method entrances. It is a complete package for this purpose and includes no actual personal accounts. Empty
 includes unfilled Personal and Situated starters, for formation in a private copy.
 
 Empty has no `docs/` or `diagrams/` tree. Its `references/formation/` contains the
@@ -38,7 +37,7 @@ Personal's four areas hold readable topic articles, with the source index linkin
 In Codex, select `yinyang-empty@boluopai` through the collection's
 [installation guide](https://github.com/boluopai-net/Yinyang/blob/main/docs/codex.md).
 For a source-based installation, use the complete `skills/yinyang-empty/` directory.
-GitHub's repository ZIP contains both editions and the website source; the entire
+GitHub's repository ZIP contains the philosophical writing source and independent Skills; the entire
 repository is not one installable Skill. The generated `plugins/yinyang-empty/`
 wraps this same Empty package for Codex.
 
@@ -47,21 +46,19 @@ then verify that the current conversation can read the entrypoint and needed
 references. A website link or a downloaded ZIP alone does not establish this.
 If forming a personal version, copy the complete method package to a privately
 maintained source, form the actual material there, and enable that version
-through the client's real discovery route. Avoid competing Full, Empty, and
-personal entrypoints for the same collaboration.
+through the client's real discovery route. Avoid competing template and personal entrypoints for the same collaboration.
 
 ## Update the method without replacing the person
 
-Take updates from `skills/yinyang-empty/`, not from Full. Compare the new method
+Take method updates from `skills/yinyang-empty/`. Compare the new method
 files with the private source, apply the relevant common changes, then verify
 the private consumer. Preserve `references/philosophy/`, `references/personal/`,
 `references/situated/`, their links, and independently authored additions.
 When a common method has also been locally adapted, compare the meanings instead
-of silently overwriting it. Do not run Full's whole-package `sync-common.py`
-against an Empty version; it belongs to Full's different file contract.
+of silently overwriting it. The author's `sync-common.py` maintains selected common resources for the author's private instance; use this package's own files when updating an Empty-based version.
 
 The collection maintainer uses `scripts/build-yinyang-empty.py --apply` to refresh
-the shared guides from Full, rebase their links, and adapt the distribution
+the shared guides from their canonical writing source, rebase their links, and adapt the distribution
 statement to Empty's unfilled six actual starters. Its default mode checks that
 the generated selection is current. Empty's own entrypoint and package guidance
 remain authored at this directory. Plugin generation then packages that exact

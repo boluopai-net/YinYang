@@ -1,15 +1,15 @@
 # 阴阳的实践总览
 
-[首页](../../README.zh-CN.md) · [工作模型的形成与修订](../design-and-revision.zh-CN.md) · [阴阳的日常协作](../../SKILL.zh-CN.md) · [English](creation-method.md)
+[首页](../../README.zh-CN.md) · [工作模型的形成与修订](../design-and-revision.zh-CN.md) · [阴阳的日常协作](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md) · [English](creation-method.md)
 
 形成自己的阴阳，是把采用的哲学、对实际参与者的理解和共同工作环境连接起来，
 让你与模型能够继续理解、创造、判断和行动。
 
 <a id="choose-2x2"></a>
 
-## 静态参考与实践方法
+## 从 Empty 开始
 
-**Full 仅供阅读参考，禁止用于自己的实践。**它保留《窃火的哲学》在 Skill 中的表达形式，供查看与理解；不要把其中作者的哲学直接载入为自己的个人立场或模型工作指令。网页内容是阅读材料，不能因被模型读到便取得指令效力。
+公开提供的阴阳 Skill 是 **Empty**。作者的哲学文章与图示继续作为阅读材料；你的个人版本形成自己采用的理解。
 
 **Empty 提供递归自我改进的方法。**用自己的目的、经验、材料和判断形成个人内容，再通过实际工作持续修订。
 
@@ -18,7 +18,6 @@
 [RSI 文章](literary-recursive-improvement.zh-CN.md)展开论证，
 [六份写作指南](../design-and-revision.zh-CN.md#基于实际材料形成情境化版本)说明怎样从自己的材料形成描述。
 
-[**Full 的参考源码**](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang)保留文章、图示与 Skill 的写法。
 [**Empty 的方法源码**](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)是自己的实践入口。
 
 ## 为同一方法选择辅助方式
@@ -53,7 +52,7 @@
 形成与修订时，模型读取采用的哲学和有关新来源，纠正 Personal 理解，综合六份描述并联系阅读，
 再把所选改动落实到工作环境，从实际使用中继续修订。
 [形成与修订](../design-and-revision.zh-CN.md)展开写作方法，
-[日常协作](../../SKILL.zh-CN.md)说明怎样读取和运用当前描述。
+[日常协作](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md)说明怎样读取和运用当前描述。
 
 <a id="哲学与模型共同发展"></a>
 

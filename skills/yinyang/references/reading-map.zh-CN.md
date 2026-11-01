@@ -12,7 +12,7 @@
 [工作模型的形成与修订](design-and-revision.zh-CN.md)展开解释证据、建立人、伙伴及关系模型的
 共同工作。`references/formation/` 的六份公开指南，分别说明怎样写出取向、人、伙伴、关系、环境与修订；
 `references/situated/` 的私人描述赋予 Skill 情境化实质，`references/personal/` 的证据
-支持它们。公开分发不包含两个私人目录。完整采用时，[主入口](../SKILL.zh-CN.md)
+支持它们。公开分发不包含两个私人目录。完整采用时，[主入口](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md)
 维护参与及初次读取私人索引选定的全部模型正文的要求。[环境写作指南](formation/environment.zh-CN.md)
 把选定理解落实到指令、工具和环境，再从效果中学习。这些职责相连，不形成必经顺序。
 借用支持、贡献或探究的一项思路，不要求形成索引选定的完整模型，也不要求接受作者的培养项目。

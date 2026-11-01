@@ -1,66 +1,27 @@
-# yinyang
+# Yinyang philosophy and shared methods
 
-**Explore a worked philosophy, borrow methods for understanding and realization,
-or form a grounded Yinyang collaboration in your own environment.**
+[简体中文](README.zh-CN.md) · [Philosophy](https://boluopai.net/philosophy/en/) · [Empty method package](../yinyang-empty/README.md)
 
-[简体中文](README.zh-CN.md) · [Model entrypoint](SKILL.md) ·
-[Documents & diagrams](https://boluopai.net/repositories/prometheus/en/)
+This directory maintains the public essays, diagrams, and shared formation guides.
+Yinyang's public Skill is **Empty**, where a person and model form their own
+philosophy, Personal material, and six working accounts. The author's actual
+entrypoint and personal models are maintained privately. No Full package is offered.
 
-## What this package supplies
+The essays develop a philosophy for personal recursive self-improvement:
+understanding, judgment, creation, action, and the methods producing later
+improvements. Read the arguments, consider their grounds, and select what helps
+your own questions. The [practice overview](references/docs/creation-method.md)
+connects these readings with the Empty method.
 
-Yinyang develops a philosophy for helping a person pursue recursive
-self-improvement: improving understanding, judgment, creation, and action,
-including how later improvements are produced. Its views and methods organize
-cooperation with models and a personal environment. The
-[RSI essay](references/docs/literary-recursive-improvement.md) develops this
-relationship between readable description, capable interpretation, and practice.
-Select useful ideas, consider their grounds, and develop practical arrangements
-with the model. Writing a personal philosophy or public essay is available when
-it interests you; it is not a condition of using the package.
-The [use statement](https://github.com/boluopai-net/Yinyang/blob/main/README.md#intended-use-and-mental-health)
-distinguishes this work from psychological self-help, assessment, and treatment.
+<a id="use-and-understand-yinyang"></a>
 
-The author's chosen purpose is **reverse alignment**: the person develops understanding,
-generation, and action through encounters with generative intelligence. The
-agent's adaptation to the person supports that development. Both participant
-models matter: whose purposes are being served, and what this counterpart can
-understand, contribute, question, and carry. Chosen roles do not exhaust either
-participant or establish identical mechanisms and inner experience.
-
-Yinyang is a Skill carrying a **Meta-Harness for person and model together**.
-The model's Harness and the person's environment are coupled: the same
-arrangement organizes model work and human participation, serving as both
-participants' Harness. Yinyang supplies the philosophical and relational
-understanding through which they form and revise that arrangement, including
-prompts, Skills, roles, tools, memory, and interfaces. Memory can preserve evidence; the models organize its relations
-and possible consequences. Specialist Skills retain their own methods. The
-[The trinity of philosophy, psychology, and engineering](references/docs/local-source-and-website.md) connects philosophy,
-psychology, and engineering within one physical reality while distinguishing
-their explanatory and practical work.
-
-This is a developed example, including its own literary form. You can examine its views,
-combine resources, or write something with different concepts, images, and
-organization. [From adoption and combination to creating your own work](references/docs/example-and-commons.md)
-explains that invitation. Maintaining this implementation and authoring a
-different work are different choices; its fixed file paths apply to the former.
-
-This directory is the complete Yinyang member of the **Yinyang**
-collection. Its essays and diagrams are supporting resources, not separate
-Skills. Other collection members retain their independent purposes and methods.
-
-## Use and understand Yinyang
-
-**Full is a static reference, not a package to load into your own practice.** It shows how the philosophy on the website is expressed and organized within a Skill: its entrypoint, philosophical resources, formation guides, and relations among them. Read and compare that form; use Empty for your own practice, as explained in the [method overview](references/docs/creation-method.md#choose-2x2).
-
-For your own practice, use [Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty). You and the model develop your philosophy, Personal material, and six actual working accounts from your purposes, experience, and environment. Choose direct model condensation or a configured aid such as Hindsight. The author's views remain available as references to examine and select while forming your own account.
+## Reading and practice
 
 | Purpose | Entrance |
 | --- | --- |
-| Inspect the philosophy's form inside a Skill | [Full entrypoint as reference](SKILL.md) and the [reading map](references/reading-map.md). |
-| Begin your own practice | [Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) and the [practice overview](references/docs/creation-method.md). |
-| Understand the formation method | [Forming and revising working models](references/design-and-revision.md), leading to the six writing guides. |
-
-The [package guide](references/docs/skill-package.md) documents the author's maintained source and private-instance relationship. Full is a reference snapshot of that authored form; the author's actual private instance has its own personal material and continuing revision. Your own practice takes its working source from Empty and maintains independently authored content there.
+| Read the philosophical account | [Reading map](references/reading-map.md) and the essays below. |
+| Form your own practice | [Empty](../yinyang-empty/README.md) and the [practice overview](references/docs/creation-method.md). |
+| Understand the shared formation method | [Forming and revising working models](references/design-and-revision.md). |
 
 ## How the texts relate
 

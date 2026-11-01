@@ -1,51 +1,24 @@
-# yinyang
+# Yinyang 哲学与共同方法
 
-**阅读已经展开的哲学，取用理解与实现的方法，或在自己的环境中形成有根据的阴阳协作。**
+[English](README.md) · [哲学文章](https://boluopai.net/philosophy/) · [Empty 方法包](../yinyang-empty/README.zh-CN.md)
 
-[English](README.md) · [阴阳方法](SKILL.zh-CN.md) · [模型执行入口](SKILL.md) ·
-[文档与图示](https://boluopai.net/repositories/prometheus/)
+本目录维护公开文章、图示与共同形成指南。公开提供的阴阳 Skill 是 **Empty**，
+由使用者与模型形成自己的哲学、Personal 材料和六份实际工作描述。
+作者实际使用的入口与个人模型保留在私人来源，不再提供 Full 包。
 
-## 本包提供什么
+这些文章展开辅助个人递归自改进的哲学：理解、判断、创造、行动，以及后来产生改进的方法。
+阅读论证、考察根据，选择对自己问题有用的理解。
+[实践总览](references/docs/creation-method.zh-CN.md)把阅读与 Empty 方法相连。
 
-阴阳展开辅助个人进行递归自我改进的哲学：改善理解、判断、创造与行动，也改善后来产生这些
-改进的方法。它提供可选取的观点与方法，组织人与模型的协作和个人环境。
-[递归改进一章](references/docs/literary-recursive-improvement.zh-CN.md)展开可读描述、
-有能力的解释与实际实践之间的联系。
-挑选有用的思想、考察其根据，再与模型共同发展实际安排。对个人哲学或公开写作有兴趣时，
-可以进一步创作；这不是使用本包的前提。[用途说明](https://github.com/boluopai-net/Yinyang/blob/main/README.zh-CN.md#用途与心理健康说明)
-区分这些工作与心理自助、评估和治疗。
+<a id="use-and-understand-yinyang"></a>
 
-作者选择的目的是**反向对齐**：人在与生成智能的相遇中发展理解、生成和行动。agent 对人的
-适配支持这种发展。双方模型都重要：服务谁的什么目的，以及这个伙伴能够理解、贡献、
-质疑和承担什么。选定角色不穷尽任一参与者，也不确立相同的机制和内在体验。
-
-阴阳是一项承载**人与模型双方的元 Harness（Meta-Harness）** 的 Skill。模型的 Harness 与人的环境相互耦合，
-同一套安排既组织模型工作，也组织人的参与，同时是双方的 Harness。阴阳提供双方据以形成和修订
-这种安排的哲学与关系理解，包括提示词、Skills、角色、工具、记忆和界面。记忆可以保留证据，模型组织其关系与可能后果；专门的 Skills
-保有自己的方法。[哲学、心理与工程的三位一体](references/docs/local-source-and-website.zh-CN.md)把哲学、
-心理与工程连接在同一物理现实之中，同时区分各自的解释与实践工作。
-
-它连同自己的文学形式，是一项已经展开的范例。你可以考察观点、组合参考资源，也可以创作
-概念、意象与组织方式都不同的作品。
-[从采用、组合到自己的创作](references/docs/example-and-commons.zh-CN.md)说明这份邀请。
-维护这套实现与创作另一部作品，是不同选择；固定文件路径适用于前者。
-
-本目录是 **Yinyang** 集合中完整的阴阳成员。文章和图示是配套资源，
-不是独立 Skills；集合的其他成员保有各自的目的和方法。
-
-## 怎样使用并理解阴阳
-
-**Full 仅供静态参考，禁止用于自己的实践。**它呈现网页中的哲学在 Skill 内怎样表达和组织：入口、哲学资源、形成指南及其联系。可以阅读和比较这种形式；自己的实践使用[方法说明](references/docs/creation-method.zh-CN.md#choose-2x2)中的 Empty。
-
-自己的实践使用 [Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)。由你与模型依据自己的目的、经验和环境，形成哲学、Personal 材料与六份实际工作描述，再选择模型直接凝练，或配置 Hindsight 等项目辅助凝练。形成自己的理解时，作者的观点仍可作为阅读、考察和选择的参考。
+## 阅读与实践
 
 | 目的 | 入口 |
 | --- | --- |
-| 查看哲学在 Skill 中的形式 | [Full 入口参考](SKILL.zh-CN.md)与[阅读地图](references/reading-map.zh-CN.md)。 |
-| 开始自己的实践 | [Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)与[实践总览](references/docs/creation-method.zh-CN.md)。 |
-| 理解形成方法 | [工作模型的形成与修订](references/design-and-revision.zh-CN.md)，通向六份写作指南。 |
-
-[包结构说明](references/docs/skill-package.zh-CN.md)记录作者维护源与私人实例的关系。Full 是这一已写成形式的参考快照，作者实际使用的私人实例另有个人材料和持续修订。自己的实践从 Empty 取得工作源，并在自己的来源中维护独立内容。
+| 阅读哲学论述 | [阅读地图](references/reading-map.zh-CN.md)与下列文章。 |
+| 形成自己的实践 | [Empty](../yinyang-empty/README.zh-CN.md)与[实践总览](references/docs/creation-method.zh-CN.md)。 |
+| 理解共同形成方法 | [工作模型的形成与修订](references/design-and-revision.zh-CN.md)。 |
 
 ## 这些文本是什么关系
 

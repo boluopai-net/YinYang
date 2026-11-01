@@ -16,7 +16,7 @@ codex plugin marketplace add boluopai-net/Yinyang
 codex plugin add yinyang-empty@boluopai
 ```
 
-Empty retains the dialectical core, six formation guides, Core views as suggestions, and practical collaboration guidance. Develop your own philosophy and personal accounts there. Full is a static reference showing how the website's philosophy is expressed in a Skill; it is not an installable practice package.
+Empty retains the dialectical core, six formation guides, Core views as suggestions, and practical collaboration guidance. Develop your own philosophy and personal accounts there. The author's philosophical essays remain optional website reading.
 
 Replace `yinyang-empty` with any name in the [catalog](../README.md#skills-in-the-collection).
 For example, `codex plugin add research@boluopai` installs Research.
@@ -61,7 +61,7 @@ explicitly bind all six bodies through a private index. Both implementation rout
 
 Update Empty's public methods from `skills/yinyang-empty/`, preserving your own
 `references/philosophy/`, `references/personal/`, `references/situated/`, and other
-independently authored content. Do not update Empty with Full's whole-package
+independently authored content. Do not update Empty with the author's common-resource
 projector. Your philosophy can also remain at an existing owner linked by the
 personal version. See [Empty files and updates](../skills/yinyang-empty/references/package.md).
 

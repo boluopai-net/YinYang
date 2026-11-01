@@ -2,9 +2,8 @@
 
 [English](package.md) · [本包入口](../README.zh-CN.md)
 
-集合保留 `skills/yinyang/`（Full）作为网页哲学在 Skill 中的静态参考形式，禁止直接用于自己的实践，不提供安装入口。
-`skills/yinyang-empty/` 是 Empty，保留共同的辩证核心、六份 formation 指南、选定的建议
-与实践方法入口。两版各自是用途完整的包，都不含任何人的私人实际描述。
+`skills/yinyang-empty/` 是公开提供的阴阳方法包，保留共同的辩证核心、六份 formation 指南、选定的建议
+与实践方法入口。它是用途完整的包，不含任何人的私人实际描述。
 Empty 提供未填写的 Personal 与 Situated 起始结构，供在私人副本中形成内容。
 
 Empty 没有 `docs/` 或 `diagrams/`。`references/formation/` 中是六份指南及各自的中英文；
@@ -33,23 +32,23 @@ Personal 的四个分区保存本人可读的主题文章，来源索引连接�
 
 Codex 可按[安装说明](https://github.com/boluopai-net/Yinyang/blob/main/docs/codex.zh-CN.md)
 选择 `yinyang-empty@boluopai`。按源码安装时，取完整的 `skills/yinyang-empty/` 目录。
-GitHub 仓库 ZIP 同时含两版与网站源码；整个仓库不是一个 Skill。
+GitHub 仓库 ZIP 包含哲学写作源与各个独立 Skill；整个仓库不是一个 Skill。
 生成的 `plugins/yinyang-empty/` 是同一 Empty 包的 Codex 封装。
 
 Web 或其他客户端使用其实际支持的 Skill 或文件机制，并在当前对话中核实入口和必要参考
 可读取。网页链接或下载了 ZIP 本身不证明已经启用。形成个人版时，把完整方法包复制到
 自己维护的私人来源，在那里形成实际内容，再通过客户端真正的发现机制启用。
-同一份协作避免同时启用相互竞争的 Full、Empty 和个人入口。
+同一份协作避免同时启用相互竞争的模板与个人入口。
 
 ## 更新方法，保留个人内容
 
-从 `skills/yinyang-empty/` 取得更新，不从 Full 更新。与私人来源中的方法文件比较，
+从 `skills/yinyang-empty/` 取得方法更新。与私人来源中的方法文件比较，
 应用有关公共改动，再核验实际使用处。保留 `references/philosophy/`、
 `references/personal/`、`references/situated/`、其中的链接及自己另写的内容。
 公共方法也经过私人改写时，比较含义后再整合，不静默覆盖。
-不要对 Empty 运行 Full 的整包 `sync-common.py`，它属于 Full 的另一份文件约定。
+作者的 `sync-common.py` 维护作者私人实例的公共资源；更新从 Empty 形成的版本时，使用本包自己的文件。
 
-集合维护者用 `scripts/build-yinyang-empty.py --apply` 从 Full 更新共用指南、调整链接，并把
+集合维护者用 `scripts/build-yinyang-empty.py --apply` 从共同写作源更新共用指南、调整链接，并把
 分发说明改为 Empty 的空白起始结构；
 不加参数时检查这份生成内容是否一致。Empty 自己的入口与包说明仍在本目录维护。
 随后插件生成器封装这个准确目录。发布操作不读取或更新使用者的个人资料。

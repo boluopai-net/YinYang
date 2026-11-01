@@ -7,7 +7,7 @@ not extend one package's permission to another.
 
 | Material | Current terms |
 | --- | --- |
-| Original Yinyang Full and Empty material, including text, instructions, code, and diagrams | [Yinyang Personal and Internal Use License 1.0](skills/yinyang/LICENSE) |
+| Original Yinyang essays, shared methods, and Empty material, including text, instructions, code, and diagrams | [Yinyang Personal and Internal Use License 1.0](skills/yinyang/LICENSE) |
 | Other Skill packages and their generated plugins | Their package-local MIT licenses |
 | Original collection infrastructure outside Yinyang | [MIT](LICENSE-MIT), unless separately designated |
 | Third-party content and separately identified works | Their own rights and notices |
@@ -43,7 +43,7 @@ history replacement, or removing downloads does not revoke those rights.
 
 ## 中文摘要
 
-阴阳 Full／Empty 及其原创文章、图示与 Skill 采用自定义的
+阴阳原创文章、图示、共同方法与 Empty Skill 采用自定义的
 「Yinyang Personal and Internal Use License 1.0」。允许下载、私用、私人修改，
 以及辅助自己的有偿工作；允许发表和出售不复制受保护内容的独立成果。
 未经另行许可，不得传播原版或修改版副本、转载、镜像，或把它作为供他人使用的

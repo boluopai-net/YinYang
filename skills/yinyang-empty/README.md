@@ -2,15 +2,15 @@
 
 **Keep reverse alignment, Yinyang dialectics, and the formation methods; develop your own philosophy and personal version.**
 
-[简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Full static reference](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang)
+[简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Philosophy](https://boluopai.net/philosophy/en/)
 
 Empty includes the six formation guides, Core views as attributed suggestions,
 the practice overview, formation and revision, daily collaboration, and guidance
 for organizing Personal. It does not contain `docs/` or `diagrams/`. The author's
-developed essays and diagrams remain in Full and on the website for optional reading.
+developed essays and diagrams remain on the website for optional reading.
 
 Reverse alignment and crossed participation with dialectical return are shared
-core commitments of these editions. Other suggestions do not become your adopted
+core commitments of this method. Other suggestions do not become your adopted
 philosophy merely because you installed the package. Your actual philosophy,
 personal material, and question-defined working models are formed with you, from your
 purposes, experience, sources, and environment. The model can carry the writing
@@ -25,14 +25,14 @@ and implementation; you need not do it unaided.
 | Organize private evidence and understanding | [Organizing Personal](references/personal-material.md) |
 | Install and update without replacing your own content | [Files and updates](references/package.md) |
 
-This package is **Empty**, the recursive self-improvement method for your own practice. The [method overview](references/creation-method.md#choose-2x2) explains direct and assisted condensation; Full is a philosophical reading reference and is prohibited for your own practice.
+This package is **Empty**, the recursive self-improvement method for your own practice. The [method overview](references/creation-method.md#choose-2x2) explains direct and assisted condensation. The author's essays remain optional reading.
 Its six `status: unfilled` starters, four empty Personal areas, and source index provide places
 for you and the model to form your content; see [Files and updates](references/package.md).
 
 The [Codex installation guide](https://github.com/boluopai-net/Yinyang/blob/main/docs/codex.md)
 offers `yinyang-empty@boluopai`, the method package for your own practice.
 Keep personal additions outside replaceable plugin caches. Public method
-updates retain your own content; they do not install Full's philosophical corpus.
+updates retain your own content; the author's philosophical corpus remains separate reading.
 
 This is an edition of Yinyang by boluopai, adapted by selecting its method
 resources and retaining developed essays as optional external reading.

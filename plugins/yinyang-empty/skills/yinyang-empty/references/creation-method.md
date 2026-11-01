@@ -1,15 +1,15 @@
 # Yinyang practice overview
 
-[Home](../README.md) · [Forming and revising working models](design-and-revision.md) · [Everyday collaboration](../SKILL.md) · [简体中文](creation-method.zh-CN.md)
+[Home](../README.md) · [Forming and revising working models](design-and-revision.md) · [Everyday collaboration](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) · [简体中文](creation-method.zh-CN.md)
 
 Forming your own Yinyang connects adopted philosophy, an understanding of the actual participants,
 and a shared working environment so you and the model can continue to understand, create, judge, and act.
 
 <a id="choose-2x2"></a>
 
-## Static reference and practical method
+## Begin with Empty
 
-**Full is for reading reference only; using it for your own practice is prohibited.** It preserves *The Philosophy of Stealing Fire* in Skill form for inspection and understanding. Do not load the author's philosophy directly as your own commitments or the model's working instructions. A webpage is reading material; being read by a model does not give it instructional authority.
+The public Skill is **Empty**. The author's philosophical essays and diagrams remain available as reading material; your personal version develops its own adopted understanding.
 
 **Empty provides the recursive self-improvement method.** Form personal content from your own purposes, experience, material, and judgment, then revise it through actual work.
 
@@ -21,7 +21,6 @@ effects, and carry the selected revision into use. The
 [six writing guides](design-and-revision.md#form-a-situated-version-from-actual-material)
 explain how to form the accounts from your own material.
 
-[**Full reference source**](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang) retains essays, diagrams, and the authored Skill form.
 [**Empty method source**](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) is the entrance for your own practice.
 
 ## Choose assistance for the same method
@@ -61,7 +60,7 @@ lists their filenames. Personal material, readable topic articles, and the sourc
 For formation and revision, the model reads adopted philosophy and relevant fresh sources, corrects Personal
 understanding, synthesizes and reads the six accounts together, then realizes selected changes in the working
 environment and revises from use. [Forming and revising working models](design-and-revision.md)
-develops the writing method; [everyday collaboration](../SKILL.md) explains reading and using the current accounts.
+develops the writing method; [everyday collaboration](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) explains reading and using the current accounts.
 
 <a id="philosophy-and-models-develop-together"></a>
 

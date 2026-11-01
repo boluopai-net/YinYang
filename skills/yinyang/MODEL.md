@@ -1,4 +1,4 @@
-# Maintaining the Yinyang formation Skill
+# Maintaining Yinyang philosophy and shared methods
 
 Yinyang is a philosophical and literary example for developing with generative
 intelligence. It connects a person's understanding of themselves, a model
@@ -9,14 +9,14 @@ all its philosophical claims.
 The [core views](references/docs/core-views.md) own the numbered propositions.
 The essays develop their arguments, images, examples, and sources.
 
-[SKILL.md](SKILL.md) owns ordinary invocation and connects ordinary use of the selected models. [Forming and revising working models](references/design-and-revision.md)
+The public [Empty entrypoint](../yinyang-empty/SKILL.md) owns its invocation; actual private instances maintain their own entrypoints. [Forming and revising working models](references/design-and-revision.md)
 explains their relationship; writing directions belong to the six public how-to
 guides, used to specify question-defined private models. Use the [reading map](references/reading-map.md) to locate
 the argument relevant to a change.
 
 ## Source and consumer roles
 
-This package is one member of Yinyang. Other Skills retain their
+This directory owns the collection's philosophy and shared formation methods. Other Skills retain their
 own purposes and methods. Yinyang articulates the author's worldview and life
 direction, develops situated understanding of the participants and their
 relationship, and supplies methods for forming accounts and adapting environments.
@@ -51,8 +51,7 @@ simple standalone route uses direct language-model synthesis into the original
 six `references/situated/` files and private Git/GitHub persistence. Hindsight is
 an optional environment-specific native implementation of the same method,
 projected to those six files or an explicit all-six private index binding.
-Full is a static reference; your own practice starts from Empty in either route; do not duplicate the
-philosophy, guides or entire package for these tool choices.
+The public Skill is Empty; the author's actual entrypoint stays private. Both tool routes use the same shared methods.
 
 Preserve the revision dependency: adopted philosophy, relevant new attributable
 sources including completed assessments where relevant, refreshed/corrected
@@ -73,7 +72,7 @@ checked successors preserve their full functions and coherent relations.
 
 Personal retains readable topic articles in its four subject groups and reachable
 original sources. Direct editing and organization remain available. Common
-projection protects both private trees and never changes bank state or GitHub
+projection protects private entrypoints and both private trees and never changes bank state or GitHub
 visibility. Public packages contain no private portraits. Preserve philosophical
 substance and six complete functional questions while adapting their tools.
 

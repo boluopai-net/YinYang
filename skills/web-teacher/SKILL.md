@@ -16,7 +16,7 @@ Either teacher may explain or explore within the current
 request and its actual capabilities. References below expand only the branch the current work
 needs. Reuse complete current reads instead of reopening unchanged instructions.
 
-[Yinyang](../yinyang/SKILL.md) owns the counterpart in direct user conversation under its main-model
+[Yinyang](../yinyang-empty/SKILL.md) owns the counterpart in direct user conversation under its main-model
 reading scope. This Skill adds source-grounded teaching and Course methods.
 
 Reading is an encounter with a terrain that neither a map nor its guide exhausts.

@@ -7,7 +7,6 @@ must be migrated by their owner before common projection.
 """
 
 import argparse
-import re
 import shutil
 import stat
 import sys
@@ -21,40 +20,13 @@ LEGACY_ACCOUNTS = {
     "references/usage.md",
 }
 PRIVATE_TREES = {"references/situated", "references/personal"}
-ORIGIN_PREFIX = "<用户自制> ".encode()
-
-
-def projected_bytes(relative, original, destination):
-    """Retain a situated discovery label while updating all canonical wording."""
-    content = original.read_bytes()
-    if relative != "SKILL.md" or not destination.is_file():
-        return content
-    # This package uses a single-line description scalar. Restrict inspection
-    # to frontmatter, leaving every method and other metadata byte canonical.
-    field = rb"(?m)^description:[ \t]*[\"']?"
-    target_sections = destination.read_bytes().split(b"---", 2)
-    if len(target_sections) != 3 or target_sections[0].strip():
-        raise ValueError("Missing target entrypoint frontmatter")
-    target_header = target_sections[1]
-    target_field = re.search(field, target_header)
-    if not target_field or not target_header[target_field.end() :].startswith(ORIGIN_PREFIX):
-        return content
-    sections = content.split(b"---", 2)
-    if len(sections) != 3 or sections[0].strip():
-        raise ValueError("Missing source entrypoint frontmatter")
-    source_field = re.search(field, sections[1])
-    if not source_field or sections[1][source_field.end() :].startswith(
-        (b"|", b">", b"&", b"*", b"\n")
-    ):
-        raise ValueError("Origin prefix requires a single-line source description")
-    start = source_field.end()
-    if not sections[1][start:].startswith(ORIGIN_PREFIX):
-        sections[1] = sections[1][:start] + ORIGIN_PREFIX + sections[1][start:]
-    return b"---".join(sections)
+PRIVATE_ENTRYPOINTS = {"SKILL.md", "SKILL.zh-CN.md", "README.md", "README.zh-CN.md", "MODEL.md", "AGENTS.md"}
 
 
 def situated(path):
-    return any(path == tree or path.startswith(tree + "/") for tree in PRIVATE_TREES)
+    return path in PRIVATE_ENTRYPOINTS or any(
+        path == tree or path.startswith(tree + "/") for tree in PRIVATE_TREES
+    )
 
 
 def common_files(root):
@@ -79,10 +51,11 @@ def common_files(root):
     return found
 
 
-def package(value):
+def package(value, *, source=False):
     path = Path(value).expanduser().resolve(strict=True)
-    if not path.is_dir() or not (path / "SKILL.md").is_file():
-        raise ValueError(f"Not a Skill package: {path}")
+    required = "references/design-and-revision.md" if source else "SKILL.md"
+    if not path.is_dir() or not (path / required).is_file():
+        raise ValueError(f"Missing required source or private entrypoint: {path / required}")
     legacy = sorted(
         relative
         for relative in LEGACY_ACCOUNTS
@@ -101,11 +74,11 @@ def package(value):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", required=True, help="Canonical shared Skill directory")
+    parser.add_argument("--source", required=True, help="Canonical philosophy and shared-method source")
     parser.add_argument("--target", required=True, help="Situated source Skill directory")
     parser.add_argument("--apply", action="store_true", help="Copy changed common files")
     args = parser.parse_args()
-    source, target = package(args.source), package(args.target)
+    source, target = package(args.source, source=True), package(args.target)
     if source == target or source in target.parents or target in source.parents:
         raise ValueError("Source and target must be separate, non-nested packages")
     originals, current = common_files(source), common_files(target)
@@ -125,7 +98,7 @@ def main():
                 break
             if parent.exists() and not parent.is_dir():
                 raise ValueError(f"Target parent is not a directory: {parent.relative_to(target)}")
-        expected = projected_bytes(relative, original, destination)
+        expected = original.read_bytes()
         if (
             relative not in current
             or expected != destination.read_bytes()

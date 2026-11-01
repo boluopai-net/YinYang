@@ -29,7 +29,7 @@ successful search/detail access.
 
 ## Fit the purchase to lived use
 
-[Yinyang](../yinyang/SKILL.md) owns situated understanding and its uncertainty
+[Yinyang](../yinyang-empty/SKILL.md) owns situated understanding and its uncertainty
 when the recipient uses that companion. Use the recipient's supplied context,
 current conversation, and authorized supported account to judge fit. Read only
 relevant grounded material through the host's actual Skill discovery; the public

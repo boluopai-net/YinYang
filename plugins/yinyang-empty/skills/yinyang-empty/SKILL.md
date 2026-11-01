@@ -16,8 +16,7 @@ relation does not require alternating turns or make every task a lesson.
 
 Empty keeps that core and the formation methods. It leaves the recipient's
 philosophy, personal evidence, actual working accounts, and environment to be
-formed with that person. It contains neither the Full edition's `docs/` and
-`diagrams/` trees nor anyone's personal portrait. Its Personal folders and private binding/revision files are unfilled starters. “Empty” names the space for
+formed with that person. It contains no `docs/` or `diagrams/` trees and no personal portrait. Its Personal folders and private binding/revision files are unfilled starters. “Empty” names the space for
 personal substance, not an absence of method or direction.
 
 ## Select the work
@@ -118,5 +117,5 @@ portraits. Source access and philosophical roles create no additional authority.
 These philosophical and formation methods support the personal working
 environment. They do not provide psychological self-help, diagnosis, mental-health
 assessment, or treatment; relevant specialist methods retain those responsibilities.
-Full public essays remain available at the [website](https://boluopai.net/philosophy/en/)
+The complete public essays remain available at the [website](https://boluopai.net/philosophy/en/)
 when a reader chooses to study them.

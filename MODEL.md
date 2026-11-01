@@ -31,28 +31,26 @@ author-created Skills, followed by the accurate English discovery description.
 The website renders that source description as readable text, including its
 literal angle brackets. Names and descriptions have separate display roles.
 
-## Yinyang editions
+## Public method and private instances
 
-`skills/yinyang/` is Full: a static reference showing the website philosophy in Skill form, including essays and diagrams. It is not offered for loading into your own practice.
+`skills/yinyang/` retains canonical essays, diagrams and shared method sources at their established paths. It has no public Skill entrypoint and is not a distributed Full package. The author's actual entrypoint and personal models stay at their private owner.
 `skills/yinyang-empty/` is the Empty edition: reverse alignment, crossed roles and
 dialectical return, six formation guides, Core views as attributed suggestions,
 practice overview, formation/revision, daily collaboration, and Personal guidance.
 Empty contains no `docs/` or `diagrams/`. Recipients develop their own philosophy,
-Personal material, and six complete working accounts with their model; neither edition
-ships private substance. Empty supplies unfilled Personal and Situated starters,
+Personal material, and six complete working accounts with their model; the public package ships no private substance. Empty supplies unfilled Personal and Situated starters,
 with four empty Personal areas plus six actual starters marked `status: unfilled`;
 these are templates rather than actual accounts. The simple route retains the
 six original actual files, direct model synthesis and private Git/GitHub
 persistence, with no Hindsight installation requirement. Optional native
 Hindsight configuration implements the same six full questions, revision steps
 and whole-six coherence, projected to those paths or an explicit all-six binding.
-Both practice routes start from Empty; Full remains a reference. Keep one shared
-philosophy/method source rather than separate full packages for the tool routes.
+Both practice routes start from Empty. Keep one shared philosophy/method source for those tools.
 
-Shared method content remains authored in Full. `scripts/build-yinyang-empty.py`
+Shared method content remains authored under `skills/yinyang/references/`. `scripts/build-yinyang-empty.py`
 projects its declared selection into Empty, relocating the selected guides and
 converting links to omitted essays into optional public reading links. It adapts
-the shared guide's Full-specific distribution sentence to Empty's unfilled starters.
+the shared source's distribution sentence to Empty's unfilled starters.
 Empty's
 entrypoint, README editions, and package guidance are authored in its own tree.
 Do not edit generated Empty references independently. `build-plugins.py` invokes
@@ -60,7 +58,7 @@ the selection builder in the same check/apply mode before packaging Empty.
 Only `yinyang-empty` is an installable Yinyang plugin, under Yinyang Personal and Internal Use License 1.0. Recipient updates use the chosen edition, preserving their
 private philosophy, Personal, Situated, and independently authored additions.
 
-[Yinyang's MODEL.md](skills/yinyang/MODEL.md) owns interpretation of that Skill's
+[Yinyang's MODEL.md](skills/yinyang/MODEL.md) owns interpretation of the shared
 philosophical claims, formation method, reader editions, and supporting resources.
 Its documents and diagrams live inside `skills/yinyang/references/`. Other
 members keep their own instructions and resources. Do not import another
@@ -114,7 +112,7 @@ submission uses a ZIP of the same generated plugin; it is a publisher artifact,
 not a website download service. Keep private personal adaptations outside plugin
 caches and never include them in distribution.
 
-Yinyang Full and Empty original material uses the Yinyang Personal and Internal
+Yinyang essays, shared methods, and Empty original material uses the Yinyang Personal and Internal
 Use License 1.0. It permits downloading, private use and modification, and
 assistance with paid work. Redistribution and provision as a product or service
 for others require separate permission, subject to its platform and legal

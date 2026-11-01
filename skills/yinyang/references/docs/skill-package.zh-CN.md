@@ -1,21 +1,14 @@
-# 阴阳的文件与更新约定
+# 阴阳的来源与私人更新
 
-本页说明作者维护源及私人实例的文件关系。公开 Full 仅供静态参考，禁止直接用于自己的实践；自己的实践入口是 [Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)，按其包约定形成和更新自己的版本。
+本页说明作者公共写作源与私人实例的关系。公开提供的 Skill 是
+[Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)，
+使用者的安装与更新由 Empty 自己的包说明负责。
 
-[首页](../../README.zh-CN.md) · [阴阳方法](../../SKILL.zh-CN.md) · [English](skill-package.md)
+[首页](../../README.zh-CN.md) · [English](skill-package.md)
 
-本说明维护这套阴阳实现的文件与更新约定。集合名为 **Yinyang**，
-其中完整的阴阳成员位于 `skills/yinyang/`。`references/docs/` 与
-`references/diagrams/` 是配套资源，不是独立 Skills。
-从公开仓库取得完整目录，通过实际使用环境的 Skill 机制提供给模型。
-网站提供阅读；克隆仓库和 GitHub 原生 ZIP 保留完整源内容。
-
-阴阳是一项已经展开的哲学与形成方法。读者可以采用、组合选定资源，也可以创作不同作品。
-[从采用、组合到自己的创作](example-and-commons.zh-CN.md)展开这份邀请。
-哲学家的思想可以支持框架，不能替代实际用户的描述。本说明的六问题、双路线与公共更新约定
-适用于完整采用持续维护的 Skill；阅读哲学或取用某项方法，本身不等于采用这份约定，
-也不要求开展个人哲学项目。完整采用也不要求另写原创文章：按问题形成的模型说明使用中
-采纳的立场与安排，可以选择性借用既有思想。
+现有 `skills/yinyang/` 路径维护文章、图示与共同形成方法。
+实际入口与个人模型保留在各自私人来源。读者可以阅读哲学，或从 Empty
+形成自己的实践；这个写作源目录不再作为 Full Skill 分发。
 
 ## 公共内容与情境化内容
 
@@ -35,7 +28,7 @@
 | 实际处境中的修订方法 | `references/situated/revision.md` |
 
 日常完整读取全部六份实际描述。通过实际账号与发布维护者，将需要持久保存的私人源放在 Git 与私人 GitHub 仓库，
-核实私有范围、提交内容与读者取得。原件保有维护者，秘密不进入普通仓库文件。公开 Full 不提供私人描述或占位画像。
+核实私有范围、提交内容与读者取得。原件保有维护者，秘密不进入普通仓库文件。公共写作源不包含实际私人描述。
 
 复杂版将核对后的正文投影到同样六路径，或用私人 `references/situated/index.md`
 绑定六个问题、原生 ID 与完整正文。配置见 [Hindsight 指引](../hindsight.zh-CN.md)。
@@ -68,36 +61,23 @@ Philosophy 保有写作来源。Personal 在原有四个主题组内保留可读
 [心理页](psychological-support.zh-CN.md)说明。这个目录和所有填写后的记录保持私有；
 分发包只提供组织方法，不带入别人的记录或占位结果。
 
-## 投影公共变更
+## 投影公共资源到作者的私人实例
 
-`scripts/sync-common.py` 默认检查公共源内容的投影。`--apply` 把公共文件投影到目标，
-保留两个私人目录中的一切，包括额外文件与链接，不遍历或检查其内容。它不推断一个人、不导出私人文件，
-也不发布到运行环境。
-
-新的个人版从完整共享副本开始，再形成私人描述。用明确包目录比较：
+`scripts/sync-common.py` 比较公共写作源与已有私人 Skill；加上 `--apply`
+复制公共资源，保留私人入口、README 阅读版、MODEL 与 AGENTS 文件，
+以及 `references/personal/`、`references/situated/` 两棵私人目录。
 
 ```bash
 python3 /path/to/shared/yinyang/scripts/sync-common.py \
-  --source /path/to/shared/yinyang --target /path/to/situated/yinyang
+  --source /path/to/shared/yinyang --target /path/to/private/yinyang
 ```
 
-加上 `--apply` 复制变化，再运行比较。目标中未对应文件和公共路径符号链接会阻止复制；
-检查归属，不静默删除。既有本地或私人 Web 维护者安装和发布投影源，再回读实际使用处。
+源以形成方法识别，目标以实际 `SKILL.md` 识别。投影器不检查私人目录、
+不替新人形成模型，也不发布运行时。公共路径出现多余文件或符号链接时，
+由维护者检查归属；已有本地与私人云端发布者交付核对后的私人源，并读回实际消费者。
 
-旧包在 `references/{encounter,models,relationship,usage,sources}.md` 混合公开指引与私人
-内容。任一包仍有这些路径时，投影器在改变文件前拒绝操作。维护者先按实际含义迁入六份实际描述与私人证据索引，或明确的六问题原生绑定，保存独有支撑，再退役旧路径。旧相遇可能同时包含取向与关系，旧关系
-可能同时包含伙伴与共同活动；机械改名不能完成这种语义迁移。私人
-`references/personal/README.md` 中有用的内容保留在适当维护者处；整个私人目录受保护。
-
-公共内容的一致性保留一项接收方本地的发现标记例外：若目标 `SKILL.md` 的单行
-`description` 已以 `<用户自制>` 和一个空格开头，投影时保留这个前缀，并用公共源替换其余描述；
-没有该标记的目标不会被加上。其他公共字节与文件模式仍由源维护；公开包不会把自己
-标为接收方自制。
-
-字节一致适用于选择持续采用公共更新的副本。独立替换哲学或组织时，在自己的来源处保留
-作品并维护连贯引用；即使仍采用六槽位格式，也不要用本公共包覆盖它。
-
-另行创作可以改变描述的数目、组织与哲学；当前维护的阴阳实现通过两条路线保留六个完整问题与相互融贯；原生路径可在明确六者绑定下变化。
+Empty 使用者按本包自己的约定更新。独立写作的哲学与方法保留自己的来源，
+不由作者公共资源的投影覆盖。
 
 ## 私人与公开边界
 

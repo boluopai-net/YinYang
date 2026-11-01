@@ -14,7 +14,7 @@ formation lenses with [native Hindsight formation](hindsight.md). The private
 binding index chooses complete generated models for startup reading; output
 count follows the questions. Original evidence stays with its owners, while
 derived Personal understanding can migrate to observations/pages. The
-[entrypoint](../SKILL.md) owns ordinary reading and the
+[entrypoint](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) owns ordinary reading and the
 [environment guide](formation/environment.md) connects understanding to use.
 Selective borrowing need not configure the entire adopted arrangement.
 

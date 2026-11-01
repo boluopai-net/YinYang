@@ -14,7 +14,7 @@ codex plugin marketplace add boluopai-net/Yinyang
 codex plugin add yinyang-empty@boluopai
 ```
 
-Empty 保留辩证核心、六份形成指南、基本观点建议及实践与协作指南，由你与模型形成自己的哲学和个人描述。Full 是网页哲学在 Skill 中的静态参考形式，禁止直接用于自己的实践，不提供安装入口。
+Empty 保留辩证核心、六份形成指南、基本观点建议及实践与协作指南，由你与模型形成自己的哲学和个人描述。作者的哲学文章继续作为可选阅读材料。
 
 将 `yinyang-empty` 换成[目录](../README.zh-CN.md#集合里的-skill)中的其他包名即可。
 例如，`codex plugin add research@boluopai` 安装搜索与研究。
@@ -47,7 +47,7 @@ Empty 保留辩证核心、六份形成指南、基本观点建议及实践与�
 两种实现路线都从 Empty 开始。
 
 Empty 从 `skills/yinyang-empty/` 更新公共方法，保留自己的 `references/philosophy/`、
-`references/personal/`、`references/situated/` 及其他独立内容；不要用 Full 的整包投影器
+`references/personal/`、`references/situated/` 及其他独立内容；不要用 作者的公共资源投影器
 更新 Empty。个人哲学也可以继续留在已有来源，由个人版引用。详见
 [Empty 文件与更新](../skills/yinyang-empty/references/package.zh-CN.md)。
 

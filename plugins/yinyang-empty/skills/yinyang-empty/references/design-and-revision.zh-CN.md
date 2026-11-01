@@ -5,7 +5,7 @@
 本参考说明怎样形成或修订对实际的人、模型伙伴及双方关系的理解。
 六份写作指南提供相应的实际指导，包括环境实现，以及怎样写出自己的实际修订方法；
 [包结构说明](package.zh-CN.md)维护路径、公共内容投影及完整包与个人包的约定；
-[主入口](../SKILL.zh-CN.md)维护日常阅读要求。这里处理理解与写作的对象、根据，
+[主入口](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md)维护日常阅读要求。这里处理理解与写作的对象、根据，
 以及相连描述怎样变化。人和模型都能阅读、使用这套方法；其中的实践指引展开怎样创作和
 修订文章所介绍的理解。
 
@@ -30,7 +30,7 @@
 [从采用、组合到自己的创作](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/example-and-commons.zh-CN.html)说明这种区别。
 
 读者可以研究范例、借用方法，或形成自己的六份工作描述。
-[实践总览](creation-method.zh-CN.md#choose-2x2)区分 Full 静态参考与形成自己实践的 Empty 入口。
+[实践总览](creation-method.zh-CN.md#choose-2x2)连接哲学阅读与形成自己实践的 Empty 方法入口。
 本页说明六份描述怎样写、怎样一起修订。
 
 这六份描述也共同支持个人递归自我改进。取向说明改进服务什么，个人说明实际参与与条件，
