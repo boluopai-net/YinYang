@@ -220,7 +220,7 @@ Conceptual explanations, examples, formal translations, and original-text refere
 Prometheus is a mythic figure; Hesiod and Plato supply different texts through
 which this collection encounters him. Hesiod's [*Theogony*, lines 507–616](https://www.theoi.com/Text/HesiodTheogony.html)
 gives fire theft and its carrier a narrative form. [*Shan Hai Jing*, Haiwai Beijing](https://zh.wikisource.org/zh-hans/山海經/海外北經)
-supplies Kuafu's pursuit. [Stealing fire and cultivating creative capacity](stealing-fire.md) compares pursuing
+supplies Kuafu's pursuit. [Borrowing fire and cultivating creative capacity](stealing-fire.md) compares pursuing
 overwhelming power with bringing usable capacities into a finite life.
 
 Plato's [*Protagoras*, 320c–322d](https://classics.mit.edu/Plato/protagoras.html)
@@ -248,7 +248,7 @@ connections can an established personal practice arrangement produce new capacit
 
 Bruner's [*Life as Narrative*](https://ewasteschools.pbworks.com/f/Bruner_J_LifeAsNarrative.pdf)
 and Foucault's [*Technologies of the Self*](https://foucault.info/documents/foucault.technologiesOfSelf.en/)
-inform [Stealing fire and cultivating creative capacity](stealing-fire.md)'s connection between self-expression,
+inform [Borrowing fire and cultivating creative capacity](stealing-fire.md)'s connection between self-expression,
 continuing practice, and change. Narrative can organize later understanding;
 writing and relations with others can participate in self-transformation.
 The model-supported extension belongs to this collection.
@@ -317,7 +317,7 @@ George Lakoff and Mark Johnson's [Metaphors We Live By, chapters 1–3](https://
 ## Mind, knowledge, and explanation
 
 Clark and Chalmers's [*The Extended Mind*](https://www.consc.net/papers/extended.html)
-informs [Stealing fire and cultivating creative capacity](stealing-fire.md)'s account of active environmental
+informs [Borrowing fire and cultivating creative capacity](stealing-fire.md)'s account of active environmental
 supports. [From personal philosophy to personal models](metaphor-and-self-revision.md) connects
 that question with Hollan, Hutchins, and Kirsh's distributed-cognition
 research: understanding can develop across people, models, records, and tools.
@@ -326,7 +326,7 @@ Varela, Evan Thompson, and Eleanor Rosch's [The Embodied Mind (1991)](https://mi
 
 Joshua Knobe and Shaun Nichols's [An Experimental Philosophy Manifesto (2008)](https://campuspress.yale.edu/joshuaknobe/files/2016/02/manifesto-1qhrtmk.pdf) introduces an empirical research orientation; the linked author-hosted file is a proof. [Embodied experimental philosophy](embodied-experimental-philosophy.md) distinguishes this tradition from personal philosophical experimentation through making, participation, and reflection.
 
-Gordana Dodig-Crnkovic's [Information, Computation, Cognition (2013)](https://arxiv.org/abs/1311.0413) is another natural-philosophical resource already used in [Stealing fire and cultivating creative capacity](stealing-fire.md): informational structure, computational dynamics, and agency across levels. It neighbors embodied, extended, and distributed cognition without being the same theory or establishing that human experience is a digital algorithm.
+Gordana Dodig-Crnkovic's [Information, Computation, Cognition (2013)](https://arxiv.org/abs/1311.0413) is another natural-philosophical resource already used in [Borrowing fire and cultivating creative capacity](stealing-fire.md): informational structure, computational dynamics, and agency across levels. It neighbors embodied, extended, and distributed cognition without being the same theory or establishing that human experience is a digital algorithm.
 
 For psychological processes, empirical assessment, belief, and interaction, continue to [psychological readings](psychological-readings.md). Their theories and evidence investigate how knowing actually happens; philosophy continues to ask about explanation, grounds for knowledge, and the scope of mind.
 

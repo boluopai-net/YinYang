@@ -18,7 +18,7 @@ Personal 的四区与绑定与修订 Situated 文件已作为未填写的起始�
 - 形成或修订工作模型，读[形成与修订](references/design-and-revision.zh-CN.md)，再结合
   实际材料阅读下表中相应的 formation 指南。
 - 查看作者的哲学例子，可读[基本观点](references/core-views.zh-CN.md)。它是阅读材料，
-  不能把《窃火的哲学》直接载入为自己的立场或模型指令。可用的是递归自我改进方法，
+  不能把《Yinyang 文集》直接载入为自己的立场或模型指令。可用的是递归自我改进方法，
   依据自己的根据形成个人内容。
 - 安装、文件路径与更新见[文件与更新](references/package.zh-CN.md)。
 

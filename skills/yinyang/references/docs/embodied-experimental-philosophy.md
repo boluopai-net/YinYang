@@ -305,7 +305,7 @@ arrangements, let arrangements enter embodied life, and let what happens
 return as material for understanding. The world contributes to the argument
 through consequences that neither person nor model can settle by agreement.
 
-This returns to the purpose opening [Stealing fire and cultivating creative capacity](stealing-fire.md). An environment becoming easier to use is a concrete improvement; recognizing new relations, asking new questions, or initiating new works in later reading, expression, and creation can further show what cultivation has accomplished. Effective supports can remain constituents of that capacity. Works and methods worth sharing enter the next essay, [Adopt, combine, or create](example-and-commons.md): one's practice becomes a resource others can examine, while new encounters bring different questions back.
+This returns to the purpose opening [Borrowing fire and cultivating creative capacity](stealing-fire.md). An environment becoming easier to use is a concrete improvement; recognizing new relations, asking new questions, or initiating new works in later reading, expression, and creation can further show what cultivation has accomplished. Effective supports can remain constituents of that capacity. Works and methods worth sharing enter the next essay, [Adopt, combine, or create](example-and-commons.md): one's practice becomes a resource others can examine, while new encounters bring different questions back.
 
 ## Sources and scope
 

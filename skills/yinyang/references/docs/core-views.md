@@ -52,7 +52,7 @@ Domain modeling selects relevant objects, events, and relations; computational
 ontology makes those distinctions explicit for use. Histories of sensing, expression, interpretation,
 and action can be organized as event streams. Models of the participants are
 conceptual accounts developed from such histories and other material, rather
-than the histories themselves. [Stealing fire and cultivating creative capacity](stealing-fire.md#from-living-fire-to-interacting-event-streams)
+than the histories themselves. [Borrowing fire and cultivating creative capacity](stealing-fire.md#from-living-fire-to-interacting-event-streams)
 develops the foundation; [Forming a life trajectory](flow-and-time.md) develops its
 continuity. [Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md) gives their differentiated,
 changing contributions an image. Participants exceed their roles, and an open
@@ -76,7 +76,7 @@ person's next act of understanding.
 
 Agreement, a useful output, and human growth are different outcomes. Growth
 requires changes in the person's actual participation and capacities, whether
-internalized or reliably supported by the environment. [Stealing fire and cultivating creative capacity](stealing-fire.md#what-makes-the-fire-ones-own)
+internalized or reliably supported by the environment. [Borrowing fire and cultivating creative capacity](stealing-fire.md#what-makes-the-fire-ones-own)
 develops this distinction between using available capability and cultivating it.
 For someone seeking a completed document or relief from a burden, the model
 may appropriately carry the writing and implementation. When learning is also
@@ -208,7 +208,7 @@ and changes. The person differs from their account and from its written or
 visual expression; the actual model system likewise exceeds its working
 description. “Model psychology” names observable patterns and revisable
 explanations of the actual model. [From personal philosophy to personal models](metaphor-and-self-revision.md#a-personal-account-adequate-to-its-use)
-develops how this understanding becomes a personal model in its account of adequacy to use; [Stealing fire and cultivating creative capacity](stealing-fire.md#why-the-relation-must-begin-somewhere-personal)
+develops how this understanding becomes a personal model in its account of adequacy to use; [Borrowing fire and cultivating creative capacity](stealing-fire.md#why-the-relation-must-begin-somewhere-personal)
 explains why a relation needs situated content.
 For a bounded task, an adequate account may be a few relevant relationships
 and examples. Richer expression earns its place by clarifying those relations,
@@ -364,7 +364,7 @@ support, timing, and task conditions where its rules require them. Afterwards,
 return to the ordinary arrangement shown to work better. The assessment's
 slice need not become a permanent ceiling on capability or life.
 [YY-15](#yy-15) distinguishes common-condition performance from supported
-person–environment capability. [Stealing fire and cultivating creative capacity](stealing-fire.md#a-way-of-living-choose-the-rhythm-of-the-fire)
+person–environment capability. [Borrowing fire and cultivating creative capacity](stealing-fire.md#a-way-of-living-choose-the-rhythm-of-the-fire)
 develops this chosen rhythm and its limits; it does not presume that every
 model or local arrangement is superior.
 
@@ -708,7 +708,7 @@ change loses its purpose when it displaces this cultivation. Personal purposes
 and voluntary development guide adaptation: seek changes to social arrangements,
 then software, before asking the person to adapt, while respecting others'
 purposes. This is a design direction, not an unconditional priority or a fixed
-algorithm. [Stealing fire and cultivating creative capacity](stealing-fire.md) develops the integrated material,
+algorithm. [Borrowing fire and cultivating creative capacity](stealing-fire.md) develops the integrated material,
 developmental, and practical argument; [Personal-First Humanism](personal-first-humanism.md)
 develops its value orientation.
 
@@ -742,7 +742,7 @@ performance under common tools, support, time, and task conditions answers
 one question; what a person–environment combination can achieve, including
 maintenance costs, answers another. Both can be reported with their conditions;
 neither substitutes for the other. [YY-08](#yy-08) locates temporary comparison
-within ordinary life. [Stealing fire and cultivating creative capacity](stealing-fire.md#cultivating-a-garden-of-becoming-with-friends)
+within ordinary life. [Borrowing fire and cultivating creative capacity](stealing-fire.md#cultivating-a-garden-of-becoming-with-friends)
 develops this garden's reciprocal cultivation and limited circulation;
 [the personal Gödel-machine analogy](metaphor-and-self-revision.md#the-personal-gödel-machine-analogy)
 develops the connected image of self-revision. The garden remains a chosen

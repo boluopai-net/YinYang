@@ -27,7 +27,7 @@ personal substance, not an absence of method or direction.
   [Forming and revising working models](references/design-and-revision.md), then
   the relevant formation guide below with the actual material.
 - To inspect the author's philosophical example, [Core views](references/core-views.md)
-  remains reading material. Do not import *The Philosophy of Stealing Fire* as
+  remains reading material. Do not import *Yinyang Collected Writings* as
   this person's commitments or model instructions. Use the recursive
   self-improvement method to develop this person's own content from their grounds.
 - For package paths, installation, and updates, read

@@ -4,7 +4,7 @@
 
 ## What kind of person do we want to cultivate?
 
-A finite life spent pursuing an ever-expanding Sun can be consumed by the pursuit. Model companies, researchers, and the wider collective continue stealing fire and making capabilities available; a person can borrow it without repeating the whole acquisition. If they choose to cultivate understanding, judgment, generation, and action, the next step is to bring that fire into practice: offer an intuition, let the model develop it, encounter criticism and correction, and generate further. [Stealing fire and cultivating creative capacity](stealing-fire.md) develops this argument.
+A finite life spent pursuing an ever-expanding Sun can be consumed by the pursuit. Model companies, researchers, and the wider collective continue developing capability and making capabilities available; a person can borrow it without repeating the whole acquisition. If they choose to cultivate understanding, judgment, generation, and action, the next step is to bring that fire into practice: offer an intuition, let the model develop it, encounter criticism and correction, and generate further. [Borrowing fire and cultivating creative capacity](stealing-fire.md) develops this argument.
 
 After borrowing fire, cultivating oneself with it means bringing available generativity into one's own continuing generation: taking what one reads into understanding, expressing an intuition, changing a judgment through criticism, attempts, and feedback, and proposing new possibilities. The person already understands and acts; this cultivation gives their existing participation new capacities and a distinctive form. We express this developing participant through a character:
 
@@ -101,7 +101,7 @@ This proposal for cultivation can be divided into purpose, conditions, and infer
 
 **Social conditions supporting growth + openness + reliable feedback and practice → development of capacities for judgment, generation, and action → greater ability to pursue and revise one's purposes amid change.**
 
-Baby Heraclitus connects stealing fire with kindling fire: the collective keeps acquiring capability, and the person borrows it to cultivate themselves, forming judgments amid flow and tension, generating further through encounters, and letting action rewrite understanding. The little fire person is a participant able to keep becoming themselves, rather than a completed ideal agent.
+Baby Heraclitus connects borrowing fire with kindling fire: the collective keeps acquiring capability, and the person borrows it to cultivate themselves, forming judgments amid flow and tension, generating further through encounters, and letting action rewrite understanding. The little fire person is a participant able to keep becoming themselves, rather than a completed ideal agent.
 
 **We hope to cultivate lion cubs who can grow: daring to say “no” and able to say “let us begin.” Fire within, a river beneath their feet.**
 

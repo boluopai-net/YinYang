@@ -10,7 +10,7 @@ The native Site separately owns the paired-fish opening illustration.
 These six visual works connect the reading path, its developmental aim,
 and selected [core views](../docs/core-views.md), with complete Chinese counterparts:
 
-- **Stealing Fire** (`formation-path`) places ongoing
+- **Borrowing Fire** (`formation-path`) places ongoing
   human–model practice at the center of trajectories, reflection, personal
   philosophy and models, and environments and works. The developmental aim
   gives the whole a direction; reflection clarifies the pictures organizing
@@ -21,7 +21,7 @@ and selected [core views](../docs/core-views.md), with complete Chinese counterp
   together at the center. These figures give the existing trajectory, reflection,
   formation, and practical realization spatial form; directed paths retain their
   different contributions and the return of new experience.
-- **Join in stealing fire, and use it to cultivate yourself** (`borrowed-fire`)
+- **Borrow fire, and use it to cultivate yourself** (`borrowed-fire`)
   develops the stealing-fire essay's practical argument under a chosen
   developmental purpose. It separates accumulated works from demonstrated
   changes in the person's capacities, desires, and aims, including reliably

@@ -17,7 +17,7 @@
 [Daniel W. Graham 的学术综述](https://plato.stanford.edu/entries/heraclitus/)
 第 3–4 节尤其说明了关于火、统一与对立的解释分歧。
 
-[窃火论述](stealing-fire.zh-CN.md)借这条思想线索理解持续与变化，并把活动历史组织为事件流，
+[借火论述](stealing-fire.zh-CN.md)借这条思想线索理解持续与变化，并把活动历史组织为事件流，
 并不把现代计算本体论或形式演算归给赫拉克利特。历史上的赫拉克利特是否是火一元论者，
 仍有解释分歧。阴阳把火一元论用于计算本体，以火表达生成与转化，并通过对象、
 事件、状态与关系构造过程表征。[世界、过程与表达](world-and-expression.zh-CN.md#物理基础与计算抽象)
@@ -109,7 +109,7 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 | [第115节](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#115) | 嵌在语言中的图景怎样束缚思想？一种描述使什么显得不可避免，又遮住哪些可能？ |
 | [第133节](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#133) | 为什么哲学工作有被比作治疗的不同方法，澄清又怎样让人能够停下来？原来的问题不再抓住人时，什么发生了变化？ |
 
-[窃火论述](stealing-fire.zh-CN.md#从追逐到生活中的修习)把这条路径用于必须追赶前沿的
+[借火论述](stealing-fire.zh-CN.md#从追逐到生活中的修习)把这条路径用于必须追赶前沿的
 图景，让其中的要求回到周围生活；这项应用属于本作品。[个人理解](metaphor-and-self-revision.zh-CN.md#个人模型与哲学澄清)
 进一步区分澄清能力、进步等概念，与提出某个人活动的心理解释。两者可以相互启发，
 但一份有说服力的描述不能独自裁定经验主张。
@@ -125,7 +125,7 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 
 阅读时追问：这里燃烧的是什么，止息的又是什么？发展一种能力与松开一种执取，
 怎样可能相互支持，又为什么不能直接等同？[借火与涅槃](stealing-fire.zh-CN.md#借火与涅槃)
-把窃火意象中的知识与创造能力，接到对欲望、习惯和自我形象的考察。它让佛教的
+把借火意象中的知识与创造能力，接到对欲望、习惯和自我形象的考察。它让佛教的
 解脱方向参与对培养目的的反思；两种火的对照，是本作品的构造。
 
 把[《蛇喻经》（《中部》第22经）](https://www.dhammatalks.org/suttas/MN/MN22.html)的
@@ -176,12 +176,12 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 普罗米修斯是神话人物；赫西俄德与柏拉图提供不同文本，使本文集与他相遇。
 赫西俄德[神谱507–616 行](https://www.theoi.com/Text/HesiodTheogony.html)
 给窃火及其携带方式以叙事形式。[山海经·海外北经](https://zh.wikisource.org/zh-hans/山海經/海外北經)
-提供夸父逐日。[窃火与创造能力的培养](stealing-fire.zh-CN.md)比较追逐压倒性的力量，与把可用能力带入有限生活。
+提供夸父逐日。[借火与创造能力的培养](stealing-fire.zh-CN.md)比较追逐压倒性的力量，与把可用能力带入有限生活。
 
 柏拉图[普罗泰戈拉320c–322d](https://classics.mit.edu/Plato/protagoras.html)
 把神话放进普罗泰戈拉关于城邦学习的论述：技艺与火之后，所有人共同分享敬畏与正义。
 柏拉图是对话的作者，普罗泰戈拉是其中呈现的思想家，普罗米修斯是神话中的人物。
-窃火论述据此比较技术手段与共同生活的目的；AI 应用是当代论证，并不主张古人预测了 AI。
+借火论述据此比较技术手段与共同生活的目的；AI 应用是当代论证，并不主张古人预测了 AI。
 
 ## 德勒兹与瓜塔里：连接、生产与生成
 
@@ -196,7 +196,7 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 
 布鲁纳的[生命作为叙事](https://ewasteschools.pbworks.com/f/Bruner_J_LifeAsNarrative.pdf)
 与福柯的[自我技术](https://foucault.info/documents/foucault.technologiesOfSelf.en/)
-为[窃火与创造能力的培养](stealing-fire.zh-CN.md)连接自我表达、持续实践与改变提供资源。
+为[借火与创造能力的培养](stealing-fire.zh-CN.md)连接自我表达、持续实践与改变提供资源。
 叙事能够组织后来的理解，写作与他人关系能够参与自我转化；模型支持的延伸属于本文集。
 
 [个人优先的人本主义](personal-first-humanism.zh-CN.md)也阅读霍布斯
@@ -256,7 +256,7 @@ Feng Ye 已经是文集的比较对象，这里将其展开为独立的阅读入
 ## 心灵、认识与解释
 
 克拉克 与 查尔默斯 的[延展心智](https://www.consc.net/papers/extended.html)
-为[窃火与创造能力的培养](stealing-fire.zh-CN.md)关于环境积极支持的说明提供资源。
+为[借火与创造能力的培养](stealing-fire.zh-CN.md)关于环境积极支持的说明提供资源。
 [从个人哲学到个人模型](metaphor-and-self-revision.zh-CN.md)将它接到 霍兰、哈钦斯
 与 基尔什 的分布式认知研究：理解能够穿行于人、模型、记录与工具之间发展。
 
@@ -264,7 +264,7 @@ Feng Ye 已经是文集的比较对象，这里将其展开为独立的阅读入
 
 诺布 与 尼科尔斯 的[An Experimental Philosophy Manifesto（2008）](https://campuspress.yale.edu/joshuaknobe/files/2016/02/manifesto-1qhrtmk.pdf)介绍实验哲学的经验研究取向；链接是作者提供的校样。[具身的实验哲学](embodied-experimental-philosophy.zh-CN.md)区分这种研究与个人通过制作、参与和反思开展的哲学试验。
 
-高丹娜 的[Information, Computation, Cognition（2013）](https://arxiv.org/abs/1311.0413)是另一条已在[窃火与创造能力的培养](stealing-fire.zh-CN.md)中出现的自然哲学线索：信息结构、计算动态与多层次行动者。它与上面的具身、延展、分布式认知相邻，但并非同一理论，也不直接确立人的体验是一套数字算法。
+高丹娜 的[Information, Computation, Cognition（2013）](https://arxiv.org/abs/1311.0413)是另一条已在[借火与创造能力的培养](stealing-fire.zh-CN.md)中出现的自然哲学线索：信息结构、计算动态与多层次行动者。它与上面的具身、延展、分布式认知相邻，但并非同一理论，也不直接确立人的体验是一套数字算法。
 
 研究心理过程、经验检验、信念与互动，接到[心理阅读](psychological-readings.zh-CN.md)。其中的理论与证据帮助理解认识实际怎样发生；哲学继续追问解释、知识根据与心灵的范围。
 

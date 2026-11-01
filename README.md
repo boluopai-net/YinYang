@@ -13,7 +13,7 @@ activities they want to sustain.
 
 The essays develop this argument; reusable Skills and tools support its
 realization and retain their specialist purposes. Begin with
-[Stealing fire](skills/yinyang/references/docs/stealing-fire.md), consult the
+[Borrowing fire](skills/yinyang/references/docs/stealing-fire.md), consult the
 [core views](skills/yinyang/references/docs/core-views.md), or follow the
 [recursive-improvement chapter](skills/yinyang/references/docs/literary-recursive-improvement.md)
 for the connection between description, interpretation, practice, and changing methods.

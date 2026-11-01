@@ -29,7 +29,7 @@ The essays answer connected questions rather than forming a compulsory course:
 
 | Question | Reading |
 | --- | --- |
-| What is the developmental purpose? | [Stealing fire and cultivating creative capacity](references/docs/stealing-fire.md) connects available capacities, personal cultivation, and reciprocal understanding. |
+| What is the developmental purpose? | [Borrowing fire and cultivating creative capacity](references/docs/stealing-fire.md) connects available capacities, personal cultivation, and reciprocal understanding. |
 | What claims does Yinyang make? | [Core views](references/docs/core-views.md) gives the proposition map. |
 | How does meaning acquire a working form? | [Practice overview](references/docs/creation-method.md) connects expression, relation, realization, and evidence. |
 | How do the contributions fit together? | [The trinity of philosophy, psychology, and engineering](references/docs/local-source-and-website.md) connects philosophy, psychology, engineering, and their practical carriers. |
@@ -38,7 +38,7 @@ The essays answer connected questions rather than forming a compulsory course:
 
 Readers outside literature, history, or philosophy can begin by selecting relevant
 [Core views](references/docs/core-views.md), then follow their linked arguments
-when needed. For a connected account of the author's purpose, read **Stealing fire
+when needed. For a connected account of the author's purpose, read **Borrowing fire
 → Core views → Practice explanation**. Neither route requires an original writing
 project. Personal accounts and sources stay private; publishing an essay or website
 is a further choice of interest.

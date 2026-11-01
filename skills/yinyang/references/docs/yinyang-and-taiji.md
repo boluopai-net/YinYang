@@ -401,7 +401,7 @@ correction. In this image, light is what becomes available to perceive and
 make. The Moon can reveal a contour that daylight had washed out. A new
 illumination can arise from attending closely to what was already received.
 
-[Stealing fire and cultivating creative capacity](stealing-fire.md) develops the cultivation pictured here:
+[Borrowing fire and cultivating creative capacity](stealing-fire.md) develops the cultivation pictured here:
 the person acquires more power to understand, judge, express, and create.
 The Sun's illumination gives that capacity an image. Receiving, questioning,
 and giving form can cultivate it too; the light grows through the encounter.

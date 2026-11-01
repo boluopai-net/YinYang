@@ -8,7 +8,7 @@
 其价值由他希望维系的生活与活动来判断。
 
 文章展开论证，可复用的 Skills 与工具支持实现，并保有各自的专门用途。
-可以从[窃火](skills/yinyang/references/docs/stealing-fire.zh-CN.md)开始，
+可以从[借火](skills/yinyang/references/docs/stealing-fire.zh-CN.md)开始，
 选读[基本观点](skills/yinyang/references/docs/core-views.zh-CN.md)，
 或通过[递归改进一章](skills/yinyang/references/docs/literary-recursive-improvement.zh-CN.md)
 理解描述、解释、实践与方法改变之间的联系。

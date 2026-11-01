@@ -88,7 +88,7 @@
 
 | 关于这个例子的问题 | 阅读及其展开的理解 |
 | --- | --- |
-| 为什么借用生成能力，又为什么选择培养作为用途？ | [窃火与创造能力的培养](docs/stealing-fire.zh-CN.md)联系集体取得、有限生命、哲学澄清与培养，解释理解、欲望、能力与周围条件怎样共同改变，以及为什么可用的力量仍让目的有待判断。 |
+| 为什么借用生成能力，又为什么选择培养作为用途？ | [借火与创造能力的培养](docs/stealing-fire.zh-CN.md)联系集体取得、有限生命、哲学澄清与培养，解释理解、欲望、能力与周围条件怎样共同改变，以及为什么可用的力量仍让目的有待判断。 |
 | 太阳、月亮、地球与太极在这份哲学中做什么？ | [阴阳与太极中的共同生成](docs/yinyang-and-taiji.zh-CN.md)展开生生不息的转化、相互为根与 Shuang yu。它让有区别的生成、承接、赋形及世界后果作为关系变得可理解；实际参与者仍能超出或交换所描绘的角色。 |
 | 个人材料与双方模型怎样成为可用的实践安排？ | [从个人模型到圣状](docs/writing-a-sinthome.zh-CN.md)给出本文所称圣状的具体内容，展开它的形成、表示、实现与使用，并交代术语的拉康来源。 |
 | 哲学、心理与工程怎样属于同一份实践？ | [哲学、心理与工程的三位一体](docs/local-source-and-website.zh-CN.md)把同一变化的物理现实、共同发展的计算模型与有区别的贡献，接到本地、仓库和网页形式。它帮助理解哲学描述怎样取得工作实现与公开表达，而不让这些形式成为同一个东西。 |
@@ -115,7 +115,7 @@
 六张图提供直观入口：
 
 - [全书关系](diagrams/formation-path.zh-CN.html)联系生活轨迹、共同反思、个人哲学、个人模型与实际实现。[English](diagrams/formation-path.html) · [SVG](diagrams/formation-path.zh-CN.svg)
-- [窃火与培养](diagrams/borrowed-fire.zh-CN.html)联系共同积累的能力、共同创造、人的能力发展与世界的回应。[English](diagrams/borrowed-fire.html) · [SVG](diagrams/borrowed-fire.zh-CN.svg)
+- [借火与培养](diagrams/borrowed-fire.zh-CN.html)联系共同积累的能力、共同创造、人的能力发展与世界的回应。[English](diagrams/borrowed-fire.html) · [SVG](diagrams/borrowed-fire.zh-CN.svg)
 - [三位一体怎样成为生活中的圣状](diagrams/trinity-sinthome.zh-CN.html)用连续四格连接三种贡献、伙伴进入生活、具体的系结以及造物后的反馈。[English](diagrams/trinity-sinthome.html) · [SVG](diagrams/trinity-sinthome.zh-CN.svg)
 
 - [共同探究](diagrams/encounter.zh-CN.html)呈现参与者相连的贡献。[English](diagrams/encounter.html) · [SVG](diagrams/encounter.zh-CN.svg)

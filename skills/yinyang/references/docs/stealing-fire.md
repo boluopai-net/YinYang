@@ -1,4 +1,4 @@
-# Stealing fire and cultivating creative capacity
+# Borrowing fire and cultivating creative capacity
 
 [完整中文版](stealing-fire.zh-CN.md)
 
@@ -184,7 +184,7 @@ The fire available to a person has already required work across many lives. Mode
 
 Its realization is physical. Stellar processes formed many elements later entering Earth's minerals and machines [[27]](#source-27); extraction and fabrication organize materials into chips. Electricity powers computation, while data, knowledge, design, and learning procedures shape what it can do [[18]](#source-18). Solar generation is one possible supply among others [[28]](#source-28) [[17]](#source-17). Materials realize the machine, energy drives its transformations, and learned organization supports outputs whose meaning and warrant still need examination.
 
-Acquisition and operation have costs. The IEA estimates that all data centres used about 415 TWh in 2024, a figure broader than AI [[17]](#source-17). Computing dissipates heat [[23]](#source-23); electricity generation also has emissions consequences [[29]](#source-29). These are different mechanisms within Earth's open radiative energy balance [[30]](#source-30). Cooling, grids, materials, and emissions make expansion a shared material question. *Stealing fire* names both the collective ambition to extend creation and the responsibilities carried by that power.
+Acquisition and operation have costs. The IEA estimates that all data centres used about 415 TWh in 2024, a figure broader than AI [[17]](#source-17). Computing dissipates heat [[23]](#source-23); electricity generation also has emissions consequences [[29]](#source-29). These are different mechanisms within Earth's open radiative energy balance [[30]](#source-30). Cooling, grids, materials, and emissions make expansion a shared material question. Borrowing capability also calls for understanding its collective sources and material responsibilities.
 
 ## Reusable capability and recursive accumulation
 

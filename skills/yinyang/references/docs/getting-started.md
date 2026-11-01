@@ -371,9 +371,9 @@ Through these loops, working preferences, environment, works, GitHub repositorie
 
 <a id="ways-of-practice"></a>
 
-## 8. Three practices of Stealing Fire: learning, working, and living
+## 8. Three practices of Borrowing Fire: learning, working, and living
 
-The conclusions of [Stealing Fire](https://boluopai.net/philosophy/stealing-fire/en/) can take three connected forms: use existing generative capabilities to support understanding, turn ideas into usable works, and let the daily environment carry them. The aim is to combine human and model strengths. Human embodied experience, interest, intuition, and overall judgment complement the model's retrieval, comparison, explicit reasoning, editing, and execution. Both participants can adjust their contributions to the work. Listening, speaking, reading, and writing run throughout: you listen, look, express, critique, and try; the model receives these contributions, organizes materials, and completes the next work.
+The conclusions of [Borrowing Fire](https://boluopai.net/philosophy/stealing-fire/en/) can take three connected forms: use existing generative capabilities to support understanding, turn ideas into usable works, and let the daily environment carry them. The aim is to combine human and model strengths. Human embodied experience, interest, intuition, and overall judgment complement the model's retrieval, comparison, explicit reasoning, editing, and execution. Both participants can adjust their contributions to the work. Listening, speaking, reading, and writing run throughout: you listen, look, express, critique, and try; the model receives these contributions, organizes materials, and completes the next work.
 
 In these practices, images correspond to vision, while voice connects listening and speaking; touch is secondary and serves as support. In learning, use diagrams to grasp concepts and relationships, then speak your questions; at work, share sketches, screenshots, or flow diagrams and state requirements and feedback aloud; in daily life, use photos or quick diagrams to capture situations and say what matters to you. Make images and voice everyday ways to understand, express, and work together.
 
@@ -418,7 +418,7 @@ carries connection details while you participate through purpose, use, and
 feedback. Synchrony with the model keeps understanding and revision continuable;
 asynchrony with the world allows time between connections. Concrete
 responsibilities, bodily needs, and actual consequences still determine what
-needs timely response. [Stealing fire and cultivating creative capacity](https://boluopai.net/philosophy/stealing-fire/en/#a-way-of-living-choose-the-rhythm-of-the-fire)
+needs timely response. [Borrowing fire and cultivating creative capacity](https://boluopai.net/philosophy/stealing-fire/en/#a-way-of-living-choose-the-rhythm-of-the-fire)
 develops the relation between forward evolution and historical compatibility.
 
 Entrust collection, software maintenance, and reminders that can wait to verified background tasks, returning results at suitable times. Arrange people and matters needing immediate response according to their actual relationships. Asynchronous work lets different parts of life keep their rhythms and reduces attention continually pulled by unrelated progress.
