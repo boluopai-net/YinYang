@@ -115,6 +115,46 @@ Load only the specialists needed for the current work. Keep this Skill's
 judgment about the person's journey connected to implementation and readback;
 using a specialist does not discharge the task with a design recommendation.
 
+## Iterate through visible working versions
+
+Iterate along the person's actual journey using the recipient's available tools
+and delivery routes.
+Build a coherent first version that supports the requested activity, then show
+its real rendered UI early enough for the person to change its direction.
+Use readable screenshots or previews of meaningful states and material revisions;
+keep the relevant controls and consequences visible rather than sending a stream
+of tiny implementation changes. Show what changed and what the person can now
+do. A file link or progress narrative alone does not show the interface.
+
+Do not postpone that encounter until secondary details, hypothetical edge cases,
+or a general solution are complete. Exercise the actual workflow, repair the
+failures it reveals, and return the revised result to the conversation. For a
+background configuration, expose its observable effect or a representative
+operation instead of inventing a dashboard solely for a screenshot. Screenshots
+show appearance; actual operations establish behavior. Neither alone proves
+that the person finds the arrangement useful.
+
+The model carries implementation detail, routine checking, and authorized
+delivery. The person can respond to a concrete version without managing those
+steps. Showing a version does not require waiting for a reply or add approval;
+continue under the task's actual boundaries and incorporate feedback when it
+arrives. Keep the supported environment narrow when that serves this person's
+use, and revise the implementation when that use changes.
+
+Publish each coherent usable increment promptly through its owner once the
+checks needed for that increment are satisfied, then verify the delivered
+result from the person's real entrypoint. Keep a ready release moving while
+developing the next version; independent work may proceed in parallel, including
+through bounded agents when authorized, while writes to the same publication
+target remain serialized. Secondary refinements and unrelated work do not hold
+back a ready increment. Let the person encounter it and feed UI corrections
+into the next increment. A preview or successful build alone does not establish
+delivery: exercise the consequential path and read back its result before
+claiming that increment complete. Repair a blocking failure within the affected
+increment; preserve actual authorization, personal authentication, safety, and
+explicit stopping boundaries throughout.
+
+
 ## Verify the person's path
 
 Exercise the affected journey from its real entrypoint with representative
