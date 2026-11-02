@@ -77,6 +77,25 @@ identifier matched to completion. Page-local capture may permit independent page
 Browser completion alone does not verify file identity; the scholarly or other
 domain owner supplies that verification.
 
+### Temporary task tools
+
+A necessary browser helper or extension may serve the bounded operation when
+the host supports it and the task authorizes its effects. Inspect its source,
+permissions and actual operations before loading it. Record the baseline tool
+inventory, exact newly loaded identity and purpose with the existing task owner.
+Operate only on owned task targets; wider technical permissions do not enlarge
+task authority. Reuse the helper's page interface when it already performs the
+needed operation instead of attaching a conflicting second controller.
+
+Unload newly loaded tools in `finally` and verify their absence through the
+carrier's inventory. Preserve pre-existing tools owned by others. A same-task
+continuation, including pending personal authentication, may retain the tool
+with an explicit cleanup responsibility. Cleanup failure remains unfinished work.
+Preserve account/session isolation and synchronization policy. Enabling a helper
+must not restore unrelated personal extensions, replace a profile, or restart a
+busy shared owner. Use the recipient's actual configuration owner if the carrier
+needs a capability change; this portable Skill supplies no browser launch flags.
+
 ### Model-message relay
 
 For `observe` or `submit`, preserve the exact conversation and message boundary.
