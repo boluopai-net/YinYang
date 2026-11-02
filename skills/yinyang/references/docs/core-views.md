@@ -754,6 +754,21 @@ image whose value is answered by participants' experiences and consequences.
 
 Assisting personal recursive self-improvement connects Yinyang's philosophy, working descriptions, and environment. **Recursive self-improvement improves the methods producing improvement, making later understanding, judgment, creation, and realization of change more capable.** Its subject is this person with the model and actual support relations. Capacities may be internalized or reliably distributed within their shared environment.
 
+### From heritable variation to successors that can continue introspection
+
+Von Neumann's construction starts with three functions: $A$ constructs a machine from its description, $B$ copies the description, and $C$ coordinates construction, attachment, and separation. The system $(A+B+C)+\phi(A+B+C)$ thus passes both the machine and the description needed for further construction to its successor. **The same description serves as interpreted construction instructions and as inherited data.** Adding a functional component $D$ allows a change in its description to produce $D'$; when construction, copying, and control continue to work, that functional difference can be inherited. Subsequent use and selection assess its value.
+
+The complexity threshold concerns the organization that sustains this construction: components, encoding, an interpreter, and the environment jointly supply its conditions. Self-reference further lets a program obtain its own description and use bounded simulation, evaluation, and modification to form successors $S_0,S_1,S_2,\ldots$. **The initial system is foundational because it can make itself an object of modification and pass that capacity to its successor.** Section 3.4.3 of the paper develops a conditional introspection-threshold conjecture on this basis. An update carries forward description access, evaluation, modification, and successor execution; continuing benefit depends on evaluation, search costs, and actual results.
+
+| Property to examine | Contribution to recursive continuation |
+| --- | --- |
+| Completeness of the self-modification space | Both task components and the improvement mechanism itself are reachable objects of modification. |
+| Self-modeling, self-simulation, self-evaluation, and self-modification | Connect understanding of operation, candidate exploration, comparison, and realized change. |
+| Reflexivity | Connect running organization with generative description so revision can produce a corresponding successor. |
+| Cyclic processing | Make the successor and its results inputs and conditions for the next stage. |
+
+These relations offer a constructive direction for personal practice: the six accounts explain how the coupled system works, person and model realize changes, and the resulting arrangement remains readable, evaluable, and revisable. The improver, evaluation methods, and source-selection methods are themselves open to revision. [Writing one's own recursive improvement through literature](literary-recursive-improvement.md) develops the full argument and formal conditions.
+
 ### A coupled functional self-model and introspection
 
 The six working accounts jointly describe the human–model system that participates, judges, and acts. Orientation explains what is worth improving; person and counterpart explain how each operates; relationship explains how contributions connect; environment explains realization; revision explains how these practices change. Description both represents and participates in this practice. Using it to examine their own inputs, interpretations, choices, and consequences constitutes distributed introspection.
