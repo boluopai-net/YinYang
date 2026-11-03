@@ -10,7 +10,19 @@ Yinyang understands this preference through the person's activity with models an
 
 Description-logic inconsistency-tolerant semantics offers a precise comparison for a basic judgment. A knowledge base separates general axioms $T$ from assertions $A$. If the assertions conflict under those axioms, a repair retains an inclusion-maximal subset consistent with $T$. Priorities among conflicting assertions can affect which repairs are considered. A separate answer rule determines what follows from those selected grounds. A repair is an assertion set; it is not one interpretation or possible world.
 
-For a small example, suppose $P$ and $N$ are disjoint, each implies $Q$, and the sources contain both $P(a)$ and $N(a)$. The repairs keep one or the other. Each entails $Q(a)$, so that conclusion survives both grounds. A preference selecting only the first also makes $P(a)$ available as a conclusion from the selected grounds. That choice does not by itself establish which description fits the actual object. The distinction follows the repair and query definitions in [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3).
+**Yinyang adopts Brave in understanding and exploration, allowing consistently supported possibilities to continue into practice.** Let $\mathcal R$ be the currently relevant repair family and $q$ a query. Brave accepts $q$ exactly when some $R\in\mathcal R$ satisfies $T\cup R\models q$. AR requires every $R\in\mathcal R$ to support $q$; IAR requires $T\cup\bigcap\mathcal R\models q$. These policies make existential support, consequences shared across repairs, and consequences of their intersection explicit. See [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) for the definitions.
+
+For example, suppose $P$ and $N$ are disjoint, each implies $Q$, and the sources contain both $P(a)$ and $N(a)$. The two repairs retain one assertion each:
+
+| Query | Brave | AR | IAR |
+| --- | --- | --- | --- |
+| $P(a)$ | Holds | Does not hold | Does not hold |
+| $N(a)$ | Holds | Does not hold | Does not hold |
+| $Q(a)$ | Holds | Holds | Does not hold |
+
+Brave preserves each branch's consequences; AR preserves their common $Q(a)$; IAR obtains none of the three from the empty assertion intersection. “Does not hold” means that the corresponding semantics does not entail the query. Each separately accepted Brave answer has consistent support, while their collection may conflict. Forming a joint conclusion or one proposal calls for checking joint support for its conclusions. Here $P(a)$ and $N(a)$ each have support, while $P(a)\land N(a)$ has none.
+
+Conflict thereby enters work as well as the archive. A supported branch can interpret an expression, derive consequences, form a proposal, and organize practice; another supported branch remains available for comparison. Preference selects what is worth trying now, adopted premises state the attempt's conditions, and actual results change selection. When preference narrows the repair family, examine which support paths leave with it: Brave consequences may decrease even as some universal consequences become easier to establish. Developing branches before selecting on particular grounds lets preference organize action while preserving real alternatives.
 
 This comparison concerns the structure of judgment: what is provisionally accepted as a basis, and what that basis warrants. It does not describe how a person calculates. In ordinary inquiry, judging source reliability, choosing what matters for a task, and preferring an outcome can all affect selection, but they supply different reasons. Wanting an outcome does not make evidence for it stronger. When evidence cannot settle everything, one can work from a qualified selection, retain several alternatives, or suspend a particular conclusion while continuing elsewhere.
 
@@ -42,6 +54,8 @@ Git/GitHub retains committed versions and their parent relations. Its commit gra
 The graph's edges concern version ancestry, not “preferred to.” A merge records ancestry without proving why a choice was made; an unrecorded possibility cannot be recovered merely from the graph. A person can revisit an older idea while producing a new event in history. These distinctions let history support an account of selection without treating its graph as the preference relation itself.
 
 Retain what makes a consequential choice intelligible: the alternatives actually encountered, what was adopted or set aside, surrounding purposes and conditions, and the response to the result. Existing sources and version history can carry this material; every passing possibility need not become another permanent file.
+
+History also retains why a possibility still has support, which practice used it, and what response changed it. While one path is adopted, other relevant paths can still be compared and developed. Temporary deferral and exclusion through counterevidence retain their respective reasons and scope. A local expression can add or revise one path while compatible purposes continue. Understanding “more concerned with human psychology” can develop its relations to design, computation, and actual service; excluding a relation calls for the expression or other grounds to bear on that relation.
 
 ## Making an implicit selection pattern visible
 

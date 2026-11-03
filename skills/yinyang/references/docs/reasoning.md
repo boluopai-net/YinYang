@@ -106,6 +106,14 @@ and checks which earlier conclusions still apply.
 
 ## Sources, candidates, and the active workspace
 
+### Brave keeps supported possibilities at work
+
+This inquiry adopts [YY-10's Brave orientation](core-views.md#yy-10): a conclusion supported in at least one relevant consistent repair remains a possibility to develop. Participants recover its sources and premises, explain, predict, make, and try along that branch, and let results change understanding. Another conflicting branch gives comparison an object; each supported path can contribute to the present question.
+
+When understanding begins with a fragment, the model develops readings compatible with its context. For example, “more concerned with human psychology” can organize a research emphasis while keeping computational realization, design practice, and their combinations available. If the person later excludes a particular realization, correction follows that realization's actual dependencies. Omission, emphasis, and explicit exclusion alter different relations; recovering those relations forms the conflicts and candidates worth comparing.
+
+In moving from understanding to practice, participants can compare several branches or select one for a current proposal. Stating its adopted grounds, expectations, and feedback route makes the attempt assessable and revisable. Brave supplies answers with consistent support; relevance, purpose, and action conditions further organize which attempt happens first. Questions about consequences across branches can use AR; questions restricted to shared assertions can use IAR. Each policy answers its corresponding question, while supported possibilities keep the entrance to exploration open.
+
 | Position | What it retains | What revision changes |
 | --- | --- | --- |
 | Source | Utterances, documents, actions, measurements, and their provenance. | Appraisal and annotation can change without replacing the original occurrence with an interpretation. |
@@ -117,6 +125,9 @@ Attention, retention, and acceptance have different effects. Removing a candidat
 The working view makes the commitments needed for this question explicit while the wider source material remains available, including incompatible reports and explanations. A later result can change the selected premises, the question, or the way candidates are generated and evaluated. [Recursive improvement](literary-recursive-improvement.md#from-rewriting-words-to-changing-the-next-activity) follows how a revised method enters subsequent activity through interpretation and realization.
 
 An inquiry history preserves these differences across time. An abandoned branch
+can be distinguished from a currently supported alternative or a path deferred for attention or use. History connects the original expression, each candidate's support path, actual adoption, attempts, and consequences. Conflicting branches in the workspace can keep developing; deferred ones retain a return route; counterevidence is recorded with the conditions and scope it affects. Through a new encounter, practice, and return to understanding, participants can re-enter a path and revise an earlier choice.
+
+An abandoned branch
 can retain its question and reason for abandonment without remaining an active
 instruction or an accepted conclusion. Returning to it may explain an earlier
 choice or expose a condition that has changed. The current account states what

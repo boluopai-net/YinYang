@@ -479,6 +479,20 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
+**Understanding and exploration adopt Brave: when a possibility is supported in at least one relevant consistent repair, carry it with its sources, premises, and support path into further understanding and practice.** Conflict makes distinct branches visible. Participants can develop meanings, derive consequences, form proposals, and select grounded attempts according to the present purpose. Responses from practice revise the branches, selection, and premises. History preserves this connection, making supported possibilities available both for present work and later return.
+
+With fixed axioms $T$, conflicting assertions, and their repair family, three answer policies address different questions:
+
+| Answer policy | Grounds for accepting a query | Contribution to inquiry |
+| --- | --- | --- |
+| Brave | At least one repair together with $T$ entails the query. | Develop consistently supported possibilities and paths to try. |
+| AR | Every repair together with $T$ entails the query, possibly through different supports. | Identify consequences shared across these alternatives. |
+| IAR | The intersection of the repairs' assertions together with $T$ entails the query. | Identify consequences available from jointly retained assertions alone. |
+
+For example, let $P$ and $N$ be disjoint and each imply $Q$, while the material contains both $P(a)$ and $N(a)$. The two repairs retain one assertion each. Brave separately supports $P(a)$, $N(a)$, and $Q(a)$; AR supports $Q(a)$; IAR obtains none of the three from this empty intersection. Each Brave answer carries its own support path; jointly adopting several conclusions calls for checking their joint support within the same relevant branch. [Selection and inference](preference-harness.md#selection-and-inference) develops the definitions and their use.
+
+This adoption keeps grounded branches usable. When a person expresses one part, develop it in context while keeping other compatible relations open. When they correct a point, revise that point and the inferences depending on it while continuing the remaining purposes and work. The model can develop grounded, corrigible candidates for what remains unexpressed; excluding an option calls for grounds bearing on that option. Action selection connects purpose, support conditions, and actual consequences, allowing inquiry to continue amid unresolved differences.
+
 [Reasoning in an unfinished flow](reasoning.md) distinguishes how material enters present inquiry:
 
 | Position | What it retains | What revision changes |
