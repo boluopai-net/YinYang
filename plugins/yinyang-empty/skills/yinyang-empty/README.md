@@ -22,6 +22,8 @@ and implementation; you need not do it unaided.
 | Consider the author's suggestions | [Core views](references/core-views.md) |
 | Form or revise actual accounts | [Forming and revising working models](references/design-and-revision.md) |
 | Use the personal version in ordinary work | [Daily collaboration](SKILL.md) |
+| Connect full context and retrieve only missing bodies | [Personal context setup](references/package.md#connect-the-personal-context) |
+| Find practical tools, research/learning, or psychological materials | [The three practice entrances](SKILL.md#select-the-work) |
 | Organize private evidence and understanding | [Organizing Personal](references/personal-material.md) |
 | Install and update without replacing your own content | [Files and updates](references/package.md) |
 

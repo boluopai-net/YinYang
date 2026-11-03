@@ -27,7 +27,15 @@
 | 环境 | `references/situated/environment.md` |
 | 实际处境中的修订方法 | `references/situated/revision.md` |
 
-日常完整读取全部六份实际描述。通过实际账号与发布维护者，将需要持久保存的私人源放在 Git 与私人 GitHub 仓库，
+日常协作通过宿主支持的全局或会话上下文提供个人入口、选定采用的基本观点正文与六份完整实际模型。
+已在上下文中的全文直接理解和使用，只有缺失或截断的正文才通过实际 Skill 路线取回。
+私人入口写明宿主提供什么，并索引其他材料。模型按当前任务选择[工具使用](getting-started.zh-CN.md)、
+[科研与学习](research-and-learning.zh-CN.md)与[心理](psychological-support.zh-CN.md)三个实践入口，
+再按需进入 Personal 来源、论证或形成指南。完整上下文与选择性补充取材各有作用，
+本人无须逐份寻找并粘贴文件。Empty 的[上下文配置](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/references/package.zh-CN.md#接入个人上下文)
+说明使用者怎样配置和核验。
+
+通过实际账号与发布维护者，将需要持久保存的私人源放在 Git 与私人 GitHub 仓库，
 核实私有范围、提交内容与读者取得。原件保有维护者，秘密不进入普通仓库文件。公共写作源不包含实际私人描述。
 
 复杂版将核对后的正文投影到同样六路径，或用私人 `references/situated/index.md`

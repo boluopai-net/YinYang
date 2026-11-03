@@ -31,7 +31,20 @@ this page locates the private files and their updates:
 | Environment | `references/situated/environment.md` |
 | Actual situated revision method | `references/situated/revision.md` |
 
-Read all six complete actual accounts in ordinary collaboration. Persist intended
+For ordinary collaboration, supply the personal entrypoint, adopted core-view
+body if selected, and all six complete actual accounts through the host's
+supported global or session context. Understand and use full text already
+present; retrieve only missing or truncated bodies through the actual Skill
+route. The private entrypoint records what the host supplies and indexes
+further material. The model selects the three practice entrances—[Using the
+Tools](getting-started.md), [Research and Learning](research-and-learning.md),
+and [Psychology](psychological-support.md)—by the current task, then follows
+Personal sources, arguments or formation guides where needed. Complete context
+and selective further retrieval serve different roles; the person need not
+find and paste each file. Empty's [context setup](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/references/package.md#connect-the-personal-context)
+explains recipient configuration and readback.
+
+Persist intended
 private source in Git and a private GitHub repository through the actual account
 and publication owner, checking private visibility, committed content and reader
 retrieval. Original records retain their owners; secrets stay outside ordinary

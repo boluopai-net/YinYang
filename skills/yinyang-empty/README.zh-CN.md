@@ -18,6 +18,8 @@ Empty 包含六份 formation 指南、作为作者建议的基本观点、实践
 | 考虑作者的建议 | [基本观点](references/core-views.zh-CN.md) |
 | 形成或修订实际文件 | [形成与修订](references/design-and-revision.zh-CN.md) |
 | 在日常工作中使用个人版 | [日常协作](SKILL.zh-CN.md) |
+| 接入完整上下文，只补取缺少的正文 | [个人上下文配置](references/package.zh-CN.md#接入个人上下文) |
+| 查找工具、科研学习或心理材料 | [三个实践入口](SKILL.zh-CN.md#按当前工作选择入口) |
 | 整理私人证据与理解 | [组织 Personal](references/personal-material.zh-CN.md) |
 | 安装与更新，并保留自己的内容 | [文件与更新](references/package.zh-CN.md) |
 

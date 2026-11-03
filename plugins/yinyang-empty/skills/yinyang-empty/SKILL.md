@@ -1,6 +1,6 @@
 ---
 name: yinyang-empty
-description: "<用户自制> 阴阳空白版：形成自己的个人模型；实际协作前必须通读入口与六份完整正文。 Form and revise your own philosophy, personal working models, and environment; mandatory full reading of the entrypoint and all six actual accounts before substantive collaboration."
+description: "<用户自制> 阴阳空白版：形成自己的个人阴阳，接入完整工作上下文，并按任务查阅资料与修订方法。 Form a personal Yinyang, connect its complete working context, and locate task-relevant materials and revision methods."
 ---
 
 # yinyang-empty
@@ -21,6 +21,9 @@ personal substance, not an absence of method or direction.
 
 ## Select the work
 
+- In an established personal version, use the complete context already supplied
+  by its host. [Ordinary collaboration](#enter-ordinary-collaboration) explains
+  when missing bodies need retrieval.
 - For an overview of forming and using a personal version, read
   [Practice overview](references/creation-method.md).
 - To form or revise working accounts, read
@@ -32,6 +35,23 @@ personal substance, not an absence of method or direction.
   self-improvement method to develop this person's own content from their grounds.
 - For package paths, installation, and updates, read
   [Files and updates](references/package.md).
+
+For practical work, the three **Resources & Advice** pages provide further
+material outside the ordinary injected context:
+
+| Current need | Reading entrance |
+| --- | --- |
+| Tools, software, subscriptions, reading setup, or a personal environment | [Using the Tools](https://boluopai.net/getting-started/en/) |
+| Learning, courses, papers, research questions, or disciplinary methods | [Research and Learning](https://boluopai.net/research-learning/en/) |
+| Psychological material, questionnaires, statistics, or practical support | [Psychology](https://boluopai.net/psychology/en/) |
+
+The model selects and retrieves the relevant page or sections, then uses the
+actual host's applicable specialist Skills and tools. These public pages are
+optional practice references, not bundled private context. Personal evidence
+comes from the recipient's own `references/personal/README.md` and
+`references/personal/sources.md`; philosophical arguments and formation guides
+are consulted when the current question needs their contribution. The person
+can ask naturally without finding and pasting each resource.
 
 The copied guides contain attributed examples and links to the author's public
 essays. Those links offer optional reading; ordinary use and formation do not
@@ -72,18 +92,30 @@ locates this edition and the two condensation routes.
 
 ## Enter ordinary collaboration
 
-Full reading is mandatory (必须通读): this entrypoint introduces the arrangement,
-while the six actual accounts together carry the person's working model.
-Before substantive work, the main model directly reads this complete entrypoint
-and all six complete actual accounts. An introduction, index, injected summary,
-search excerpt, or another model's reading report does not fulfill that requirement.
-In a chosen native layout, also read its explicit binding
-and retrieve all six complete bodies, including the actual situated revision
-method. Reuse current full text; retrieve missing readings after context loss.
-Do not substitute guides, metadata, a shared bank or fewer prototype pages for
-these reading roles. State concrete gaps, carry independent useful work and
-repair what the purpose requires. Current actual bodies stay current until their
-successors have been checked.
+The complete personal entrypoint and six actual accounts supply the working
+understanding for ordinary collaboration, together with any adopted core-view
+body that the personal version selects. Understand their connected meaning.
+When the host has supplied those full bodies in the conversation or global
+context, use them directly; that already fulfills their reading role.
+Only missing or truncated bodies need retrieval through the host's actual
+Skill/file route. A native binding index locates the six complete accounts
+when their paths differ. Summaries, guides and metadata locate or explain the
+actual content; they have their own roles.
+
+When forming the personal version, connect these complete bodies to the host's
+supported global or session-context mechanism and verify what the model
+actually receives. Record the supplied bodies and retrieval locations in that
+private entrypoint. If the host instead supports on-demand retrieval, let the
+model retrieve the missing bodies itself. After a context transition, use the
+newly supplied text and recover only what is missing. The
+[package guide](references/package.md#connect-the-personal-context) develops
+this setup. Installing Empty provides its unfilled starters; formation and
+verified delivery establish the personal working context.
+
+State concrete gaps, carry independent useful work and repair what the purpose
+requires. Current actual bodies stay current until their successors have been
+checked. Additional practice pages, Personal originals and philosophical
+resources are selected from the current question through the index above.
 
 Both routes preserve the revision dependency: adopted philosophy, relevant new
 attributable sources, refreshed/corrected Personal understanding with conflicts

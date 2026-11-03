@@ -11,12 +11,33 @@ and full adoption are available choices, not compulsory stages.
 
 [Forming and revising working models](design-and-revision.md) connects the six
 formation lenses with [native Hindsight formation](hindsight.md). The private
-binding index chooses complete generated models for startup reading; output
+binding index locates complete actual accounts for context supply or retrieval; output
 count follows the questions. Original evidence stays with its owners, while
 derived Personal understanding can migrate to observations/pages. The
 [entrypoint](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) owns ordinary reading and the
 [environment guide](formation/environment.md) connects understanding to use.
 Selective borrowing need not configure the entire adopted arrangement.
+
+## Practical materials and supplied context
+
+In a formed personal version, the host may already supply the entrypoint,
+adopted Core views and six actual working accounts as complete context. Use
+those bodies directly and retrieve only missing content through that version's
+declared route. This map locates further material; the model selects and
+retrieves what the current work needs.
+
+The **Resources & Advice** section has three primary practice entrances:
+
+| Current need | Read |
+| --- | --- |
+| Tools, software, reading setup, and personal environment | [Using the Tools](docs/getting-started.md) |
+| Learning, courses, papers, research questions, and methods | [Research and Learning](docs/research-and-learning.md) |
+| Psychological material, questionnaires, statistics, and practical support | [Psychology](docs/psychological-support.md) |
+
+These pages connect the work to relevant specialist methods. Personal
+understanding and evidence remain with the private instance's topic and source
+indexes. The sections below locate philosophical arguments and formation
+methods when the task calls for them.
 
 ## Find the contribution the work needs
 

@@ -48,6 +48,28 @@ If forming a personal version, copy the complete method package to a privately
 maintained source, form the actual material there, and enable that version
 through the client's real discovery route. Avoid competing template and personal entrypoints for the same collaboration.
 
+## Connect the personal context
+
+Once the actual accounts are formed, have the model connect the personal
+entrypoint, the adopted core-view body if selected, and six complete actual
+accounts to the host's supported global or session-context mechanism. Verify
+the supplied text in the real consumer, including truncation and refresh
+behavior. Installing a Skill and injecting its reference files are separate
+capabilities; record the actual arrangement in the private entrypoint.
+
+Already supplied full text is ready to understand and use. On hosts with
+on-demand Skill/file retrieval, the model obtains the missing bodies through
+that route. Provide accurate local paths or discoverable cloud references,
+so routine work does not depend on the person pasting the materials again.
+After context transitions, recover missing content from the maintained source.
+
+Keep the wider resource collection available through the entrypoint's index:
+the three practice pages for tools, research/learning and psychology; Personal
+articles and originals for evidence; philosophical arguments for deeper
+questions; and formation guides for revisions. Select these by the current
+task instead of injecting the entire collection. Public guidance can be read
+from its linked website; private material retains its own access route.
+
 ## Update the method without replacing the person
 
 Take method updates from `skills/yinyang-empty/`. Compare the new method
