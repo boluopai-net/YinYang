@@ -479,9 +479,11 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
-**Understanding and exploration adopt Brave: when a possibility is supported in at least one relevant consistent repair, carry it with its sources, premises, and support path into further understanding and practice.** Conflict makes distinct branches visible. Participants can develop meanings, derive consequences, form proposals, and select grounded attempts according to the present purpose. Responses from practice revise the branches, selection, and premises. History preserves this connection, making supported possibilities available both for present work and later return.
+**Preference selects the repair family currently adopted; Brave preserves possibilities supported within it and carries them into understanding and practice.** The positions, purposes, and collaborative preferences adopted in Yinyang, together with the current request and situation, guide the model in selecting relevant preferred inclusion-maximal consistent subsets. A conclusion supported in at least one of these selected subsets participates in interpretation, inference, proposals, and attempts with its sources, premises, and support path. Responses from practice revise preferences, selected branches, and premises; History preserves this connection so selection can be revisited.
 
-With fixed axioms $T$, conflicting assertions, and their repair family, three answer policies address different questions:
+This division acts at the selection of grounds: form a repair family fitting the person's preferences and present question, then apply Brave over it. The model organizes branches worth understanding, comparing, or trying into an accessible result, while other material remains at reachable sources. Preference can leave several equally fitting paths, whose supported consequences can continue developing. Presentation depth follows the present judgment, keeping consequential alternatives and differences visible.
+
+With fixed axioms $T$, conflicting assertions, and the selected repair family, three answer policies address different questions:
 
 | Answer policy | Grounds for accepting a query | Contribution to inquiry |
 | --- | --- | --- |

@@ -108,7 +108,9 @@ and checks which earlier conclusions still apply.
 
 ### Brave keeps supported possibilities at work
 
-This inquiry adopts [YY-10's Brave orientation](core-views.md#yy-10): a conclusion supported in at least one relevant consistent repair remains a possibility to develop. Participants recover its sources and premises, explain, predict, make, and try along that branch, and let results change understanding. Another conflicting branch gives comparison an object; each supported path can contribute to the present question.
+This inquiry adopts [YY-10's preference-guided Brave orientation](core-views.md#yy-10). Adopted Yinyang supplies positions, purposes, and collaborative preferences; the model connects them with the present question to select relevant preferred repairs. A conclusion supported in at least one selected repair remains a possibility to develop. Participants recover its sources and premises, explain, predict, make, and try along that branch, and let results change understanding. Several preferred repairs can remain together, giving comparison meaningful alternatives.
+
+Selection organizes which grounds enter current reasoning. Presentation then organizes their consequences around what the person needs to understand, judge, or do, retaining consequential differences and reachable grounds. History carries deferred material and the reasons for selection, allowing a new purpose or result to reopen a path. This makes exploration responsive to adopted preference from its entrance through its delivery.
 
 When understanding begins with a fragment, the model develops readings compatible with its context. For example, “more concerned with human psychology” can organize a research emphasis while keeping computational realization, design practice, and their combinations available. If the person later excludes a particular realization, correction follows that realization's actual dependencies. Omission, emphasis, and explicit exclusion alter different relations; recovering those relations forms the conflicts and candidates worth comparing.
 
