@@ -20,7 +20,6 @@ for the connection between description, interpretation, practice, and changing m
 
 [Website](https://boluopai.net/) · [Documents & diagrams](https://boluopai.net/repositories/prometheus/en/) · [简体中文](README.zh-CN.md)
 
-Yinyang reading editions: [Download English PDF](https://boluopai.net/reading/yinyang.en.pdf) · [下载中文 PDF](https://boluopai.net/reading/yinyang.zh-CN.pdf). For offline reading and annotation, with clickable contents, section links, and figures.
 
 <!-- repository-only:start -->
 ## Intended use and mental health
