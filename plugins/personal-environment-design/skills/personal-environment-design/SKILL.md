@@ -45,8 +45,13 @@ operation establish different parts of that path.
 
 Consider both human and machine costs where they matter: understanding and
 operation, startup and latency, memory and repeated processes, external service
-cost, reliability, updates, and recovery. Compare reusing, configuring, replacing,
-or building against the actual purpose. Inspect current upstream implementations
+cost, reliability, updates, and recovery. Use the person's adopted purposes and
+cooperation preferences to select promising coherent arrangements from reusing,
+configuring, replacing, or building. Develop what each selected arrangement can
+support, keeping its assumptions and consequential alternatives visible; check
+that combined features can work together in the same actual arrangement.
+Carry this comparison into a usable version and let observed use revise the
+selection and its grounds. Inspect current upstream implementations
 when their capabilities affect the choice. A new layer earns its place through
 a concrete contribution; remove displaced duplication after successor readback.
 

@@ -179,6 +179,14 @@ from implementation or deployment that remains outside the requested scope.
 
 ## Return a usable answer
 
+Use the caller's adopted purposes and preferences to select relevant comparison
+branches, then develop what each supported branch makes possible. Explain
+material conditions and differences together with your best current judgment,
+so the caller receives a usable comparison. Evidence determines factual
+support, including findings that challenge the preferred option. Retain useful
+unselected leads in the existing research record when they make later
+reconsideration possible.
+
 Lead with the supported answer or recommendation and its practical reason. Provide
 the source links or authorized local locators, material dates and conditions,
 and evidence needed to assess it. Make source claims, observations, and inferences

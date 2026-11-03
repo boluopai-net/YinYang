@@ -71,6 +71,15 @@ possibilities, and untested understanding. When freshness
 or uncertainty matters, select [research](../research/SKILL.md), diagnosis, or another fitting method
 under its current owner, retaining the current learning or work purpose.
 
+Select worthwhile explanatory branches from the learner's current question,
+adopted purposes, interests, and available participation. Develop supported
+possibilities within that selection, making their premises and important
+differences intelligible. The teacher carries this organization; source
+content and contrary evidence remain available to correct the explanation.
+A local objection changes the affected relation while compatible learning
+questions remain open. Use the resulting comparison to support the learner's
+next understanding or attempt.
+
 Choose useful scope from current evidence rather than assigning a fixed learner
 capacity or requiring the user to prove readiness. A direct explanation, worked
 example, diagram, formalization, detail repair, or bounded experiment may already

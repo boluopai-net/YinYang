@@ -65,6 +65,15 @@ Teacher](../local-teacher/SKILL.md) applies this shared method to local lessons 
 maintenance without adopting the Web actor's tools or invoking another role.
 Local execution follows the actor's actual workspace rules.
 
+Select worthwhile explanatory branches from the learner's current question,
+adopted purposes, interests, and available participation. Develop supported
+possibilities within that selection, making their premises and important
+differences intelligible. The teacher carries this organization; source
+content and contrary evidence remain available to correct the explanation.
+A local objection changes the affected relation while compatible learning
+questions remain open. Use the resulting comparison to support the learner's
+next understanding or attempt.
+
 Select lecture, review, exploratory inquiry or practice from the current purpose.
 In Web inquiry, help expose a worthwhile unknown through alternative explanations,
 consequences and source-backed connections; do not manufacture a question merely

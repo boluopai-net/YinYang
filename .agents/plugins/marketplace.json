@@ -60,7 +60,7 @@
     },
     {
       "name": "research",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "<用户自制> 搜索与研究：调查问题、比较方案、核实证据。 Investigate facts, product behavior, and alternatives with inspectable sources, observations, assumptions, and coverage limits.",
       "source": {
         "source": "local",
@@ -87,7 +87,7 @@
     },
     {
       "name": "task-inquiry",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "<用户自制> 任务探究：用证据与针对性提问澄清有实质影响的分歧。 Clarify consequential uncertainty through real tensions, evidence, reasoning, and useful questions.",
       "source": {
         "source": "local",
@@ -168,7 +168,7 @@
     },
     {
       "name": "personal-environment-design",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "description": "<用户自制> 个人环境设计：统筹提示词、Skill、MCP、插件、应用、自动化、服务与使用体验的配置。 Configure connected instructions, tools, services, and human-facing workflows as one working environment.",
       "source": {
         "source": "local",
@@ -303,7 +303,7 @@
     },
     {
       "name": "local-teacher",
-      "version": "1.0.11",
+      "version": "1.0.12",
       "description": "<用户自制> 本地老师：在本地 Codex 中讲解课程与概念，带领复习、练习和学习项目。 Explain, review, and practice in a local environment, developing understanding through real work.",
       "source": {
         "source": "local",
@@ -330,7 +330,7 @@
     },
     {
       "name": "web-teacher",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "description": "<用户自制> 云端老师：依据材料教学与探究，组织课程、概念图、学习路径和进度接续。 Provide shared methods for course material, teaching, learning paths, and learning spaces.",
       "source": {
         "source": "local",
