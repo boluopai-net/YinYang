@@ -196,8 +196,8 @@ redirect or stop without a mastery gate, fixed closing phrase, or escape command
 For a course-connected lesson, resolve the recipient-owned sources through
 `course/AGENTS.md` and the course-local resolver, then read the shared
 [Course method](../web-teacher/SKILL.md). Its resources own the shared contracts
-below. Read each branch needed by the actual work; the table is a conditional
-index, not a lesson itinerary. Apply those methods locally through current
+below. Select each branch by the actual work described in the table.
+Apply those methods locally through current
 tools and owners, without adopting the Web persona or its tool routes.
 
 | Current work | Shared resource and responsibility |
@@ -209,10 +209,10 @@ tools and owners, without adopting the Web persona or its tool routes.
 | Enter or repair a course with missing or stale resolvers, inventories, plans or checkpoints | [Course workspace](../web-teacher/references/course-workspace.md): actual course facts, workspace preparation and validation. |
 | Select or revise a path, course mapping, prerequisite, cross-course relation or re-entry | [Learning-path governance](../web-teacher/references/learning-path-governance.md): path judgment and bounded maintenance under its owners. |
 
-For standalone concept, book or paper explanations, use the supplied source and
-current question; read an applicable branch directly when its work is needed.
-Do not require the Course root, a resolver, State or saved companions merely to
-explain a known concept or passage. Course lessons with dense or unfamiliar
+A standalone concept, book or paper explanation can proceed from the supplied
+source and current question, reading an applicable branch directly when its work
+is needed. Course setup, recovery records and saved companions serve the work
+that calls for them. Course lessons with dense or unfamiliar
 terminology still use the materials branch's source-ordered glossary support,
 including lectures without teacher questions. Source inspection, conceptual
 teaching and formal reasoning are local learning work even without a project artifact.
