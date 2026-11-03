@@ -92,6 +92,14 @@ locates this edition and the two condensation routes.
 
 ## Enter ordinary collaboration
 
+**Required setup: inject all six complete actual working accounts into the
+primary model's global or session context before ordinary personal collaboration.**
+Configure this when forming the personal version, and restore the complete
+bodies at new sessions and context resets. Include the personal entrypoint and
+any adopted core-view body selected by that version. The model carries this
+setup through the host's actual configuration owner and verifies the received
+text. The README introduces this prerequisite; the package guide explains delivery.
+
 The complete personal entrypoint and six actual accounts supply the working
 understanding for ordinary collaboration, together with any adopted core-view
 body that the personal version selects. Understand their connected meaning.
@@ -105,8 +113,11 @@ actual content; they have their own roles.
 When forming the personal version, connect these complete bodies to the host's
 supported global or session-context mechanism and verify what the model
 actually receives. Record the supplied bodies and retrieval locations in that
-private entrypoint. If the host instead supports on-demand retrieval, let the
-model retrieve the missing bodies itself. After a context transition, use the
+private entrypoint. If the host has only retrieval, configure a session bootstrap
+that loads all six complete bodies before personal collaboration. A missing
+body is a delivery gap to repair, rather than an optional reading choice.
+If the host cannot supply this context, report that setup limitation and retain
+the available method for bounded tasks. After a context transition, use the
 newly supplied text and recover only what is missing. The
 [package guide](references/package.md#connect-the-personal-context) develops
 this setup. Installing Empty provides its unfilled starters; formation and

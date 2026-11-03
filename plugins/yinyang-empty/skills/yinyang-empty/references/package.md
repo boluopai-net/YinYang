@@ -50,7 +50,9 @@ through the client's real discovery route. Avoid competing template and personal
 
 ## Connect the personal context
 
-Once the actual accounts are formed, have the model connect the personal
+Full-context delivery is a required part of personal-version setup. Before
+ordinary personal collaboration, all six complete actual accounts must be
+injected into the primary model's context. Have the model connect the personal
 entrypoint, the adopted core-view body if selected, and six complete actual
 accounts to the host's supported global or session-context mechanism. Verify
 the supplied text in the real consumer, including truncation and refresh
@@ -58,8 +60,11 @@ behavior. Installing a Skill and injecting its reference files are separate
 capabilities; record the actual arrangement in the private entrypoint.
 
 Already supplied full text is ready to understand and use. On hosts with
-on-demand Skill/file retrieval, the model obtains the missing bodies through
-that route. Provide accurate local paths or discoverable cloud references,
+only Skill/file retrieval, configure a session bootstrap to load all six
+complete bodies before personal collaboration, including after context resets.
+An index or search availability alone does not fulfill this requirement.
+If the host cannot supply the complete context, identify the setup gap; bounded
+use of the available methods can continue. Provide accurate local paths or discoverable cloud references,
 so routine work does not depend on the person pasting the materials again.
 After context transitions, recover missing content from the maintained source.
 

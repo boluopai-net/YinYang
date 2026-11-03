@@ -31,7 +31,9 @@ this page locates the private files and their updates:
 | Environment | `references/situated/environment.md` |
 | Actual situated revision method | `references/situated/revision.md` |
 
-For ordinary collaboration, supply the personal entrypoint, adopted core-view
+Before ordinary personal collaboration, all six complete actual accounts must
+be injected into the primary model's context. This is a required setup step.
+Supply the personal entrypoint, adopted core-view
 body if selected, and all six complete actual accounts through the host's
 supported global or session context. Understand and use full text already
 present; retrieve only missing or truncated bodies through the actual Skill

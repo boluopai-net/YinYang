@@ -27,7 +27,8 @@
 | 环境 | `references/situated/environment.md` |
 | 实际处境中的修订方法 | `references/situated/revision.md` |
 
-日常协作通过宿主支持的全局或会话上下文提供个人入口、选定采用的基本观点正文与六份完整实际模型。
+进入日常个人协作前，必须把六份完整实际模型注入主模型上下文；这是个人版的必要配置。
+通过宿主支持的全局或会话上下文提供个人入口、选定采用的基本观点正文与六份完整实际模型。
 已在上下文中的全文直接理解和使用，只有缺失或截断的正文才通过实际 Skill 路线取回。
 私人入口写明宿主提供什么，并索引其他材料。模型按当前任务选择[工具使用](getting-started.zh-CN.md)、
 [科研与学习](research-and-learning.zh-CN.md)与[心理](psychological-support.zh-CN.md)三个实践入口，
