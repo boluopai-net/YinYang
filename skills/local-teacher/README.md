@@ -22,7 +22,10 @@ Download complete sibling directories, preserving their names and resources:
 | [task-inquiry](../task-inquiry/README.md) | Useful support for consequential ambiguity and competing interpretations; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry). Teacher retains learning/practice judgment. |
 | [research](../research/README.md) | Source investigation, factual uncertainty and evidence comparison; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/research). It does not install a search provider. |
 
-Install in your host's supported Skill directory and load [SKILL.md](SKILL.md).
+Install the selected companion Skills through your host's supported installation
+route and load [SKILL.md](SKILL.md). Resolve each installed companion by name in
+the host's Skill catalog; its resources are relative to that resolved package.
+The relative links here provide navigation within the collection's source tree.
 The interface manifest in `agents/openai.yaml` is for compatible Codex hosts;
 other hosts can read the same entrypoint and linked resources. No CLI, daemon,
 hidden coordination layer or account is required by Teacher itself. Text lessons
@@ -39,8 +42,8 @@ the learner's selected intuitive judgment and revision remain attributable.
 An assisted contribution can be evidence; a model answer or passing run alone
 does not establish understanding. There is no mastery gate for onward explanation.
 
-This public adaptation preserves the local method and consumes the shared Web
-resources through public relative links. Private host paths, learner/corpus
+This public adaptation preserves the local method and consumes the installed
+web-teacher companion's resources through its catalog-resolved location. Private host paths, learner/corpus
 records and current research history are excluded. Original package material is
 [MIT licensed](LICENSE); companion packages and supplied sources retain their
 own licenses. There is no third-party implementation bundled here.
@@ -62,7 +65,9 @@ Course 方法，不是弱化的实践副本。准确标识为 `local-teacher`。
 | [task-inquiry](../task-inquiry/README.md) | 重要歧义与竞争解释的支持；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry)。Teacher 保留学习和练习判断。 |
 | [research](../research/README.md) | 来源调查、事实不确定性和证据比较；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/research)。它不安装搜索服务。 |
 
-将完整目录作为同级目录安装到宿主支持的 Skill 位置，加载 [SKILL.md](SKILL.md)。
+按宿主支持的安装方式安装所选配套 Skill，加载 [SKILL.md](SKILL.md)。
+通过宿主 Skill 目录按名称找到各配套包，资源路径相对于实际找到的包解析；
+本文相对链接用于集合源码树内的导航。
 兼容 Codex 的宿主可使用 `agents/openai.yaml`；其他宿主读取相同入口及资源。
 Teacher 本身不需要 CLI、守护进程、隐藏协调层或账号。文本教学需要实际来源与
 对话，保存材料／State 需要授权文件访问，实验需要项目真实工具和权限。
@@ -74,6 +79,6 @@ Course 工作前按共享 [配置指南](../web-teacher/references/configuration
 计算与执行细节；学习者选定的直觉判断和修正保留可归属性。受辅助的贡献可作
 证据，模型答案或程序运行通过不能独自证明理解，也不以掌握证明阻挡后续讲解。
 
-此公开改写保留本地方法，通过公开相对链接消费共享 Web 资源；排除私人主机
+此公开改写保留本地方法，通过宿主目录找到已安装的 web-teacher 并读取共享资源；排除私人主机
 路径、学习者／材料库记录及当前研究历史。原创内容采用 [MIT 许可](LICENSE)，
 配套包与提供的来源保留各自许可，本包不附第三方实现。

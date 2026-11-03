@@ -56,6 +56,12 @@ substantive teaching method and conceptual depth are shared. The Course method
 remains in [web-teacher](../web-teacher/SKILL.md) and its resources, with the active
 teacher retaining the current lesson and its attributable recovery records.
 
+Resolve companion Skills by name through the host's installed Skill catalog.
+For shared teaching methods, resolve `web-teacher`, read its installed `SKILL.md`,
+and read the needed `references/` resources relative to that resolved package.
+Links to companion files in this document provide navigation in the collection's
+source tree; the installed catalog supplies each companion's actual location.
+
 Start from the current question, source, project, or attempted reasoning and the
 result the user needs. Inspect relevant accessible material and current behavior
 before teaching claims that depend on them. Interpret condensed learner language
