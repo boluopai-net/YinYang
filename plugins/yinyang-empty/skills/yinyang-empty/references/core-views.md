@@ -630,6 +630,7 @@ participant differences, and the world's response together in creation.
 | Philosophy | Psychology | Engineering |
 | --- | --- | --- |
 | Emphasis on worldview and ontology: understanding the world and modes of being | Emphasis on epistemology, connected with value: understanding experience, knowing, and concern | Emphasis on methodology and practice: organizing expression, construction, and actual use |
+| Interaction design: products and experiences | Cognition and behavior: AI and human psychology | AI / computation: models and systems |
 | Website | Environment experienced in personal life | GitHub |
 | Work | Counterpart | Environment on electronic devices |
 | Sun | Moon | Earth |
@@ -638,6 +639,8 @@ participant differences, and the world's response together in creation.
 | Generative description: direction, participant relations, and methods | Distributed body: person, counterparts, records, and tools acting together | Interpretation and realization: capable participants using actual means |
 
 **Read horizontally, each row connects three aspects from one perspective; read vertically, each column follows a contribution across different expressions.** Philosophy encompassing the practice supplies the overall understanding; the first column emphasizes its contribution toward world and being. The six philosophical dimensions run through all three columns: truth connects actual conditions, judgments, and representations; value enters philosophical choices, personal concerns, and tool purposes.
+
+**Intelligent interaction connects the three columns through design, cognition, and computation.** Interaction design shapes products and experiences, identifying activities and relations worth realizing; cognition and behavior examine AI and human psychology, developing an understanding of how participants perceive, represent, learn, judge, and respond; AI / computation realizes these relations through models and systems. Together they organize human–intelligent-system collaboration: design offers possibilities that can be experienced, cognitive understanding informs design and computational choices, and actual interaction revises all three.
 
 The website makes philosophy readable and discussable; the environment experienced in personal life gives experience and concern concrete content; GitHub retains maintainable sources and implementations. A work can be an essay, music, design, or program; the counterpart receives, develops, and creates together; the environment on electronic devices supports these activities through software, interfaces, and tools. The experienced environment and the electronic environment connect: feelings and responses in the former can change arrangements in the latter.
 
