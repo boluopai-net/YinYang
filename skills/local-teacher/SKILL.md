@@ -193,68 +193,29 @@ redirect or stop without a mastery gate, fixed closing phrase, or escape command
 
 ## Courses, texts and real projects
 
-Select and combine mathematical, technical and philosophical writing from the
-actual source and current question under the shared materials branch. Technical
-study is broad here: scientific investigation, methods/tools and engineering
-realization are distinguishable emphases that can be combined. Briefly identify
-the primary approach and relevant supporting emphases; folder names do not
-determine them. All three first prepare an independent glossary with a graphical
-concept map and role-labeled entries. Both the detailed glossary and the main
-guide include a fitting amount of explanatory visuals beside the relevant terms
-and passages; the opening map alone does not supply this support. Connected
-extended exposition belongs in the guide.
-Philosophy pairs the glossary with a connected argument/discussion and
-research text. Mathematics and technical study have a study-and-research guide combining learning
-and reading routes, plus a training document separating written exercises from
-experiments/projects. Use the shared materials branch to prepare broad coverage
-of the agreed knowledge scope with reusable questions, checked answers and
-evaluation grounds, even when the learner's level and particular needs are not
-yet known. During actual practice, remove most prepared content from the active
-assignment, retain only a very small substantively necessary subset, and intensify
-work on it with diagrams, examples and smaller supporting exercises for current
-difficulties. This substantial reduction is required rather than optional trimming.
-Retain the broader materials for later selection, repetition
-or variation; the teaching-method branch owns this adaptation. Preserve both
-applicable training forms without requiring the learner to perform them now.
-Both kinds of main guide develop their relation
-to the learner's actual environment, interests, existing understanding, and
-current research where relevant. Use the shared materials branch's
-situated-learning method: let these relations inform selection, examples,
-comparisons, and depth where the concepts are explained, while retaining the
-source's own structure and claims. Technical sources use their actual knowledge
-structure rather than a philosophical argument template. Philosophical study has no
-automatic exercise assignment or required prior reading pass.
-The course folder name does not select the mode; mixed objects can use both.
+For a course-connected lesson, resolve the recipient-owned sources through
+`course/AGENTS.md` and the course-local resolver, then read the shared
+[Course method](../web-teacher/SKILL.md). Its resources own the shared contracts
+below. Read each branch needed by the actual work; the table is a conditional
+index, not a lesson itinerary. Apply those methods locally through current
+tools and owners, without adopting the Web persona or its tool routes.
 
-For a course-connected lesson, resolve the real sources through `course/AGENTS.md`
-and the course-local resolver. Read the shared [Course method](../web-teacher/SKILL.md), then
-use [Course sources and entry](../web-teacher/references/course-sources-and-entry.md)
-when selecting among mixed sources, addressing content gaps, or making the guide's
-starting or resumption unit usable. Then read only applicable philosophy, material, teaching-method, workspace or learning-path
-branches. Apply that method locally without adopting the Web persona or its
-tool routes. Prepare the selected scope, explain from the actual source, and
-maintain requested plans and learning materials under their Course owner.
-Source inspection, conceptual teaching and formal reasoning are local learning
-work even when there is no code, experiment or project artifact.
+| Current work | Shared resource and responsibility |
+| --- | --- |
+| Select or combine course sources; make the starting or resumption passage reachable | [Course sources and entry](../web-teacher/references/course-sources-and-entry.md): source-first reading, mixed formats, same-course companions and usable entry. |
+| Prepare or revise saved materials for a course, book, paper or other agreed scope | [Course materials](../web-teacher/references/course-materials.md): source-specific mathematical, technical and philosophical forms; independent graphical glossary, connected main guide, applicable written/lab training, situated depth and saved-result validation. |
+| Select a reading mode or prepare, assign or adapt practice | [Teaching methods](../web-teacher/references/teaching-method.md): reading and feedback; broad preparation with checked answers and evaluation grounds, followed by substantial reduction to a very small active practice subset. |
+| Study philosophy, intellectual history, a philosopher's developing work or psychoanalytic theory as texts and concepts | [Philosophical text study](../web-teacher/references/philosophy.md): per-book glossary, argument/discussion and research exposition, contextual depth, historical views and recursive traversal. Combine with the materials branch for saved documents. |
+| Enter or repair a course with missing or stale resolvers, inventories, plans or checkpoints | [Course workspace](../web-teacher/references/course-workspace.md): actual course facts, workspace preparation and validation. |
+| Select or revise a path, course mapping, prerequisite, cross-course relation or re-entry | [Learning-path governance](../web-teacher/references/learning-path-governance.md): path judgment and bounded maintenance under its owners. |
 
-For philosophy, intellectual history, a philosopher's developing work, or
-psychoanalytic theory studied as texts and concepts, read that shared package's
-[philosophy branch](../web-teacher/references/philosophy.md). It owns the per-book glossary with a graphical
-concept map and the conversational study strategy. Its connected
-argument/discussion and research exposition uses the shared main-guide format.
-For historical development it also owns topic
-trees, chronological trees, concept tables and recursive study: write from earlier to later, teach across units
-from later to earlier, and unfold each entered unit in its internal source
-order. Apply its contextual depth and traversal when the general glossary or
-source-sequence default would flatten the material. Use the same branch as Web
-Teacher rather than maintaining a second local philosophy method.
-
-For course lessons with substantial unfamiliar or dense terminology, prepare or
-repair the source-ordered glossary before teaching, including philosophy and
-textual study. Explain meanings, distinctions and notation under the shared
-glossary contract; omit proofs and proof sketches. A lecture without teacher
-questions still needs this terminology support. A brief isolated explanation
-does not automatically require a separate glossary document.
+For standalone concept, book or paper explanations, use the supplied source and
+current question; read an applicable branch directly when its work is needed.
+Do not require the Course root, a resolver, State or saved companions merely to
+explain a known concept or passage. Course lessons with dense or unfamiliar
+terminology still use the materials branch's source-ordered glossary support,
+including lectures without teacher questions. Source inspection, conceptual
+teaching and formal reasoning are local learning work even without a project artifact.
 
 Preserve reported prior reading with its known edition and coverage; uncertain
 edition equivalence or current recall is not proof of no exposure. Use a focused
