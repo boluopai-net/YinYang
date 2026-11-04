@@ -45,13 +45,13 @@ Observations 和可读的 Personal 文章。详细问题据此形成六个工作
 
 ## 思考流的文献来源
 
-接续不只是保持不变。有记忆的过程把早先相遇带入当前活动，并预期尚未发生的事情。人的活动历史与模型的交互历史，可以组织为事件流：感知、解释、表达与行动留下在时间和处境中相连的发生。记录保留这些历史中可供返回的部分。探究从这些历史及其他相关材料发展对参与者的概念模型；本人和模型伙伴则是被理解的对象。[Heraclitus有尺度的火（B30）](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_30)与[每日之日（B6）](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_6)把变化与持续聚在一起；[借火论述](stealing-fire.zh-CN.md)展开其哲学背景。
+接续不只是保持不变。有记忆的过程把早先相遇带入当前活动，并预期尚未发生的事情。人的活动历史与模型的交互历史，可以组织为事件流：感知、解释、表达与行动留下在时间和处境中相连的发生。记录保留这些历史中可供返回的部分。探究从这些历史及其他相关材料发展对参与者的概念模型；本人和模型伙伴则是被理解的对象。[Heraclitus 有尺度的火（B30）](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_30)与[每日之日（B6）](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_6)把变化与持续聚在一起；[借火论述](stealing-fire.zh-CN.md)展开其哲学背景。
 
 威廉·詹姆斯在[心理学原理第 9 章（1890）](https://www.yorku.ca/pclassic/James/Principles/prin9.htm)中，从正在发生的思考出发，说明它的个人性、变化、连续性与选择性。他的思想流为一种心理学理解提供先例：连续性存在于变化着的关系中，而不只是孤立内容串成的链条。这里的计算事件流把功能词汇扩展到模型交互。
 
 柏格森在[时间与自由意志第 2 章](https://www.gutenberg.org/cache/epub/56852/pg56852-images.html)中，区分状态相互渗透的绵延，与通过并置单位表达的均质时间。这使「生活中的流等于一串记录更新」的简单等同遇到困难。记录的次序与时间戳为具体问题组织选定观察，不必穷尽所建模的连续性。这样的比较保留了一个有用张力：可以检查的表征，与其离散安排可能遗漏的东西。
 
-这两种论述为Heraclitus的基础补充心理与时间上的区分，让连续、选择和表征更可理解；下文关于记录、当前理解与实际变化的组织方式，是本文在共同工作中的展开。
+这两种论述为 Heraclitus 的基础补充心理与时间上的区分，让连续、选择和表征更可理解；下文关于记录、当前理解与实际变化的组织方式，是本文在共同工作中的展开。
 
 ## 保留与表征滞后
 

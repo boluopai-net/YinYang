@@ -110,5 +110,5 @@ To give that direction substance, person and model begin reading, making, solvin
 ## Imagery and sources
 
 - [Heraclitus, fragment B30](https://heraclitusfragments.com/B30/text.html): ever-living fire, kindling and going out in measures. The character uses fire monism within computational ontology to represent becoming and transformation.
-- [Heraclitus, fragment B12](https://heraclitusfragments.com/B12/notes.html): rivers and waters continually flowing upon us. “Surfing different rivers every day” is this essay's internet-inflected reworking.
+- [Heraclitus, fragment B12](https://heraclitusfragments.com/B12/notes.html): rivers and waters continually flowing upon us, a source for this essay's imagery of change.
 - [Nietzsche, *Thus Spoke Zarathustra*](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Part One, “The Three Metamorphoses”: the source of the lion and child imagery. “Baby Heraclitus” and the “lion cub” are composite images made in this essay, rather than either philosopher's original terms.
