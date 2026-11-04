@@ -19,6 +19,15 @@ assistance use the same content and evidential distinctions below.
 
 ## Understand activity in its situation
 
+Preserve materially relevant differences, competing explanations, and literary
+perspectives with their sources and conditions. A faithful whole can contain
+unresolved tension while a current working view has consistent support.
+Use the adopted reading approach to distinguish roles and assertions, then
+develop the supported branches relevant to cooperation. Check both loss through
+overgeneralization and associations whose grounds remain missing. Organize
+the account around participation and the distinctions needed to understand it;
+current projects can then be situated within that fuller understanding.
+
 This file is the person-facing part of a collaboration working model. Give
 preferences and selection patterns, psychological experience and assessment
 evidence, and relevant personal conditions distinguishable, connected passages.

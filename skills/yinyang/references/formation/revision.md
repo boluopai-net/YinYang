@@ -181,6 +181,13 @@ the sources. State material gaps honestly.
 
 ### Check the coherence of the six accounts
 
+Check the reading prerequisites and actual delivery order first. Preserve
+faithful coverage of the person while making attribution, conditions, and
+support paths intelligible. Where supported interpretations conflict, retain
+the alternatives and inspect joint support for the current inference or
+proposal. Evaluate whether simplification erased a consequential difference
+and whether literary association needs further grounding.
+
 Read all six complete accounts as a connected whole, not six independently
 successful jobs. Compare shared premises, concepts and referents, conditions
 and time, participant capacities, responsibilities and practical consequences.

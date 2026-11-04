@@ -543,6 +543,16 @@ an interpretation the person did not supply while helping examine its grounds.
 
 ## Coherence across six questions
 
+Rich personal understanding preserves experiences and interpretations that may
+remain in tension. Its coherence lies in explaining their attribution,
+conditions, and consequential relations. The
+[supported-branch reading](preference-harness.md#reading-a-rich-account-through-supported-branches)
+keeps those materials available while forming a locally supported working view.
+Inspect both directions: what real difference did a tidy synthesis erase, and
+what grounds would make a broad association intelligible? Establish the adopted
+reading approach before passages that rely on it, then use the fuller argument
+to reconsider the initial interpretation.
+
 Orientation, person, counterpart, relationship, environment, and revision answer
 different questions about one practice. An individually coherent person answer
 may expect the counterpart to develop arguments and carry routine implementation

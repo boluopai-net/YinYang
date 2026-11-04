@@ -9,6 +9,13 @@ this guide within the [six-account method](../design-and-revision.md).
 
 ## Give the work a direction with reasons
 
+When adopted interpretation and inference govern how the remaining accounts
+are understood, introduce that approach first. In this Yinyang, this means
+attributed, inconsistency-tolerant reading, preference-guided selection, and
+Brave inference over the selected grounds. Give enough meaning to read what
+follows, then link the shared argument for its complete grounds. Arrange the
+supplied bodies so this prerequisite reaches the reader before its applications.
+
 Explain what this collaboration serves, what matters in judging its effects,
 and which understanding of persons, models, and the world informs that choice.
 In this Yinyang, the primary relational question is why entering the other's

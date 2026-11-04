@@ -41,6 +41,30 @@ relations, and choosing action.
 
 The repair example holds $T$ fixed while comparing selected consistent grounds. Inquiry can also return to the choice of $T$, the question, source priorities, and the rule for accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
 
+## Reading a rich account through supported branches
+
+A personal account can preserve changing experiences, competing interpretations,
+and literary perspectives in one readable whole. Begin by identifying who
+speaks, what is asserted, its time and conditions, and the role an image plays.
+Helping and needing help can describe different relations of the same person.
+An image can gather several perspectives whose implications become clear when
+expanded in context. Where claims really conflict, retain their attribution
+and develop the supported branches relevant to the current question.
+
+The selected repair family supplies grounds for local inference while the
+fuller account keeps material available for reconsideration. Brave makes each
+supported possibility usable; a combined proposal needs a branch that supports
+its combined claims. This distinction gives personal richness and practical
+clarity different, connected jobs. Coherence consists in intelligible relations,
+recoverable grounds, and checkable inferences. Revision can restore a difference
+lost through overgeneralization or supply the missing grounds of a loose
+association. Both changes improve fidelity to the person.
+
+When this reading approach is adopted, establish it before the literary and
+personal material that depends on it. Orientation can introduce it concisely;
+the shared arguments then develop its grounds, and the situated accounts put
+it to work. The reading order itself becomes part of the environment to check.
+
 ## Preference extended through the environment
 
 A personal environment can participate in preference rather than merely transmit a preference already complete inside the person. Someone values sustained reading, asks a model to reorganize a library, adopts direct links, and keeps revising the interface through use. The resulting ability to select and continue reading is realized through the person, model, documents, and software together. The arrangement helps determine what is noticed, chosen, and made possible next.

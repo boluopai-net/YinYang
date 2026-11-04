@@ -593,6 +593,14 @@ that view when a relevant difference appears. The rule connecting state and
 color does real work here; removing it would remove the inference, however
 attractive the preferred interpretation felt.
 
+Rich personal and literary accounts can retain tension while current inference
+uses supported branches. Establish the adopted reading approach before its
+applications, clarify attribution and conditions, and preserve the material
+needed to reconsider selection. Coherence joins faithful coverage, intelligible
+relations, and checkable support; revision addresses both erased differences
+and ungrounded associations. [Reading rich accounts](preference-harness.md#reading-a-rich-account-through-supported-branches)
+develops this application.
+
 <a id="yy-11"></a>
 
 ## YY-11 · The world constrains the shared account
