@@ -36,6 +36,13 @@
 
 ## 找到工作需要的贡献
 
+| 当前问题 | 基本观点与具体阅读 |
+| --- | --- |
+| 哪些值得本人参与，哪些交给模型承担？ | [YY-02](docs/core-views.zh-CN.md#yy-02) 与 [YY-06](docs/core-views.zh-CN.md#yy-06)把具身多模态参与接到语言外包。[认知复杂度与表达范围](docs/metaphor-and-self-revision.zh-CN.md#认知复杂度与表达范围)比较表征、已有知识、监督、中断与恢复。 |
+| 人与模型怎样在设计、理解和构造之间换位？ | [YY-13](docs/core-views.zh-CN.md#yy-13)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
+| 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-16](docs/core-views.zh-CN.md#yy-16)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |
+| 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-17](docs/core-views.zh-CN.md#yy-17)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
+
 联动修订哲学、personal 材料、描述与实际 Skill 时，使用[如何修订](formation/revision.zh-CN.md)，发展适合本人的实际修订方法。
 
 一个请求并不总已显明哪种帮助能够服务它。同一个愿望可能需要完成作品、给出解释、提出异议或共同尝试。
@@ -78,6 +85,7 @@
 
 | 探究中出现的问题 | 阅读及其贡献 |
 | --- | --- |
+| 偏好选定相关根据后，哪些有支撑的可能继续参与？ | [YY-10](docs/core-views.zh-CN.md#yy-10)与[选择与推理](docs/preference-harness.zh-CN.md#选择与推理)区分优选极大一致子集的选择，以及选定族上的 Brave 推理。AR、IAR 提供不同的比较；联合采用的结论需要在相关分支中有共同支撑。 |
 | 共同工作怎样留下能够探索和反思的生活轨迹？ | [生活轨迹的形成](docs/flow-and-time.zh-CN.md)以共同改善阅读环境为例，通过 Git/GitHub 的版本历史与 ChatGPT 的 Computer History 两个主要入口汇集历史，区分事件来源和当前说明，并展开保留、时间与修订怎样支持接续。 |
 | 问题怎样形成，什么能够区分竞争解释？ | [未完成的流中的推理](docs/reasoning.zh-CN.md)展开事件流、相对于问题的视图、溯因、预测、保留的来源、候选与嵌套反馈。它帮助生成候选，并推出进一步互动确实能够区分的后果。 |
 | 怎样保留冲突材料，同时让融贯的视图支持行动？ | [偏好怎样参与选择与推理](docs/preference-harness.zh-CN.md)区分保留来源、选择视图与在视图内推论。它帮助保留当前退出使用的候选供重新考虑，而不把不相容的断言当作共同采纳的内容。其中的心理与形式来源承担不同作用。 |
@@ -128,7 +136,11 @@
 解释分发与私人支撑；材料缺失时应指出，不声称读过。实际私人出处位于已形成私人包的
 `references/personal/sources.md`；公开[证据指引](formation/revision.zh-CN.md#来源与证据)说明怎样维护。
 
-六张图提供直观入口：
+九张图提供直观入口，与[网站图集](https://boluopai.net/repositories/prometheus/#diagrams)相接：
+
+- [Yinyang：相绕的 Shuang yu](docs/yinyang-and-taiji.zh-CN.md)展开文章顶部双鱼图所表达的实际参与者、角色与相互返回。
+- [两位精灵，三个论域](diagrams/triad-spirits.zh-CN.svg)呈现人与模型跨越哲学、心理和工程，也能兼具贡献。[English](diagrams/triad-spirits.svg)
+- [有限投入，怎样分配？](diagrams/economic-allocation.zh-CN.svg)连接有限资源、组合投入、实际后果与分配方法的修订。[English](diagrams/economic-allocation.svg)
 
 - [全书关系](diagrams/formation-path.zh-CN.html)联系生活轨迹、共同反思、个人哲学、个人模型与实际实现。[English](diagrams/formation-path.html) · [SVG](diagrams/formation-path.zh-CN.svg)
 - [借火与培养](diagrams/borrowed-fire.zh-CN.html)联系共同积累的能力、共同创造、人的能力发展与世界的回应。[English](diagrams/borrowed-fire.html) · [SVG](diagrams/borrowed-fire.zh-CN.svg)
@@ -142,4 +154,4 @@
 独立的 HTML 资源表达关系，而非强制顺序或权限层级。完整论证与根据留在相应文章中。
 来源、验证与再分发声明见[图示维护说明](diagrams/PROVENANCE.md)。
 
-[Hindsight 原生形成与配置](hindsight.zh-CN.md)说明默认引擎、详细问题规格与私人绑定阅读入口；六份指南不规定输出数量。
+[Hindsight 原生形成与配置](hindsight.zh-CN.md)说明可选记忆实现、六问规格与私人绑定阅读入口。

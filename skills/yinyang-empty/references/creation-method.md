@@ -9,6 +9,12 @@ and a shared working environment so you and the model can continue to understand
 
 ## Begin with Empty
 
+Once a version is formed, [revise its connected whole](formation/revision.md#revise-the-collection-as-a-connected-whole):
+philosophical arguments, Core views and their important tables,
+working accounts, guides, and reading entrances develop together. The model
+traces these dependencies from the person's request and carries the resulting
+version into use.
+
 The public Skill is **Empty**. The author's philosophical essays and diagrams remain available as reading material; your personal version develops its own adopted understanding.
 
 **Empty provides the recursive self-improvement method.** Form personal content from your own purposes, experience, material, and judgment, then revise it through actual work.

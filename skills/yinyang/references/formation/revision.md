@@ -59,6 +59,43 @@ that remains unfinished.
 
 ## Establish the current material
 
+### Revise the collection as a connected whole
+
+A request to revise Yinyang selects the connected collection as the scope of
+checking. The model carries that scope without requiring the person to name
+each chapter, appendix, diagram, or reading entrance. Begin from the actual
+contents: the five main parts and the appendices, with the associated practice
+resources and selected personal version. Another adopted collection uses its
+own current structure.
+
+| Part of the whole | What revision must carry through |
+| --- | --- |
+| Philosophical chapters and branches | Develop the changed argument and reconcile other passages that depend on its concepts, premises, or conclusions. |
+| Core views and their important tables | Maintain the corresponding claim, relationships, and tabular comparisons in the same revision as the developed philosophy. Preserve stable YY locators and repair their connections. |
+| Diagram collection and article figures | Update meaning, labels, captions, bilingual counterparts, article placement, gallery entries and displayed counts together. |
+| Philosophical models, use and writing guides | Carry changed operative meaning into the relevant formation, collaboration, environment, and revision methods. |
+| Viewpoints and reading entrances | Reconcile task-based routes, philosophical/psychological/engineering sources, section descriptions and cross-links with the arguments now present. |
+| Adopted personal accounts and delivery | Follow the source–Personal–six-account dependencies below, then deliver the affected local/cloud readers, website, packages and paired reading editions through their actual owners. |
+
+This is whole-collection responsibility with dependency-directed editing.
+Inspect every category for the current change; retain a checked item when its
+meaning and route still fit. A small correction can have a small diff while
+still accounting for its place in the whole. A new image, for example, changes
+its article and visual inventory; a new philosophical relationship can also
+change Core views, tables, guides, and reading questions.
+
+Complete the integrated version before reporting the revision finished:
+compare the user's purpose with the actual main text and appendix entrances,
+check bilingual meaning and important visual relationships, and read back
+affected consumers. Include paired PDFs where the collection maintains them.
+Carry any explicit user stopping boundary into the scope and report the
+concrete dependent work that remains at that boundary.
+
+Core views and the six working accounts serve as complete injected text.
+Keep their important tables as readable text and maintain illustrations with
+the article and diagram owners. The visual reading surface and the injected
+account express the corresponding relationships through their respective forms.
+
 ### Choose the emphasis of this revision
 
 Personal's categories organize available grounds; a revision selects among

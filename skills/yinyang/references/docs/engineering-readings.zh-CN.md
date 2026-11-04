@@ -95,9 +95,30 @@
 
 | 文档或论文 | 内容 |
 | --- | --- |
-| [Gödel Machine](https://people.idsia.ch/~juergen/goedelmachine.html) 与 [Darwin Gödel Machine](https://arxiv.org/abs/2505.22954v3) | 两类自改进技术研究入口：前者围绕证明引导，后者围绕经验评估。比较其目标、假设和验证方式，再读本文集中的相关类比。 |
+| 冯·诺伊曼著、Burks 编（1966），[Theory of Self-Reproducing Automata](https://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1966.pdf)，第五讲，第75—87页 | 部件与环境、A/B/C 构造和复制、D 与可遗传变化，以及继续构造的复杂性阈值。 |
+| Kleene（1938），[On Notation for Ordinal Numbers](https://doi.org/10.2307/2267778)，§2；Moschovakis（2010），[Kleene’s Amazing Second Recursion Theorem](https://www.math.ucla.edu/~ynm/papers/1602-002-1.pdf)，第190—193页 | 有效自指：程序怎样在构造中使用自己的索引或描述。 |
+| Schmidhuber，[Gödel Machines，第5版](https://arxiv.org/abs/cs/0309048v5)，§§4.1、4.3、6.1 | 证明引导的自改进、对改进程序的修改，以及继续搜索的机会成本。 |
+| Zhang、Yuan 与 Zhang（2026），[Self-Referential Introspection in Large Language Models，第2版](https://arxiv.org/abs/2607.04277v2)，§§3.3—3.4与附录A—C | 自描述、模拟、评价、修改和所提出的自省阈值；将形式前提与耦合系统中的解释比较。 |
+| Yampolskiy（2015），[From Seed AI to Technological Singularity via Recursively Self-Improving Software](https://arxiv.org/abs/1502.06512)，§§1—2 | 区分自修改、表现改善与产生后续改进的能力改善。 |
+| [Darwin Gödel Machine](https://arxiv.org/abs/2505.22954v3) | 以经验评估开展自改进，与证明引导的哥德尔机方案比较。 |
+| Bienvenu 与 Bourgaux，[修复与查询语义，§3](https://arxiv.org/html/2003.05746v5#S3) | 偏好论述采用的修复与 Brave／AR／IAR 推理；RSI 专章进一步考察选择和评价本身怎样改变。 |
+
+[RSI 专章的来源说明](literary-recursive-improvement.zh-CN.md#来源及其贡献)把这些阅读接到身体、
+描述与解释器的论证。沿构造考察后继取得什么、怎样继续评价和修改自身，
+再比较形式保证与人—模型安排能够取得的实践根据。
 
 ## 物理条件、测量与反馈
+
+[经济现实中的个人 RSI](economic-personal-rsi.zh-CN.md)还用以下来源连接能力、资源和变化的条件：
+
+| 来源 | 工程与社会经济问题 |
+| --- | --- |
+| Perdomo 等（2020），[Performative Prediction](https://proceedings.mlr.press/v119/perdomo20a.html) | 部署怎样改变目标分布，反复训练在什么条件下能够稳定？ |
+| Levy 与 Calvert（2021），[脑计算与通信的能耗研究](https://pubmed.ncbi.nlm.nih.gov/33906943/) | 哪些代谢成本属于计算、通信及其他活动，能耗比较实际测量什么？ |
+| Autor（2015），[Why Are There Still So Many Jobs?](https://shapingwork.mit.edu/research/why-are-there-still-so-many-jobs-the-history-and-future-of-workplace-automation/) | 工作自动化中的任务替代、互补贡献与需求怎样相互作用？ |
+
+涉及感知、表征、控制和使用界面的成本时，继续读[心理研究指南](psychological-readings.zh-CN.md#认知表征与努力)。
+其中的人机交互与生成式 AI 研究把实现接到实际参与。
 
 工程实现发生在物质世界中：程序要在机器上运行，测量需要设备和时间，界面也要进入人的感知与行动。能量、延迟、误差和身体条件共同影响实际使用。
 

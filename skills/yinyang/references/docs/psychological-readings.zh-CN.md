@@ -8,6 +8,37 @@
 
 链接分别通往出版社书目、试读、作者材料或公开全文。
 
+## 认知、表征与努力
+
+[YY-02 与 YY-06](core-views.zh-CN.md#yy-06)把多模态参与接到繁复语言工作的外包。
+[个人模型论述](metaphor-and-self-revision.zh-CN.md#认知复杂度与表达范围)使用以下研究，
+比较理解、表达、操作、监督和中断后返回所构成的整项活动。
+
+| 文章已采用的研究 | 阅读时考察什么 |
+| --- | --- |
+| Kieras 与 Polson（1985），[An approach to the formal analysis of user complexity](https://doi.org/10.1016/S0020-7373(85)80045-6) | 操作系统需要的知识、规则与认知加工。 |
+| Sweller、van Merriënboer 与 Paas（2019），[Cognitive Architecture and Instructional Design: 20 Years Later](https://doi.org/10.1007/s10648-019-09465-5) | 元素交互、已有知识与工作记忆要求。 |
+| Larkin 与 Simon（1987），[Why a Diagram is (Sometimes) Worth Ten Thousand Words](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x) | 信息等价时，空间组织怎样改变搜索与推断。 |
+| Mayer 与 Moreno（2003），[Nine Ways to Reduce Cognitive Load in Multimedia Learning](https://doi.org/10.1207/S15326985EP3801_6) | 多媒体学习中的加工要求、邻近性、分段和过载。 |
+| Hollender 等（2010），[Integrating cognitive load theory and concepts of human–computer interaction](https://doi.org/10.1016/j.chb.2010.05.031) | 将学习要求与操作软件的要求联系起来。 |
+| Tankelevitch 等（2024），[The Metacognitive Demands and Opportunities of Generative AI](https://doi.org/10.1145/3613904.3642902) | 提示、评价模型产出、组织工作流与设计支持。 |
+| Altmann 与 Trafton（2002），[Memory for goals: an activation-based model](https://doi.org/10.1207/S15516709COG2601_2) | 目标挂起、提取线索与恢复。 |
+
+### 价值与努力分配
+
+[经济现实](economic-personal-rsi.zh-CN.md#同一项选择的三种经济考察)把活动的体验成本，
+接到竞争用途、所选目的与社会条件。沿每种解释实际研究的尺度阅读。
+
+| 来源 | 阅读问题 |
+| --- | --- |
+| Camerer、Loewenstein 与 Prelec（2005），[Neuroeconomics: How Neuroscience Can Inform Economics](https://doi.org/10.1257/0022051053737843) | 相互作用的认知和情感系统怎样参与经济选择？ |
+| Shenhav、Botvinick 与 Cohen（2013），[The Expected Value of Control](https://doi.org/10.1016/j.neuron.2013.07.007) | 该理论怎样联系预期回报、控制分配和努力成本？ |
+| Kurzban 等（2013），[An opportunity cost model of subjective effort and task performance](https://doi.org/10.1017/S0140525X12003196) | 放弃其他用途怎样可能参与解释主观费力？ |
+
+主观费力、认知控制与代谢支出各有相应测量。[工程阅读](engineering-readings.zh-CN.md#物理条件测量与反馈)
+定位能耗与预测反馈的来源；[哲学阅读](philosophical-readings.zh-CN.md#目的选择与方法改变)
+返回目的与评价尺度。这些路径共同支持对具体活动及其实际成本的调查。
+
 ## 心理冲突、关系与改变
 
 环境和关系变化时，原有愿望、承诺、习惯与新的处境可能彼此拉扯。这里收录几种理解冲突的方式：想改变又想维持现状、不同需要之间的矛盾、自我批评与保护、对同一个人的爱与敌意，以及知道一件事却难以据此行动。不同理论从各自的概念与经验材料解释这些现象。

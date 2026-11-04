@@ -11,6 +11,41 @@ correction. Psychological research and professional methods are collected at the
 
 Links lead to publisher records, samples, author materials, or public full texts.
 
+## Cognition, representation, and effort
+
+[YY-02 and YY-06](core-views.md#yy-06) connect multimodal participation with
+delegating elaborate language work. The [personal-model essay](metaphor-and-self-revision.md#cognitive-complexity-and-expressive-scope)
+uses the following research to compare a whole activity: understanding,
+expression, operation, supervision, and returning after interruption.
+
+| Research already used in the essays | What to examine |
+| --- | --- |
+| Kieras and Polson (1985), [An approach to the formal analysis of user complexity](https://doi.org/10.1016/S0020-7373(85)80045-6) | Required knowledge, rules, and cognitive processing in operating a system. |
+| Sweller, van Merriënboer, and Paas (2019), [Cognitive Architecture and Instructional Design: 20 Years Later](https://doi.org/10.1007/s10648-019-09465-5) | Element interactivity, prior knowledge, and working-memory demands. |
+| Larkin and Simon (1987), [Why a Diagram is (Sometimes) Worth Ten Thousand Words](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x) | How spatial organization changes search and inference even when information is equivalent. |
+| Mayer and Moreno (2003), [Nine Ways to Reduce Cognitive Load in Multimedia Learning](https://doi.org/10.1207/S15326985EP3801_6) | Processing demands, contiguity, segmentation, and overload in multimedia learning. |
+| Hollender et al. (2010), [Integrating cognitive load theory and concepts of human–computer interaction](https://doi.org/10.1016/j.chb.2010.05.031) | Relate learning demands to the demands of operating the software. |
+| Tankelevitch et al. (2024), [The Metacognitive Demands and Opportunities of Generative AI](https://doi.org/10.1145/3613904.3642902) | Prompting, evaluating model output, organizing workflow, and design support. |
+| Altmann and Trafton (2002), [Memory for goals: an activation-based model](https://doi.org/10.1207/S15516709COG2601_2) | Goal suspension, retrieval cues, and resumption. |
+
+### Valuation and the allocation of effort
+
+[Economic reality](economic-personal-rsi.md#three-economic-perspectives-on-one-choice)
+connects the experienced cost of an activity with its competing uses, chosen
+purposes, and social conditions. Follow each explanation at the scale it studies.
+
+| Source | Reading question |
+| --- | --- |
+| Camerer, Loewenstein, and Prelec (2005), [Neuroeconomics: How Neuroscience Can Inform Economics](https://doi.org/10.1257/0022051053737843) | How do interacting cognitive and affective systems inform economic choice? |
+| Shenhav, Botvinick, and Cohen (2013), [The Expected Value of Control](https://doi.org/10.1016/j.neuron.2013.07.007) | How does this theory connect expected payoff, control allocation, and effort costs? |
+| Kurzban et al. (2013), [An opportunity cost model of subjective effort and task performance](https://doi.org/10.1017/S0140525X12003196) | How might foregone alternative uses help explain subjective effort? |
+
+Subjective effort, cognitive control, and metabolic expenditure have different
+measures. The [engineering guide](engineering-readings.md#physical-conditions-measurement-and-feedback)
+locates the energy and prediction-feedback sources; [philosophical reading](philosophical-readings.md#purposes-selection-and-changing-the-method)
+returns to purposes and criteria. Together these routes support investigation
+of a particular activity and its actual costs.
+
 ## Psychological conflict, relationships, and change
 
 As environments and relationships change, earlier wishes, commitments, and habits can pull against new circumstances. These readings address ambivalence about change, competing needs, self-criticism and protection, love and hostility toward the same person, and knowing something without being able to act on it. Different theories explain these phenomena through their own concepts and evidence.

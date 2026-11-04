@@ -1,5 +1,9 @@
 # 阴阳的实践总览
 
+形成自己的版本后，按[相连整体修订](../formation/revision.zh-CN.md#把文集作为相连整体修订)：
+哲学论证、基本观点及重要表格、工作描述、指南和阅读入口共同发展。
+模型从本人的请求追踪这些依赖，并将形成的版本交付到实际使用处。
+
 [首页](../../README.zh-CN.md) · [工作模型的形成与修订](../design-and-revision.zh-CN.md) · [阴阳的日常协作](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md) · [English](creation-method.md)
 
 形成自己的阴阳，是把采用的哲学、对实际参与者的理解和共同工作环境连接起来，

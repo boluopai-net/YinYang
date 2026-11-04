@@ -88,6 +88,12 @@ shared living environment.
 
 ## Hegel: sublation, history, and spirit
 
+The current [three-column account](local-source-and-website.md#person-and-model-move-among-the-three-positions)
+extends role return to philosophy, psychology, and engineering: each participant
+can move across contributions and retain what is learned elsewhere. Read the
+passages below for mediation and preservation, then compare that interpretation
+with the actual relations represented by the three-column table.
+
 The [*Encyclopaedia Logic*, §§79–81](https://www.marxists.org/reference/archive/hegel/works/sl/sl_vi.htm),
 and the [development of §82](https://www.marxists.org/reference/archive/hegel/works/sl/sl_divis.htm)
 present understanding, dialectic, and speculation as connected moments:
@@ -316,6 +322,13 @@ George Lakoff and Mark Johnson's [Metaphors We Live By, chapters 1–3](https://
 
 ## Mind, knowledge, and explanation
 
+For the current questions of multimodal participation and linguistic
+delegation, begin with these embodied, extended, and distributed accounts,
+then follow [cognition, representation, and effort](psychological-readings.md#cognition-representation-and-effort)
+for empirical work on cognitive demands. The philosophical question concerns
+where a supported capacity belongs and what counts as participation; the
+psychological question investigates how a particular arrangement operates.
+
 Clark and Chalmers's [*The Extended Mind*](https://www.consc.net/papers/extended.html)
 informs [Borrowing fire and cultivating creative capacity](stealing-fire.md)'s account of active environmental
 supports. [From personal philosophy to personal models](metaphor-and-self-revision.md) connects
@@ -331,6 +344,29 @@ Gordana Dodig-Crnkovic's [Information, Computation, Cognition (2013)](https://ar
 For psychological processes, empirical assessment, belief, and interaction, continue to [psychological readings](psychological-readings.md). Their theories and evidence investigate how knowing actually happens; philosophy continues to ask about explanation, grounds for knowledge, and the scope of mind.
 
 Technical sources for the Gödel Machine and Darwin Gödel Machine appear in [engineering readings](engineering-readings.md#self-improvement-research). [Preference Harness](preference-harness.md) retains its philosophical comparisons while preserving the assumptions and scope of formal repair, inference, and query transformation.
+
+## Purposes, selection, and changing the method
+
+Several recent developments meet in one question: what makes a change worth
+carrying forward? [Personal-first humanism](personal-first-humanism.md) supplies
+the value orientation; [economic reality](economic-personal-rsi.md) compares
+finite investments and actual opportunities. Mill's experiments of living and
+the Wittgenstein and Buddhist passages above help examine individuality,
+obligatory pursuit, and the continued usefulness of means.
+
+[Preference and reasoning](preference-harness.md#selection-and-inference) makes
+the selection of grounds explicit before Brave inference develops supported
+possibilities. Read Carnap on adopting a framework and Whitehead on importance
+alongside that distinction; the repair semantics has its own formal source,
+located in [engineering readings](engineering-readings.md#self-improvement-research).
+
+[Personal RSI](literary-recursive-improvement.md) then makes the selection and
+evaluation method itself revisable. Dewey's acting and undergoing, Hegel's
+changes in object and criterion, and the account of embodied experimentation
+help ask what returns from experience and what it changes. The technical
+construction of self-reference and successors belongs to the engineering
+sources; the philosophical argument concerns its purposes, interpretation,
+and place in a life.
 
 ## Source scope
 

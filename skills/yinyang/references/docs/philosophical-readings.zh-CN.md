@@ -69,6 +69,10 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 
 ## 黑格尔：扬弃、历史与精神
 
+当前的[三列关系](local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)把角色返回
+展开到哲学、心理与工程：每位参与者都能跨越贡献，并保留在别处形成的理解。
+下面的原文提供中介与保存的阅读根据，再与三列表实际表达的关系比较这项解释。
+
 [《小逻辑》第 79–81 节](https://www.marxists.org/reference/archive/hegel/works/sl/sl_vi.htm)
 及[第 82 节的展开](https://www.marxists.org/reference/archive/hegel/works/sl/sl_divis.htm)
 把知性、辩证与思辨说明为相连环节：固定规定，考察其自身限度，再理解对立中的
@@ -255,6 +259,10 @@ Feng Ye 已经是文集的比较对象，这里将其展开为独立的阅读入
 
 ## 心灵、认识与解释
 
+讨论多模态参与和语言外包时，先从这里的具身、延展与分布式理解进入，
+再读[认知、表征与努力](psychological-readings.zh-CN.md#认知表征与努力)中的认知要求研究。
+哲学问题关心受支持的能力属于怎样的系统、什么算参与；心理问题调查具体安排怎样运作。
+
 克拉克 与 查尔默斯 的[延展心智](https://www.consc.net/papers/extended.html)
 为[借火与创造能力的培养](stealing-fire.zh-CN.md)关于环境积极支持的说明提供资源。
 [从个人哲学到个人模型](metaphor-and-self-revision.zh-CN.md)将它接到 霍兰、哈钦斯
@@ -269,6 +277,21 @@ Feng Ye 已经是文集的比较对象，这里将其展开为独立的阅读入
 研究心理过程、经验检验、信念与互动，接到[心理阅读](psychological-readings.zh-CN.md)。其中的理论与证据帮助理解认识实际怎样发生；哲学继续追问解释、知识根据与心灵的范围。
 
 哥德尔机与达尔文哥德尔机的技术来源见[工程阅读](engineering-readings.zh-CN.md#自改进研究)。[偏好 Harness](preference-harness.zh-CN.md)保留其哲学比较，并让形式修复、推论与查询变换各自的假设和范围保持清楚。
+
+## 目的、选择与方法改变
+
+几项后续发展相遇于同一个问题：什么使一项变化值得继续？[个人优先的人本主义](personal-first-humanism.zh-CN.md)
+提供价值方向，[经济现实](economic-personal-rsi.zh-CN.md)比较有限投入与实际机会。
+上文密尔的生活实验，以及维特根斯坦和佛教的相关段落，帮助考察个性、必须追逐的要求与手段的持续用途。
+
+[偏好与推理](preference-harness.zh-CN.md#选择与推理)明确根据的选择，再让 Brave 推理展开有支撑的可能。
+将卡尔纳普关于框架采用、怀特海关于重要性的论述与这一区分并读；修复语义自己的形式来源，
+由[工程阅读](engineering-readings.zh-CN.md#自改进研究)定位。
+
+[个人 RSI](literary-recursive-improvement.zh-CN.md)进一步让选择和评价方法自身可以修订。
+杜威的行动与承受、黑格尔关于对象和尺度的变化，以及具身实验哲学的论述，
+帮助追问经验返回了什么、改变了什么。自指与后继的技术构造属于工程来源；
+哲学论证考察其目的、解释与生活中的位置。
 
 ## 来源范围
 

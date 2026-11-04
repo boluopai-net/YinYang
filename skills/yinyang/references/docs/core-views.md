@@ -906,6 +906,8 @@ A recursive loop describes functional return to itself; a directed acyclic commi
 
 ## YY-17 · Personal recursive self-improvement in economic reality
 
+**Invest finite cultivation in embodied, multimodal reasoning in real situations, use available model capabilities as tools, and reselect work allocation as technology and society change.** Personal RSI thereby improves capabilities and the methods for judging which capabilities deserve cultivation.
+
 Time, attention, bodily energy, and money support combinations of cultivation,
 model assistance, recovery, and sustaining conditions. Their units and timescales
 differ; actual life gains, developing capacities, and total costs inform the
@@ -914,7 +916,10 @@ psychological inquiry examines effort and competing uses, and socioeconomic
 inquiry examines demand, institutions, and the distribution of costs. Together
 they help explain a situated choice and revise how worthwhile investment is judged.
 
-**Invest finite cultivation in embodied, multimodal reasoning in real situations, use available model capabilities as tools, and reselect work allocation as technology and society change.** Personal RSI thereby improves capabilities and the methods for judging which capabilities deserve cultivation.
+[The developed argument](economic-personal-rsi.md) and the
+[psychological](psychological-readings.md#valuation-and-the-allocation-of-effort)
+and [engineering](engineering-readings.md#physical-conditions-measurement-and-feedback)
+reading routes retain the corresponding sources.
 
 Tasks readily formalized, simulated, and checked at low cost more easily enter scaled training and replication. Economic substitution also depends on reliability, demand, and deployment costs; complementarity can increase the value of another human contribution. A person retains foundations needed to understand, detect consequential errors, and connect results to reality while borrowing capabilities already reliably available.
 

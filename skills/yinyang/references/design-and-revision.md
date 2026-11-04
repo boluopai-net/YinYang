@@ -98,6 +98,12 @@ binding must expose all six complete reading roles, including actual revision.
 
 ## Make the six accounts coherent through revision
 
+The [whole-collection revision method](formation/revision.md#revise-the-collection-as-a-connected-whole)
+keeps philosophical chapters, Core views and important tables,
+appendix guides and reading routes connected in the same revision. The
+six-account check below is one part of that whole; publication carries the
+affected source and reading surfaces together.
+
 Read the complete six-account whole against the important sources and actual
 result. Check whether shared premises, concepts, referents, temporal scope,
 participation, responsibilities and practical consequences fit together. Preserve

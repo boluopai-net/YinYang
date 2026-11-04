@@ -100,9 +100,34 @@ Algorithms and complexity analysis establish properties under formal conditions;
 
 | Documentation or paper | Content |
 | --- | --- |
-| [Gödel Machine](https://people.idsia.ch/~juergen/goedelmachine.html) and [Darwin Gödel Machine](https://arxiv.org/abs/2505.22954v3) | Two entrances to technical self-improvement research: proof-guided work and empirical evaluation, respectively. Compare their objectives, assumptions, and verification before reading this collection's analogies. |
+| von Neumann, edited by Burks (1966), [Theory of Self-Reproducing Automata](https://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1966.pdf), Lecture V, pp. 75–87 | Components and environment, A/B/C construction and copying, D and heritable variation, and the complexity threshold for continued construction. |
+| Kleene (1938), [On Notation for Ordinal Numbers](https://doi.org/10.2307/2267778), §2; Moschovakis (2010), [Kleene’s Amazing Second Recursion Theorem](https://www.math.ucla.edu/~ynm/papers/1602-002-1.pdf), pp. 190–193 | Effective self-reference: how a program can use its own index or description in a construction. |
+| Schmidhuber, [Gödel Machines, v5](https://arxiv.org/abs/cs/0309048v5), §§4.1, 4.3 and 6.1 | Proof-guided self-improvement, modification of the improvement program, and the opportunity cost of continuing search. |
+| Zhang, Yuan, and Zhang (2026), [Self-Referential Introspection in Large Language Models, v2](https://arxiv.org/abs/2607.04277v2), §§3.3–3.4 and Appendices A–C | Self-description, simulation, evaluation, modification, and the proposed introspection threshold; compare the formal premises with the coupled-system interpretation. |
+| Yampolskiy (2015), [From Seed AI to Technological Singularity via Recursively Self-Improving Software](https://arxiv.org/abs/1502.06512), §§1–2 | Distinguish self-modification, improved performance, and improved capacity to produce subsequent improvements. |
+| [Darwin Gödel Machine](https://arxiv.org/abs/2505.22954v3) | An empirical self-improvement comparison alongside the proof-guided Gödel-machine proposal. |
+| Bienvenu and Bourgaux, [repair and query semantics, §3](https://arxiv.org/html/2003.05746v5#S3) | Repairs and Brave/AR/IAR inference used in the preference essay; the RSI chapter then asks how selection and evaluation themselves can change. |
+
+The [RSI chapter's source notes](literary-recursive-improvement.md#sources-and-their-contributions)
+connect these readings to its body–description–interpreter argument. Follow
+the construction from what a successor receives to how it can continue
+evaluating and changing itself; compare a formal guarantee with the practical
+evidence available for a person–model arrangement.
 
 ## Physical conditions, measurement, and feedback
+
+The [economic RSI essay](economic-personal-rsi.md) also uses these sources
+to connect capability, resources, and changing conditions:
+
+| Source | Engineering and socioeconomic question |
+| --- | --- |
+| Perdomo et al. (2020), [Performative Prediction](https://proceedings.mlr.press/v119/perdomo20a.html) | How can deployment change the target distribution, and under what conditions can repeated training become stable? |
+| Levy and Calvert (2021), [brain computation and communication energy](https://pubmed.ncbi.nlm.nih.gov/33906943/) | Which metabolic costs belong to computation, communication, and other activity, and what does an energy comparison actually measure? |
+| Autor (2015), [Why Are There Still So Many Jobs?](https://shapingwork.mit.edu/research/why-are-there-still-so-many-jobs-the-history-and-future-of-workplace-automation/) | How do task substitution, complementary contributions, and demand interact in workplace automation? |
+
+For perception, representation, control, and the costs of using an interface,
+continue to the [psychological research guide](psychological-readings.md#cognition-representation-and-effort).
+Its HCI and generative-AI studies connect implementation to actual participation.
 
 Engineering realization happens in the material world. Programs run on machines, measurement requires devices and time, and interfaces enter human perception and action. Energy, latency, error, and bodily conditions shape actual use.
 

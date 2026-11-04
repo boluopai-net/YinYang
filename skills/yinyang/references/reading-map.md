@@ -41,6 +41,13 @@ methods when the task calls for them.
 
 ## Find the contribution the work needs
 
+| Current question | Core view and focused route |
+| --- | --- |
+| What should I participate in, and what can the model carry? | [YY-02](docs/core-views.md#yy-02) and [YY-06](docs/core-views.md#yy-06) connect embodied multimodal participation with linguistic delegation. [Cognitive complexity and expressive scope](docs/metaphor-and-self-revision.md#cognitive-complexity-and-expressive-scope) compares representation, prior knowledge, supervision, interruption, and resumption. |
+| How can people and models move among design, understanding, and construction? | [YY-13](docs/core-views.md#yy-13) and [movement among three positions](docs/local-source-and-website.md#person-and-model-move-among-the-three-positions) connect interaction design, cognition and behavior, and AI/computing with philosophy, psychology, and engineering. |
+| How does improving a work improve the method that makes the next work? | [YY-16](docs/core-views.md#yy-16) and [the RSI chapter](docs/literary-recursive-improvement.md) develop description, interpreter, body, self-modeling, evaluation, and a successor able to continue revision. |
+| Where should finite time, attention, bodily energy, and money go? | [YY-17](docs/core-views.md#yy-17) and [economic reality](docs/economic-personal-rsi.md) compare cultivation, model assistance, support and recovery, then return outcomes to the allocation method. Neuroeconomic, psychological, and socioeconomic perspectives explain different relations within that choice. |
+
 For a connected refresh of philosophy, personal material, accounts, and working
 Skills, use [How to revise](formation/revision.md) to develop the actual revision method.
 
@@ -91,6 +98,7 @@ they do not all call for more data or stronger confidence.
 
 | Question arising in inquiry | Reading and its contribution |
 | --- | --- |
+| Which supported possibility should remain available after preferences select the relevant grounds? | [YY-10](docs/core-views.md#yy-10) and [selection and inference](docs/preference-harness.md#selection-and-inference) separate selecting preferred maximal consistent subsets from Brave inference within the selected family. AR and IAR supply different comparisons; jointly used conclusions need common support in a relevant branch. |
 | How does shared work leave a life trajectory open to exploration and reflection? | [Forming a life trajectory](docs/flow-and-time.md) uses a jointly improved reading environment to gather histories through two main entrances, Git/GitHub version history and ChatGPT’s Computer History. It distinguishes event sources from current accounts and develops how retention, time, and revision support continuation. |
 | How does a question emerge, and what would distinguish competing explanations? | [Reasoning within an unfinished stream](docs/reasoning.md) develops event streams, question-relative views, abduction, prediction, retained sources, candidates, and nested feedback. It helps generate a candidate and derive a consequence that further interaction can actually discriminate. |
 | How can conflicting materials remain available while a coherent view supports action? | [How preference participates in choice and reasoning](docs/preference-harness.md) distinguishes retaining sources, selecting views, and inferring within them. It helps keep a rejected current candidate available for reconsideration without treating incompatible assertions as jointly accepted. Its psychological and formal sources have different roles. |
@@ -152,7 +160,16 @@ identify missing material rather than claiming to have read it. Private
 provenance stays at `references/personal/sources.md` in a formed private package;
 the public [evidence guide](formation/revision.md#sources-and-evidence) explains its maintenance.
 
-Six diagrams provide visual entrances:
+Nine diagrams provide visual entrances, matching the [website gallery](https://boluopai.net/repositories/prometheus/#diagrams):
+
+- [Yinyang: circling fish](docs/yinyang-and-taiji.md) develops the participant/role
+  distinction and mutual return shown by the article's paired-fish artwork.
+- [Two spirits, three domains](diagrams/triad-spirits.svg) shows person and model
+  moving across philosophy, psychology, and engineering, including combined
+  contributions. [中文](diagrams/triad-spirits.zh-CN.svg)
+- [Where should finite resources go?](diagrams/economic-allocation.svg) connects
+  resources, combined investments, consequences, and revised allocation.
+  [中文](diagrams/economic-allocation.zh-CN.svg)
 
 - [Formation through shared practice](diagrams/formation-path.html) connects
   life trajectory, shared reflection, philosophy, personal models, and their
