@@ -94,6 +94,14 @@ understanding; images, sounds, language, and action connect to generate new
 conceptions and responses. Embodiment concerns this continuing encounter with
 the world, beyond receiving several data formats.
 
+Participation has cognitive costs: which relations a representation requires
+one to retain, what prior knowledge makes directly recognizable, and what it
+takes to translate sensation into language or resume after interruption all
+affect usable capability. [YY06](#yy-06) realizes this account through allocation:
+the model carries elaborate linguistic work, the person cultivates capacities
+through fitting multimodal participation, and both revise the arrangement
+against actual benefit and total cost.
+
 This orientation favors embodied perception, broad reading, intuitive
 recognition, and cross-modal understanding. A person can voice a partial
 intuition or indicate a mismatch through an image while the model develops
@@ -273,6 +281,32 @@ the possibility becomes.
 <a id="yy-06"></a>
 
 ## YY-06 · Arrange contributions across listening, speaking, reading, and writing
+
+**The embodied multimodal participation in YY02 becomes a way of cultivation
+through this allocation.** People develop understanding through sensation,
+sound, images, action, situations, and language. The model carries elaborate
+linguistic organization, explicit development, source assembly, and
+implementation, directing more human effort toward multimodal perception,
+association, judgment, and actual attempts. Listening, speaking, reading, and
+writing offer familiar entries; diagrams and manipulation also carry relations.
+
+Allocation considers task structure, prior knowledge, representation, and the
+combined costs of expression, operation, supervision, interruption, and resumption.
+The current exchange requires enough expression to continue: an intention, a
+pointed-out difference, or a sketch can be developed by the model, with the
+fuller account available as needed. Text and diagrams supporting the same
+information can demand different search and inference. Selecting expressive
+scope and representation keeps richer meaning available across participants
+and environment. [Cognitive complexity and expressive scope](metaphor-and-self-revision.md#cognitive-complexity-and-expressive-scope)
+develops the research and its distinction from formal-language complexity.
+
+Human participation contributes personal experience, judgments of purpose,
+actual consent, and practice of chosen capacities. The model first uses context
+and retrievable evidence, carries work it can judge and complete, and makes
+inspectable versions available for correction. Questions obtain missing human
+contributions that would change the work. Multimodal cultivation follows actual
+participation; delivery and relief are assessed through outcomes and the costs
+of supervision and resumption.
 
 These four activities offer entrances into cognition distributed across people,
 models, representations, and tools. One useful arrangement lets the person

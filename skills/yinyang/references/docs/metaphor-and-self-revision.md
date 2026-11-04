@@ -312,6 +312,96 @@ the resulting encounter.
 
 ## Listening, speaking, reading, and writing across roles
 
+Understanding the person as an embodied multimodal generative model raises a
+practical question: which forms make perceiving, understanding, generating, and
+judging accessible to this person, and which work can the model carry?
+[YY02](core-views.md#yy-02) describes the participant; [YY06](core-views.md#yy-06)
+develops the allocation and cultivation implied by that same account. Listening,
+speaking, reading, and writing are familiar entries into a multimodal practice.
+Images, space, sound, action, and situated sensation also carry understanding.
+A diagram can be compared and manipulated as a visual representation; calling it
+a visual language invites a further account of its symbols and organizing rules.
+
+The chosen direction is to **delegate elaborate linguistic organization,
+extended exposition, terminology, source assembly, and implementation to a
+capable model, while directing more human effort toward embodied perception,
+multimodal association, judgment of meaning, and actual attempts.** A person
+can point to a difference, sketch a contour, hum a melody, or articulate an
+unfinished relation. The model develops, compares, checks, and realizes it.
+The capacities the person wants to cultivate determine which attempts deserve
+their participation; already developed linguistic and formal reasoning remain
+available contributions.
+
+### Cognitive complexity and expressive scope
+
+Assessing this allocation connects the demands of an activity with the person's
+actual processing. Kieras and Polson analyze user complexity through the
+knowledge, rules, and processing needed to accomplish tasks [[6]](#source-6).
+Sweller and colleagues explain how the same material presents different element
+interactivity and working-memory demands to people with different prior
+knowledge [[7]](#source-7). Word count, button count, and abstraction therefore
+supply only partial evidence.
+
+| Object of assessment | Question for cooperation |
+| --- | --- |
+| Expression and task structure | Which objects, relations, branches, and operating rules must be held together now? |
+| Human processing conditions | What is familiar, and which perception, recognition, memory, and inference are accessible now? |
+| Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
+| Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
+
+Restricting linguistic expressive power for efficiency has two connected uses
+here. In formal systems, choosing a restricted language fragment can change the
+problem class and its computational complexity; the particular language and
+algorithms establish that result. At the human–model interface, each exchange
+can require only the expression currently needed. When an intention, a gesture
+of selection, or a sketch suffices for the model to continue, it carries the
+remaining linguistic work. The fuller account stays available as needed, while
+the current entry selects its expressive scope and form for the activity.
+Participation then requires less explicit specification, item-by-item choice,
+and continuous retention. The participants and environment jointly carry the
+richer meaning.
+
+Diagrams can also change the processing of the same content. Larkin and Simon
+distinguish informational from computational equivalence: a diagram and a text
+may support the same information, while location, adjacency, and shape make
+some relations directly available, reducing search and inference [[8]](#source-8).
+This suggests a specific design direction: bring jointly judged relations
+together, and make perceptible differences visible, audible, or actionable.
+Mayer and Moreno's multimedia-learning analysis examines channel capacity,
+contiguity, segmentation, and integration demands [[9]](#source-9). Another
+medium also introduces coordination work; its contribution is assessed together
+with the cost of translating between forms.
+
+### Reserve participation for contributions that matter
+
+Hollender and colleagues distinguish load arising from instructional design
+from load arising from software use [[10]](#source-10). Building on this
+distinction, a model can carry navigation, context recovery, editing, and
+implementation so human effort reaches the chosen activity. Generative AI
+introduces metacognitive demands through prompting, output evaluation, and
+workflow organization; Tankelevitch and colleagues identify these as design
+problems [[11]](#source-11). Delegation therefore includes the costs of
+supervision and repair. The counterpart proactively prepares inspectable results,
+retains important reasons and return points, and completes what it can resolve.
+
+A question merits interrupting the current activity when it obtains a missing
+human contribution that would change the work: personal experience, a choice of
+purpose, actual consent, or chosen practice. The model first uses existing
+expression, context, and retrievable evidence. It judges recoverable
+implementation choices and makes a new version available for correction when
+convenient. Research on goal memory examines suspension, resumption, and retrieval
+cues [[12]](#source-12), making the cost of returning another object of inquiry.
+This essay uses those studies to propose a cooperative design whose fit is
+calibrated through actual participation, outcomes, and costs.
+
+For example, a person points out an uncomfortable spatial relation in a sketch.
+The model compares layouts and builds a usable version; the next human
+contribution can be viewing, operating, and identifying a new difference. When
+the chosen purpose is drawing practice, composition and mark-making remain the
+person's attempts, with materials, explanation, and feedback from the model.
+Purpose, current capability, and total cost jointly shape the allocation;
+multimodal capacities develop through encounters worth participating in.
+
 Listening, speaking, reading, and writing give this practice four familiar
 entries. Listening receives situated expression, including spoken intention
 and correction. Speaking makes an interpretation available for response.
@@ -524,3 +614,10 @@ adding personal imagery to model context.
 3. <a id="source-3"></a> Jürgen Schmidhuber, **Gödel Machine Summary**. [Author's summary](https://people.idsia.ch/~juergen/gmsummary.html). Proof-conditioned self-revision, axiomatic scope, resource limits, and ordinary computation.
 4. <a id="source-4"></a> Jürgen Schmidhuber, **Gödel Machines: Fully Self-Referential Optimal Universal Self-Improvers**. [Author's overview and papers](https://people.idsia.ch/~juergen/goedelmachine.html). The technical proposal distinguished from the personal analogy.
 5. <a id="source-5"></a> James Hollan, Edwin Hutchins, and David Kirsh (2000), **Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research**, *ACM Transactions on Computer-Human Interaction* 7(2), 174–196. [Author-hosted paper](https://interactivity.ucsd.edu/articles/dcog.pdf). Cognition across people, artifacts, and time; applying the framework to this model-supported arrangement is the present proposal.
+6. <a id="source-6"></a> David Kieras and Peter G. Polson (1985), **An approach to the formal analysis of user complexity**. [DOI](https://doi.org/10.1016/S0020-7373(85)80045-6). Knowledge, rules, and cognitive processing in user complexity.
+7. <a id="source-7"></a> John Sweller, Jeroen J. G. van Merriënboer, and Fred Paas (2019), **Cognitive Architecture and Instructional Design: 20 Years Later**. [DOI](https://doi.org/10.1007/s10648-019-09465-5). Element interactivity, prior knowledge, and working-memory demands.
+8. <a id="source-8"></a> Jill H. Larkin and Herbert A. Simon (1987), **Why a Diagram is (Sometimes) Worth Ten Thousand Words**. [DOI](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x). Informational equivalence, computational equivalence, and spatially organized search.
+9. <a id="source-9"></a> Richard E. Mayer and Roxana Moreno (2003), **Nine Ways to Reduce Cognitive Load in Multimedia Learning**. [DOI](https://doi.org/10.1207/S15326985EP3801_6). Multimedia processing, contiguity, segmentation, and overload.
+10. <a id="source-10"></a> Nina Hollender, Cristian Hofmann, Michael Deneke, and Bernhard Schmitz (2010), **Integrating cognitive load theory and concepts of human–computer interaction**. [DOI](https://doi.org/10.1016/j.chb.2010.05.031). Distinguishes instructional-design demands from software-use demands.
+11. <a id="source-11"></a> Lev Tankelevitch et al. (2024), **The Metacognitive Demands and Opportunities of Generative AI**. [DOI](https://doi.org/10.1145/3613904.3642902). Prompting, evaluation, workflow demands, and design support.
+12. <a id="source-12"></a> Erik M. Altmann and J. Gregory Trafton (2002), **Memory for goals: an activation-based model**. [DOI](https://doi.org/10.1207/S15516709COG2601_2). Goal suspension, resumption, and retrieval cues.
