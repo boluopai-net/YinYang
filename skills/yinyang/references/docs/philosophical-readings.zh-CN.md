@@ -6,7 +6,7 @@
 [阅读地图](../reading-map.zh-CN.md)定位论证本身；这里区分已经使用的来源、建议开展的比较，
 以及超出来源的解释。按问题选择，连同上下文阅读相关段落。
 
-## 赫拉克利特：火、尺度与对立张力
+## Heraclitus：火、尺度与对立张力
 
 [B6](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_6)
 涉及每日常新的太阳，[B30](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_30)
@@ -18,7 +18,7 @@
 第 3–4 节尤其说明了关于火、统一与对立的解释分歧。
 
 [借火论述](stealing-fire.zh-CN.md)借这条思想线索理解持续与变化，并把活动历史组织为事件流，
-并不把现代计算本体论或形式演算归给赫拉克利特。历史上的赫拉克利特是否是火一元论者，
+并不把现代计算本体论或形式演算归给Heraclitus。历史上的Heraclitus是否是火一元论者，
 仍有解释分歧。阴阳把火一元论用于计算本体，以火表达生成与转化，并通过对象、
 事件、状态与关系构造过程表征。[世界、过程与表达](world-and-expression.zh-CN.md#物理基础与计算抽象)
 将这项理解接到自然主义、共同的物理实现与计算表征；B30 并未确立现代物理理论。
@@ -148,7 +148,7 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 
 ## 尼采：精神的三种变形与创造
 
-尼采[查拉图斯特拉如是说，第一部「精神三变」](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)以骆驼、狮子和孩子呈现承担、否定与新的创造。[我们要培养怎样的人——赫拉克利特宝宝](baby-heraclitus.zh-CN.md)已经借用这一线索：孩子形象关心重新开始与创造，不等于放弃判断，也不是人人必须依次经历的发展阶段。
+尼采[查拉图斯特拉如是说，第一部「精神三变」](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)以骆驼、狮子和孩子呈现承担、否定与新的创造。[我们要培养怎样的人——Baby Heraclitus](baby-heraclitus.zh-CN.md)已经借用这一线索：孩子形象关心重新开始与创造，不等于放弃判断，也不是人人必须依次经历的发展阶段。
 
 另一个问题是**永恒轮回**。将[《快乐的科学》第 341 节](https://www.gutenberg.org/files/52881/52881-h/52881-h.htm)
 与《查拉图斯特拉如是说》第三部〈康复者〉第 2 节并读；前一链接的 Thomas Common 英译本题为

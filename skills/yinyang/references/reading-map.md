@@ -114,7 +114,7 @@ they do not all call for more data or stronger confidence.
 [Personal recursive self-improvement in economic reality](docs/economic-personal-rsi.md) then considers finite learning investment and comparative advantage: cultivate embodied, multimodal, situated judgment, use model capabilities as tools, and revise work allocation with economic and social conditions.
 
 The collection also includes [Why write a personal philosophy](docs/why-yinyang.md),
-the [Argument from Super-Cuteness](docs/meng.md), and
+the [Argument for Cuteness](docs/meng.md), and
 [Baby Heraclitus](docs/baby-heraclitus.md), which connect shared direction,
 conditions for learning, and the person being cultivated.
 [Literary programming](docs/literary-programming.md) develops how to write that

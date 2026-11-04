@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD036 -->
-# Super-cuteness: openness, learning, and adaptation
+# The argument for cuteness: openness, learning, and adaptation
 
 [简体中文](meng.zh-CN.md)
 

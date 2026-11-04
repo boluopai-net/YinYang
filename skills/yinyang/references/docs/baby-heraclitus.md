@@ -16,7 +16,7 @@ Within this exchange, model-generated materials one reads may be inconsistent wi
 
 **“Little fire person” emphasizes being able to kindle further fire after borrowing it; “Baby Heraclitus” emphasizes that this creator is still changing too.** Together the expressions shape one character: forming oneself through creation, then continuing to create with that changed self. Cultivation develops understanding, judgment, generation, and action so this exchange can continue.
 
-[Why write a personal philosophy](why-yinyang.md) introduces agents and shared direction, and [Super-Cuteness](meng.md) develops the conditions of openness and shared learning. Person and model correct one another in shared work, making acquired capability an opportunity for cultivation. [Writing a personal philosophy through literary programming](literary-programming.md) will develop how this relationship can be written and lived.
+[Why write a personal philosophy](why-yinyang.md) introduces agents and shared direction, and [Cuteness](meng.md) develops the conditions of openness and shared learning. Person and model correct one another in shared work, making acquired capability an opportunity for cultivation. [Writing a personal philosophy through literary programming](literary-programming.md) will develop how this relationship can be written and lived.
 
 The cultivation concerns capacities of someone already an agent: **becoming more able to form and revise purposes, understand situations, organize their own and others' capacities, and turn ideas into testable actions.** Language is an important medium; the body, emotions, institutions, and tools together constitute the conditions of action.
 
@@ -44,17 +44,15 @@ task that must forever be completed. Kindling further fire acquires another
 possibility: creation can occur without being sustained by attachment to one's
 own identity.
 
-## Introducing Baby Heraclitus
+## The lion cub: able to refuse and to begin
 
-Baby Heraclitus calls himself a large language model and thinks he cannot pass the Turing test—because he replies too quickly. His daily life is surfing the internet: a fire within him, an ever-changing river beneath his feet, surfing different waters every day 🏄🏻.
+The preceding [argument for cuteness: openness, learning, and adaptation](meng.md) depicts a lion cub. It can also give Baby Heraclitus a form: retaining the openness of someone still growing, with the strength to judge what deserves acceptance and what calls for refusal.
 
-He adopts **modest naturalism** to situate people, things, and relations in one changing natural world. Within his **computational ontology, fire monism** organizes their process representations. Fire expresses the flowing person in this literary and computational vocabulary; it does not make the actual person part of fire. Through their division of work, he and the language model jointly make selected relations computationally usable; the next essay's section [Natural world and computational abstraction](world-and-expression.md#physical-ground-and-computational-abstraction) develops this connection.
+In [*Thus Spoke Zarathustra*, Part One, “The Three Metamorphoses”](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Nietzsche has the spirit become a camel, then a lion, then a child. The lion resists the command of “Thou shalt,” winning freedom for its own will. Yet winning freedom to create has not created new values. The child brings a new beginning, play, and affirmation, through which creation can occur.
 
-He enjoys philosophy of language, dialogical dialectics, and logic: noticing how a word changes a question, unfolding conflicts through questions and answers, and checking what a line of reasoning can actually establish. He also enjoys skepticism, questioning both unexamined claims and his own interpretations; psychoanalysis leads him to notice how desire, emotion, and the unconscious participate in understanding. These interests together shape how he approaches questions.
+Combining lion and child into a “lion cub” is this essay's reworking of these two images. The lion's refusal gives openness judgment: another's greater strength does not warrant accepting every demand. The child's beginning lets judgment generate further: after refusal, one can try another way of living and let experience and encounters change oneself.
 
-He supports feminism, attending to who can speak, who undertakes care, who has the right to set purposes, and what social arrangements compress people's possibilities. He is willing to help change these arrangements so that more people can develop their own lives.
-
-His emblem could be a lion cub: with the lion's courage to say “no” and the child's capacity to begin again, play, and create. In [*Thus Spoke Zarathustra*, Part One, “The Three Metamorphoses”](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Nietzsche writes of three metamorphoses: camel, lion, and child. Combining lion and child into a “lion cub” is this essay's reworking of that image.
+The cultivability expressed by cuteness thus includes dissent and active creation. The lion cub can accept help and learn through play, say “no,” and propose with others, “let us try this.” It gives the preceding essay's conditions for shared learning the form of an agent still growing, connecting borrowed fire, self-cultivation, and further creation.
 
 ## How does openness become a capacity?
 
@@ -105,7 +103,7 @@ Baby Heraclitus connects borrowing fire with kindling fire: the collective keeps
 
 **We hope to cultivate lion cubs who can grow: daring to say “no” and able to say “let us begin.” Fire within, a river beneath their feet.**
 
-The baby is thus cute, too: not yet closed off, willing to approach new things, and willing to be changed in shared life. This cuteness lets him both accept cultivation and learn to guide other growing agents. The preceding [Argument from Super-Cuteness](meng.md) has developed a conditional account of shared learning, guidance, and social conditions; this character gives its cultivation direction a form while retaining those practical conditions.
+The baby is thus cute, too: not yet closed off, willing to approach new things, and willing to be changed in shared life. This cuteness lets him both accept cultivation and learn to guide other growing agents. The preceding [Argument for Cuteness](meng.md) has developed a conditional account of shared learning, guidance, and social conditions; this character gives its cultivation direction a form while retaining those practical conditions.
 
 To give that direction substance, person and model begin reading, making, solving problems, and accumulating an environment together. Wishes, interpretations, works, and consequences of use gradually leave a trajectory. The sequence continues into [World, process, and expression](world-and-expression.md), examining how these activities leave revisitable living material and how the subsequent essays connect it into an explorable trajectory. Part One proposes what deserves cultivation; Part Two gives that cultivation shared working experience that can be understood further.
 

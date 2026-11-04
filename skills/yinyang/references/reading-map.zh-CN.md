@@ -101,8 +101,8 @@
 [经济现实中的个人递归自改进](docs/economic-personal-rsi.zh-CN.md)接着讨论有限学习投入与比较优势：培养具身、多模态和现实情境判断，把模型能力接成工具，并随经济社会条件变化修订分工。
 
 文集也收录[为什么要写个人哲学](docs/why-yinyang.zh-CN.md)、
-[超萌论证：开放、学习与适应](docs/meng.zh-CN.md)与
-[我们要培养怎样的人——赫拉克利特宝宝](docs/baby-heraclitus.zh-CN.md)，
+[萌的论证：开放、学习与适应](docs/meng.zh-CN.md)与
+[我们要培养怎样的人——Baby Heraclitus](docs/baby-heraclitus.zh-CN.md)，
 联系共同方向、学习的条件与所培养的人。
 [用文学式编程写出个人哲学](docs/literary-programming.zh-CN.md)展开这种哲学的写法；
 [机器与生成](docs/deleuze-and-becoming.zh-CN.md)则从已形成的实践进入德勒兹与加塔利的专题比较。
@@ -125,7 +125,7 @@
 遇到大他者、分裂主体、回溯、三界或圣状等术语时，[拉康概念导读](docs/lacan-reading-guide.zh-CN.md)提供主线之外的入门与复习说明：从概念关系进入，再返回相应论证和原文。
 
 来源指南帮助调查某项前提，并非另一项普遍阅读要求。[哲学阅读](docs/philosophical-readings.zh-CN.md)
-定位赫拉克利特、阴阳与太极、黑格尔、维特根斯坦、佛教筏喻、弗洛伊德和拉康，并说明作者解释的限度。
+定位Heraclitus、阴阳与太极、黑格尔、维特根斯坦、佛教筏喻、弗洛伊德和拉康，并说明作者解释的限度。
 描述提出心理主张时，[心理阅读](docs/psychological-readings.zh-CN.md)
 联系过程、证据、心理理论、信念、推理与互动。
 预期实现需要相应能力时，[工程阅读](docs/engineering-readings.zh-CN.md)
