@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Where should finite resources go?</title>
+<desc id="desc">Time, attention, bodily energy, and money support personal cultivation, model assistance, and support and recovery. Outcomes, developing capacities, and total costs inform revised allocation. Neural and bodily, psychological, and social conditions shape the arrangement. Arrows denote relationships.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9" fill="none" stroke="#536461" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="800" rx="12" fill="#faf9f5"/>
+<style>text{font-family:Helvetica Neue,PingFang SC,sans-serif;fill:#243c3b}.sub{fill:#536461;font-size:19px}.title{font-size:25px;font-weight:600}.path{fill:none;stroke:#536461;stroke-width:2;stroke-linejoin:round;marker-end:url(#arrow)}</style>
+<text x="52" y="57" font-size="34" font-weight="600" text-anchor="start" style="fill:#243c3b">Where should finite resources go?</text>
+<text x="52" y="93" font-size="20" font-weight="400" text-anchor="start" style="fill:#536461">Personal RSI · improve how investment is chosen</text>
+<rect x="52" y="126" width="1096" height="66" rx="10" fill="#eef2ec" stroke="#c2cec5" stroke-width="1.5"/>
+<text x="600" y="167" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">Life purposes · current capabilities · real opportunities</text>
+<text x="70" y="237" font-size="23" font-weight="600" text-anchor="start" style="fill:#243c3b">Finite resources</text>
+<rect x="52" y="262" width="230" height="328" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<circle cx="82" cy="305" r="5" fill="#a55335"/>
+<text x="102" y="312" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">Time</text>
+<path d="M74 334H260" stroke="#e1e5de"/>
+<circle cx="82" cy="371" r="5" fill="#a55335"/>
+<text x="102" y="378" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">Attention</text>
+<path d="M74 400H260" stroke="#e1e5de"/>
+<circle cx="82" cy="437" r="5" fill="#a55335"/>
+<text x="102" y="444" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">Bodily energy</text>
+<path d="M74 466H260" stroke="#e1e5de"/>
+<circle cx="82" cy="503" r="5" fill="#a55335"/>
+<text x="102" y="510" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">Money</text>
+<text x="600" y="237" font-size="23" font-weight="600" text-anchor="middle" style="fill:#243c3b">Combine investments</text>
+<rect x="418" y="262" width="364" height="88" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<text x="600" y="297" font-size="25" font-weight="600" text-anchor="middle" style="fill:#243c3b">Cultivate personally</text>
+<text x="600" y="327" font-size="19" font-weight="400" text-anchor="middle" style="fill:#536461">Perceive · judge · practice</text>
+<rect x="418" y="382" width="364" height="88" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<text x="600" y="417" font-size="25" font-weight="600" text-anchor="middle" style="fill:#243c3b">Use model capabilities</text>
+<text x="600" y="447" font-size="19" font-weight="400" text-anchor="middle" style="fill:#536461">Elaborate · generate · implement</text>
+<rect x="418" y="502" width="364" height="88" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<text x="600" y="537" font-size="25" font-weight="600" text-anchor="middle" style="fill:#243c3b">Support and recovery</text>
+<text x="600" y="567" font-size="19" font-weight="400" text-anchor="middle" style="fill:#536461">Maintain · rest · resume</text>
+<path class="path" d="M282 306H418"/>
+<path class="path" d="M282 426H418"/>
+<path class="path" d="M282 546H418"/>
+<path class="path" d="M782 306H834Q846 306 846 318V353Q846 365 858 365H918"/>
+<path class="path" d="M782 426H918"/>
+<path class="path" d="M782 546H834Q846 546 846 534V499Q846 487 858 487H918"/>
+<text x="1033" y="237" font-size="23" font-weight="600" text-anchor="middle" style="fill:#243c3b">Actual consequences</text>
+<rect x="918" y="300" width="230" height="252" rx="10" fill="#f7eee6" stroke="#a55335" stroke-width="1.5"/>
+<text x="1033" y="353" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">Life gains</text>
+<text x="1033" y="414" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">Capacity growth</text>
+<text x="1033" y="475" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">Total costs</text>
+<text x="1033" y="521" font-size="16" font-weight="400" text-anchor="middle" style="fill:#536461">Including costs to others</text>
+<path class="path" d="M1033 552V648Q1033 660 1021 660H800"/>
+<rect x="400" y="628" width="400" height="64" rx="10" fill="#eef2ec" stroke="#839b8d" stroke-width="1.5"/>
+<text x="600" y="668" font-size="23" font-weight="600" text-anchor="middle" style="fill:#243c3b">Revise allocation and evaluation</text>
+<path class="path" d="M400 660H364Q352 660 352 648V554A8 8 0 0 0 352 538V434A8 8 0 0 0 352 418V314A8 8 0 0 0 352 298V246Q352 234 364 234H475"/>
+<text x="969" y="631" font-size="18" font-weight="400" text-anchor="middle" style="fill:#536461">Experience returns</text>
+<text x="600" y="744" font-size="21" font-weight="500" text-anchor="middle" style="fill:#243c3b">Neural and bodily · psychological · social and institutional</text>
+<text x="600" y="777" font-size="17" font-weight="400" text-anchor="middle" style="fill:#536461">Three perspectives on conditions and value; compare each resource on its own terms.</text>
+</svg>

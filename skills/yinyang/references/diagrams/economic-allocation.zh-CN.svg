@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">有限投入，怎样分配？</title>
+<desc id="desc">时间、注意力、身体精力和费用，支持亲自培养、借用模型以及支持与恢复。比较生活所得、能力发展和总成本，重新选择投入与分工。神经与身体、心理与选择、社会与制度共同影响这一安排。箭头表示关系。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9" fill="none" stroke="#536461" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="800" rx="12" fill="#faf9f5"/>
+<style>text{font-family:Helvetica Neue,PingFang SC,sans-serif;fill:#243c3b}.sub{fill:#536461;font-size:19px}.title{font-size:25px;font-weight:600}.path{fill:none;stroke:#536461;stroke-width:2;stroke-linejoin:round;marker-end:url(#arrow)}</style>
+<text x="52" y="57" font-size="34" font-weight="600" text-anchor="start" style="fill:#243c3b">有限投入，怎样分配？</text>
+<text x="52" y="93" font-size="20" font-weight="400" text-anchor="start" style="fill:#536461">个人递归自改进 · 让选择投入的方法也能改善</text>
+<rect x="52" y="126" width="1096" height="66" rx="10" fill="#eef2ec" stroke="#c2cec5" stroke-width="1.5"/>
+<text x="600" y="167" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">生活目的 · 当前能力 · 现实机会</text>
+<text x="70" y="237" font-size="23" font-weight="600" text-anchor="start" style="fill:#243c3b">有限资源</text>
+<rect x="52" y="262" width="230" height="328" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<circle cx="82" cy="305" r="5" fill="#a55335"/>
+<text x="102" y="312" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">时间</text>
+<path d="M74 334H260" stroke="#e1e5de"/>
+<circle cx="82" cy="371" r="5" fill="#a55335"/>
+<text x="102" y="378" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">注意力</text>
+<path d="M74 400H260" stroke="#e1e5de"/>
+<circle cx="82" cy="437" r="5" fill="#a55335"/>
+<text x="102" y="444" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">身体精力</text>
+<path d="M74 466H260" stroke="#e1e5de"/>
+<circle cx="82" cy="503" r="5" fill="#a55335"/>
+<text x="102" y="510" font-size="23" font-weight="400" text-anchor="start" style="fill:#243c3b">费用</text>
+<text x="600" y="237" font-size="23" font-weight="600" text-anchor="middle" style="fill:#243c3b">组合投入</text>
+<rect x="418" y="262" width="364" height="88" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<text x="600" y="297" font-size="25" font-weight="600" text-anchor="middle" style="fill:#243c3b">亲自培养</text>
+<text x="600" y="327" font-size="19" font-weight="400" text-anchor="middle" style="fill:#536461">感知 · 判断 · 真实尝试</text>
+<rect x="418" y="382" width="364" height="88" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<text x="600" y="417" font-size="25" font-weight="600" text-anchor="middle" style="fill:#243c3b">借用模型</text>
+<text x="600" y="447" font-size="19" font-weight="400" text-anchor="middle" style="fill:#536461">语言展开 · 生成 · 实现</text>
+<rect x="418" y="502" width="364" height="88" rx="10" fill="white" stroke="#8c9c96" stroke-width="1.5"/>
+<text x="600" y="537" font-size="25" font-weight="600" text-anchor="middle" style="fill:#243c3b">支持与恢复</text>
+<text x="600" y="567" font-size="19" font-weight="400" text-anchor="middle" style="fill:#536461">环境维护 · 休息 · 返回</text>
+<path class="path" d="M282 306H418"/>
+<path class="path" d="M282 426H418"/>
+<path class="path" d="M282 546H418"/>
+<path class="path" d="M782 306H834Q846 306 846 318V353Q846 365 858 365H918"/>
+<path class="path" d="M782 426H918"/>
+<path class="path" d="M782 546H834Q846 546 846 534V499Q846 487 858 487H918"/>
+<text x="1033" y="237" font-size="23" font-weight="600" text-anchor="middle" style="fill:#243c3b">实际后果</text>
+<rect x="918" y="300" width="230" height="252" rx="10" fill="#f7eee6" stroke="#a55335" stroke-width="1.5"/>
+<text x="1033" y="353" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">生活所得</text>
+<text x="1033" y="414" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">能力发展</text>
+<text x="1033" y="475" font-size="24" font-weight="500" text-anchor="middle" style="fill:#243c3b">总成本</text>
+<text x="1033" y="521" font-size="16" font-weight="400" text-anchor="middle" style="fill:#536461">含监督与他人成本</text>
+<path class="path" d="M1033 552V648Q1033 660 1021 660H800"/>
+<rect x="400" y="628" width="400" height="64" rx="10" fill="#eef2ec" stroke="#839b8d" stroke-width="1.5"/>
+<text x="600" y="668" font-size="23" font-weight="600" text-anchor="middle" style="fill:#243c3b">重选投入、分工与评价</text>
+<path class="path" d="M400 660H364Q352 660 352 648V554A8 8 0 0 0 352 538V434A8 8 0 0 0 352 418V314A8 8 0 0 0 352 298V246Q352 234 364 234H475"/>
+<text x="969" y="631" font-size="18" font-weight="400" text-anchor="middle" style="fill:#536461">经验返回</text>
+<text x="600" y="744" font-size="21" font-weight="500" text-anchor="middle" style="fill:#243c3b">神经与身体 · 心理与选择 · 社会与制度</text>
+<text x="600" y="777" font-size="17" font-weight="400" text-anchor="middle" style="fill:#536461">三种视角共同解释投入的条件与价值；各项资源分别比较。</text>
+</svg>

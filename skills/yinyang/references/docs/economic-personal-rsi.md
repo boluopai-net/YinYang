@@ -8,6 +8,35 @@ As borrowed fire grows stronger, where should a finite person invest their time?
 
 ## Replicable capabilities and worthwhile cultivation
 
+### First consider how finite investments combine
+
+Economic inquiry begins by comparing uses. An afternoon can go toward personal
+practice, completing a work with model assistance, or recovery and maintaining
+an environment that makes continuation accessible. These investments can support
+one another while competing for opportunities. Cultivation can improve later
+recognition and judgment; model assistance can release time while introducing
+verification and maintenance; rest and support shape the next occasion for
+beginning, persisting, and returning. A combination's value depends on the life
+the person wants and the activities that are actually feasible.
+
+| Finite condition | What to compare | Where evidence comes from |
+| --- | --- | --- |
+| Time | Which other uses does the activity displace, and where does saved time actually go? | Activity, delivery time, and subsequent use. |
+| Attention and cognitive work | How many relations, switches, supervisory acts, and resumptions does it require? | Actual interaction, experience, and task performance. |
+| Bodily energy and recovery | Which postural, sensory, and movement conditions sustain participation? | Bodily experience, actual persistence, and recovery. |
+| Money and accessible resources | Can tools, equipment, services, and maintenance remain available? | Actual expenditure, service conditions, and accessible opportunities. |
+
+These conditions have different units, functions, and timescales. Another
+service may save operating time while adding selection and supervision; an
+hour of rest may alter participation over the next several hours. Comparison
+first preserves these differences, then makes a purpose-specific tradeoff.
+The figure's arrows express relations between investments and consequences;
+the paths can be combined. Personal RSI further asks whether later practice
+better identifies worthwhile activities, selects support, and enables
+completion, recovery, or stopping.
+
+### Use replicability to assess cultivation
+
 The easier it is to represent a task's inputs, operations, and success conditions in a computer, and to generate and check candidates cheaply, the easier it becomes to organize large-scale training, search, and replication. Well-specified digital tasks permit many attempts in little time; improvements can then reach many users. Investing all one's learning time in reproducing operations already cheaply available carries an opportunity cost as tools continue improving.
 
 This relation concerns task structure. Formalizability makes automation more feasible; economic substitution also depends on reliability, deployment costs, responsibility, demand, and the recombination of work. Autor's analysis of workplace automation emphasizes that replacing some tasks can raise the value of complementary human contributions, while occupations typically combine multiple tasks. [Research entry](https://shapingwork.mit.edu/research/why-are-there-still-so-many-jobs-the-history-and-future-of-workplace-automation/)
@@ -35,6 +64,48 @@ The brain's energy use offers another line of inquiry. Levy and Calvert distingu
 A person already lives within this organization of body and world. Cultivation can develop existing perception, movement, and understanding: drawing to distinguish spatial relations, music to organize hearing and action, making to encounter material resistance, and reading and actual encounters to develop judgment about social meaning. Models expand explanations, provide comparisons, build tools, and organize experience, returning attention to relations worth personally perceiving and judging.
 
 ## Make complementarity a testable division of work
+
+### Three economic perspectives on one choice
+
+Neuroeconomics connects valuation, risk, delay, and choice to brain and bodily
+processes. Camerer, Loewenstein, and Prelec discuss interacting systems and the
+role of bodily state in economic choice. [Their review](https://doi.org/10.1257/0022051053737843)
+offers an entry into how a choice acquires value, recruits control, and changes
+with conditions. Shenhav, Botvinick, and Cohen's expected-value-of-control
+theory organizes expected payoff, control allocation, and cognitive effort
+costs within one model. [Paper](https://doi.org/10.1016/j.neuron.2013.07.007)
+It is a theory of control allocation; explaining a particular person's judgment
+calls for corresponding behavioral and neural evidence.
+
+The psychological perspective concerns how the person experiences competing
+uses: what invites investment, feels effortful, deserves waiting, and actually
+relieves a burden. It connects with economic psychology, behavioral economics,
+and cognitive research. Kurzban and colleagues propose an opportunity-cost
+account of subjective effort: engaging a processing mechanism in the current
+task temporarily forgoes alternative uses. [Paper](https://doi.org/10.1017/S0140525X12003196)
+The hypothesis brings alternative worthwhile activity into the explanation of
+effort; evidence about body, task, and situation addresses particular causes of
+fatigue. Subjective effort, cognitive control, and metabolic expenditure describe
+different objects, each with its own measures and evidence.
+
+The socioeconomic perspective asks who needs a contribution, which conditions
+allow exchange or support, and how benefits and costs are distributed. Reliable
+performance, willingness to pay, and personal worth are connected judgments with
+distinct grounds. Model prices, employment requirements, cooperation,
+institutions, and infrastructure change the available combinations.
+Transferring supervision and maintenance to others also changes the overall
+cost. The earlier discussion of task complementarity and social feedback thus
+reaches actual opportunities and distribution.
+
+These perspectives meet in one activity. Having a model implement something
+may reduce immediate linguistic and control demands, making continued design
+more inviting; added expense or verification work for collaborators changes
+the overall benefit. Experience identifies differences needing explanation,
+research and results test that explanation, and social conditions shape
+sustainable combinations. Allocation thereby concerns understanding,
+relationships, recovery, and freely available life as well as output.
+
+### Compare combinations through real activity
 
 Consider someone designing an interface for use while moving. They walk, hold the device, and notice environmental sound and visual interference, discovering an interaction difficulty absent from a static screenshot. A model develops that observation into candidate layouts, working prototypes, and checks. Actual use then determines which changes help. Situated participation and design judgment contribute on the human side; model support makes alternatives easier to generate and realize.
 
