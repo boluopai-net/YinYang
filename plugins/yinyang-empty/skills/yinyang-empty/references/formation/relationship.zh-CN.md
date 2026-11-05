@@ -48,8 +48,8 @@
 草稿送去评审，不能证明已发生这种变化。写清实际协作选择了什么、观察到什么运动，以及
 仍有什么限度。双方可以同时生成或检查，合适的角色也可以持续承担，无需强制轮换或改变身份。
 
-作者的[纠偏目的](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.zh-CN.html#转动与纠偏反馈)追问：另一种立场或实际结果，
-能否改变正在自我强化的方向？说明什么返回了，以及它怎样改变共同描述或行动。交替、反对的
+在一次协作中，另一种立场、异议或实际结果返回之后，究竟改变了哪项判断、共同描述或行动？
+用这项实际变化说明[纠偏反馈](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.zh-CN.html#转动与纠偏反馈)怎样进入关系。交替、反对的
 语气与反馈标签，都不能证明有效纠偏。保留有用生成与独立检查，目标本身也接受有理由的修订。
 
 ## 让纠正改变共同理解

@@ -5,13 +5,13 @@
 
 [简体中文](revision.zh-CN.md) · [Forming and revising working models](../design-and-revision.md) · [Environment](environment.md)
 
-The author uses this approach to keep Yinyang's central
-[crossed participation and return](relationship.md#explain-exchange-and-return-where-they-matter)
-answerable to actual encounters. Philosophy, personal understanding, and
-actual work develop through that relation. Revision can begin with a developed idea,
-changed circumstances, an objection, or an arrangement that no longer fits.
-Find what has changed, work through its consequences, and let the result correct
-the understanding that guided the change.
+An objection, changed circumstances, or an arrangement that once helped but
+now obstructs work can prompt revision. Identify which understanding is affected,
+then follow how it changes cooperation and the environment. When adopting
+[crossed participation and return](relationship.md#explain-exchange-and-return-where-they-matter),
+check whether human attempts, model feedback, and renewed generation actually
+occur, and what each participant retains through them. Let the new results
+continue revising the earlier understanding.
 
 Adapt the approach to your purpose, materials, and environment. You may be
 writing a different philosophy, revising one personal interpretation, or changing
@@ -24,8 +24,8 @@ shows a better way to proceed.
 ## Write your own actual revision method
 
 Write the method fitted to your practice at `references/situated/revision.md`
-in the private package. This guide explains how to write it; the author's
-approach below offers adaptable material.
+in the private package. This guide explains how to write it; adapt the methods
+below to your adopted understanding and actual working conditions.
 
 Explain what prompts revision, how relevant philosophy and personal material
 are obtained, how local scope and connected changes are judged, and how
@@ -310,7 +310,7 @@ and what limits their use. Several summaries of one source add no independent
 support.
 
 Keep extended episodes and unique originals with their existing owners; give
-derived accounts usable locators and grounds. In the author's package, the
+derived accounts usable locators and grounds. In the private package, the
 private source entrance is `references/personal/sources.md`; the
 [package guide](../package.md) explains its placement. Preserve useful
 originals while retiring redundant summaries. Access for revision does not
@@ -443,8 +443,7 @@ useful as the philosophy changes.
 Read the philosophy alongside the personal references refreshed through the
 [sequence above](#establish-the-current-material). The working models are working
 models serving a fitting personal environment, with psychological understanding
-among their grounds. In the author's
-Yinyang, orientation articulates adopted values and direction; person grounds
+among their grounds. Orientation articulates the values and direction you adopt; person grounds
 understanding of the actual person; counterpart relates available capacity to
 wanted contribution; relationship explains joint activity; environment explains
 its realization. The [writing guides](../design-and-revision.md#form-a-situated-version-from-actual-material)

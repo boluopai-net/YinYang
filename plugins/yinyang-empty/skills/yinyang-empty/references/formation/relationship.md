@@ -72,10 +72,10 @@ the movement chosen and observed in the actual collaboration, including its
 limits. Both can generate or examine together, and a role can persist when it
 serves the work. No obligatory alternation or identity change follows.
 
-The author's [corrective purpose](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#turning-and-corrective-feedback)
-asks whether another position or actual result can change a self-reinforcing
-direction. Describe what is returned and how it can affect the shared account
-or action. Alternation, a dissenting tone, and a feedback label do not establish
+When another position, objection, or actual result returns during cooperation,
+which judgment, shared account, or action actually changes? Use that change
+to explain how [corrective feedback](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#turning-and-corrective-feedback)
+enters the relationship. Alternation, a dissenting tone, and a feedback label do not establish
 effective correction. Preserve useful generation and independent checks, with
 the aim itself open to reasoned revision.
 

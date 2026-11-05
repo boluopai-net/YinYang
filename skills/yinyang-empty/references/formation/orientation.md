@@ -61,11 +61,10 @@ participation is valued if it is adopted here. The relationship account owns
 its actual allocation, and subsequent use supplies evidence of development.
 Making the person perform every step does not follow from this aim.
 
-The author's corrective purpose also matters: another contribution and the
-world's response should be able to change a direction that is reinforcing
-itself. [Corrective feedback](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#turning-and-corrective-feedback)
-develops that purpose and its limits. State what deserves cultivation and what
-needs correction, leaving the aims themselves open to reconsideration. Neither
+Articulate what deserves preservation and what needs change: which deviations
+should another contribution and the world's response correct, and which purposes
+remain worth protecting? [Corrective feedback](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#turning-and-corrective-feedback)
+offers purposes and limits for comparison. Keep the aims themselves open to reconsideration. Neither
 unlimited amplification nor permanent return to an old state defines progress.
 Recipients can adopt other aims; keep reasons here rather than repeating the
 whole philosophy across the connected models.
