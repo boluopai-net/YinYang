@@ -43,6 +43,14 @@ slot with commitments nobody has chosen.
 
 ## Connect orientation with situated understanding
 
+State the current orientation through the [Core account of grounds and selection](../core-views.md#yy-09):
+correspondence with actuality and coherence of the whole outweigh matching original wording; later
+clarifications usually outweigh earlier wording when judging present understanding. Preserve the
+original's attribution and state the meaning now adopted. This Yinyang usually chooses
+[forward evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#evolve-forward-with-more-capable-models), with efficiency
+and economy as its primary practical comparison criteria, retiring obsolete or burdensome conventions
+as capabilities develop.
+
 The [person](person.md), [counterpart](counterpart.md), and
 [relationship](relationship.md) remain three distinct subjects of understanding. The
 orientation supplies their adopted interpretive and evaluative direction;

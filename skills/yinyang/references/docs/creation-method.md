@@ -5,21 +5,70 @@
 Forming your own Yinyang connects adopted philosophy, an understanding of the actual participants,
 and a shared working environment so you and the model can continue to understand, create, judge, and act.
 
+## Philosophy and the personal environment revise one another
+
+This practice has two mutually revising objects. **Philosophy** develops an understanding of the world,
+values, participation, and life direction with its reasons. **The personal environment** gives that
+understanding working form in actual cooperation: Personal material, six working accounts, prompts,
+Skills, tools, interfaces, and relevant living conditions. Philosophy helps judge what environment is
+worth forming; actual work within that environment exposes philosophical premises, distinctions,
+and direction to correction.
+
+Either object can come first. Reading and developing philosophy usually helps make the direction of
+environmental change clearer. Actual practice often begins with the environment: an awkward reading
+arrangement, a desired creative work, or a model's misunderstanding can initiate revision. Produce a
+usable result in the current object, then bring it into the other for examination and development.
+Once both have usable results, use those results to revise the **meta-level methods** organizing them.
+
+### Let usable results change their organizing methods
+
+A private version writes its actual revision method in the revision account among the six. The public
+version uses this overview, [formation and revision](../design-and-revision.md), and the
+[six writing guides](../design-and-revision.md#form-a-situated-version-from-actual-material) to explain
+how philosophy can inform your own practice. Core views and important tables, philosophical readings
+and other appendices, navigation, and diagrams also organize that use. Read the philosophical and
+environmental results together to reconsider the objects, order, questions, and grounds selected by
+these guides, carrying changed meaning back through each actual owner.
+
+Object and meta-level can exchange roles. When a revision guide is being rewritten, it is the current
+object, with philosophical and environmental results supplying material for judgment. When that guide
+next organizes revision of a reading environment, it acts at the meta-level. New reading experience
+can reopen the philosophy too. The model traces these dependencies through the connected whole and
+delivers affected arguments, appendices, working arrangements, and reading surfaces together,
+retaining checked content that still fits.
+
+Methods and realizations usually [evolve forward](preference-harness.md#evolve-forward-with-more-capable-models),
+comparing the whole activity's gains and burdens through efficiency and economy, continuing useful
+conventions and retiring obsolete ones during revision.
+
+### Example: return from a reading arrangement to the learning method
+
+Imagine a reader who wants to resume understanding an argument after interruption. Starting with the environment,
+the model places the source, the reader's interpretation, and feedback where they can be compared,
+with an entrance back to the original passage. Bring this result into philosophy to ask whether the
+change supports access, shared judgment, or the cultivation of the person's interpretive capacity.
+Opening the page establishes access; resuming the argument supports continuity of this reading;
+development of capacity needs later actual attempts.
+
+Suppose the original criterion for independent understanding was “can resume alone,” but use shows
+that with external support the reader can recover the argument, judge interpretations, and change
+the help. This supplies grounds to reconsider the philosophical premise: valued independence can
+become “can recover the thread, judge it, and adjust the help used.” The earlier expression “I want
+to understand it myself” remains attributable material, while the current account expresses the
+understanding now adopted in light of later clarification, actual performance, and coherence of the
+whole. Whether the support actually helps and how it works each need their corresponding factual grounds.
+
+Once both objects have usable results, reconsider the revision method. If it checked only that a page
+opened, change the question to whether the reader can return to the source, recover the argument's
+relations, continue judging, and adjust the help. Revise the exercise in
+[Research and Learning](research-and-learning.md#learning-purposes), along with affected tool guidance,
+working accounts, and Core views. Subsequent use can judge whether the improved method helps learning.
+The [revision guide](../formation/revision.md#revise-the-collection-as-a-connected-whole) develops the
+responsibilities of maintaining this whole.
+
 <a id="choose-2x2"></a>
 
 ## Begin with Empty
-
-Once a version is formed, [revise its connected whole](../formation/revision.md#revise-the-collection-as-a-connected-whole):
-philosophical arguments, Core views and their important tables,
-working accounts, guides, and reading entrances develop together. The model
-traces these dependencies from the person's request and carries the resulting
-version into use. This same first revision loop maintains every relevant online
-document, including the rapidly changing Tools guide, Research and Learning,
-Psychology, and site-only summaries, diagrams and links. Check each against the
-changed understanding and actual conditions, revise substantive consequences,
-and retain checked content that still fits. The subsequent assessment of other
-Skills and environment behavior is a distinct second loop; it does not replace
-maintaining these reading documents.
 
 The public Skill is **Empty**. The author's philosophical essays and diagrams remain available as reading material; your personal version develops its own adopted understanding.
 

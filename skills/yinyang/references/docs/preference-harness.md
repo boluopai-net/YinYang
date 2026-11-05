@@ -128,3 +128,12 @@ A finite task can be completed while some alternatives remain unresolved. What m
 ## Evolve forward with more capable models
 
 A preference's realization can change with model capability. A stronger counterpart may carry work that formerly required prompts, intermediate procedures, or personal supervision. Keep the purpose intelligible and replace means whose contribution has ended. Judge the new arrangement through actual use, including whether it makes a different way of participating possible. Revisability belongs both to the preference and to the environment through which it is extended.
+
+This Yinyang usually develops in that direction. The
+[stealing-fire essay](stealing-fire.md#a-way-of-living-choose-the-rhythm-of-the-fire) calls it “forward
+compatibility”: enabling a more capable counterpart to continue and improve shared practice. Efficiency
+and economy are the primary practical comparison criteria, considering gains with the whole activity's
+time, attention, expense, supervision, and maintenance burden. Useful conventions ordinarily continue;
+revision can retire obsolete or more burdensome conventions, compensations, and compatibility layers
+so the new arrangement realizes the present purpose more directly. This practical comparison and
+[correspondence of factual claims and coherence of accounts](core-views.md#yy-09) answer their respective questions.

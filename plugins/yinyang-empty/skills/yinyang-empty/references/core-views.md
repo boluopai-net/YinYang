@@ -477,6 +477,12 @@ for accepting or revising a judgment. People and language models can participate
 in all these activities. A model used to describe reality needs the connection
 between its assumptions, represented objects, and actual conditions to be examined.
 
+Correspondence with actuality and coherence of the whole carry the main weight in a current account;
+original wording supplies attributable evidence. The adopted account can re-express, correct, or replace
+an earlier interpretation. Coherence connects concepts and inferences; correspondence makes factual
+claims answerable to what is the case. Practical purposes help select useful accounts and actions,
+and success supports the corresponding effect. A claim's truth still turns on whether its stated facts hold.
+
 Bodies, machines, and material processes realize the computational arrangement;
 selection, expression, and organization across its dimensions need their own
 checks. Lived purposes differ from evaluation criteria, actual knowing from
@@ -553,8 +559,11 @@ then compare their consequences and discriminating evidence. Mention, denial,
 and acceptance also differ: recording a denial does not establish its content,
 and denial provides no rule for inferring affirmation. An expression's
 occurrence time, the source time of its content, and the time represented
-can differ. Recency alone
-establishes neither truth nor present applicability.
+can differ. For present understanding, later expressions usually better reflect current clarification,
+choice, and conditions, and therefore usually carry more weight than earlier wording. Actual
+correspondence and coherence of the whole carry greater weight. Judge what has changed through
+referents, times, and grounds, then update the account in use while keeping original wording at its
+source. Recency helps interpret the present; factual grounds determine whether the corresponding claim holds.
 
 Choosing the grounds currently used for a question differs from determining
 what follows from them. Repair-based semantics supplies a bounded comparison:
@@ -826,6 +835,16 @@ image whose value is answered by participants' experiences and consequences.
 ## YY-16 · Personal recursive self-improvement
 
 Assisting personal recursive self-improvement connects Yinyang's philosophy, working descriptions, and environment. **Recursive self-improvement improves the methods producing improvement, making later understanding, judgment, creation, and realization of change more capable.** Its subject is this person with the model and actual support relations. Capacities may be internalized or reliably distributed within their shared environment.
+
+Philosophy and the personal environment are two mutually revising objects: philosophy develops direction
+and reasons, the environment gives understanding working form, and use can change philosophy.
+Developing philosophy first usually helps orient the work; practice often begins with the environment.
+Once both have usable results, use them to revise their organizing meta-level methods, including the
+actual revision account, public use and writing guides, Core views, and reading entrances. A method
+being rewritten becomes an object; when used in the next activity it organizes that work. Object
+and meta-level can exchange roles. The
+[practice overview](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+develops an example and the connected maintenance.
 
 ### From heritable variation to successors that can continue introspection
 

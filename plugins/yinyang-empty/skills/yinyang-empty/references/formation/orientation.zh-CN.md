@@ -29,6 +29,11 @@
 
 ## 把取向接到情境化理解
 
+现用取向按[基本观点中的根据与选择](../core-views.zh-CN.md#yy-09)表达：符合实际与整体融贯
+比贴合原始措辞更有分量；判断当前理解时，较后的澄清通常比早先措辞更有分量。原始表达
+保留归属，取向写出现在实际采纳的含义。这份阴阳通常选择[向前演进](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.zh-CN.html#面向更有能力的模型向前演进)，
+以效率与经济性作为首要实践比较尺度，并随能力变化退役过时、负担更大的约定。
+
 [人](person.zh-CN.md)、[伙伴](counterpart.zh-CN.md)与[关系](relationship.zh-CN.md)
 仍是三个不同的理解对象。取向提供所采纳的解释与评价方向；[环境](environment.zh-CN.md)
 说明其工作实现，[修订](revision.zh-CN.md)指导写出自己的实际修订方法。

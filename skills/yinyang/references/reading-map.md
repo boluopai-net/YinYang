@@ -41,6 +41,12 @@ methods when the task calls for them.
 
 ## Find the contribution the work needs
 
+For how philosophy and the personal environment revise each other, and how their usable results
+return to meta-level methods, begin with the
+[practice overview](docs/creation-method.md#philosophy-and-the-personal-environment-revise-one-another).
+Whether starting from philosophy or an actual environment, use the questions below to locate the
+contribution currently missing.
+
 | Current question | Core view and focused route |
 | --- | --- |
 | What should I participate in, and what can the model carry? | [YY-02](docs/core-views.md#yy-02) and [YY-06](docs/core-views.md#yy-06) connect embodied multimodal participation with linguistic delegation. [Cognitive complexity and expressive scope](docs/metaphor-and-self-revision.md#cognitive-complexity-and-expressive-scope) compares representation, prior knowledge, supervision, interruption, and resumption. |

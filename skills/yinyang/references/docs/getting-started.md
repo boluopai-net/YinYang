@@ -186,6 +186,16 @@ For material suspected of circulating without authorization, availability, finan
 
 **The purpose running through these arrangements is to make worthwhile participation easier.** Judge an arrangement by what you can understand, generate, judge, and accomplish with it, including the burden of operation, supervision, interruption, recovery, and maintenance. A simpler entrance is useful when it preserves the relations and choices the work needs; a new panel or automation must earn the complexity it adds.
 
+For example, when resuming reading after interruption is difficult, have the model place the source,
+your interpretation, and feedback where they can be compared, with an entrance back to the passage.
+Actually try recovering the argument, then bring the result into philosophy to judge what participation
+it supports. Once philosophy and the environment have usable results, reconsider the method organizing
+the change: replace a check that the page opened with one that examines recovery of relations and
+continued interpretation, carrying it into tool acceptance and learning exercises. The method becomes
+the object of revision here, then organizes the next activity. The
+[practice overview](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+develops this return; [Research and Learning](research-and-learning.md#learning-purposes) develops the exercise.
+
 One related software-engineering idea is **a small, simple interface carrying deep, rich functionality**. John Ousterhout's book [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php) connects interface complexity, functionality, and information hiding. In a personal environment, “prepare reading material for this book” can be the person's entrance while the model locates editions, converts, organizes, and checks them. Sources, results, and consequential choices remain inspectable. “Small” concerns the operations and conventions a person must master. Put complexity where it can be handled while keeping important choices visible.
 
 The goal can be to **entrust construction and maintenance of the whole daily working environment to the model**: install and configure software, organize material, build tools, repair faults, maintain instructions and Skills, and connect the changes to daily use. Express purposes, judgments, and feedback through speech, sketches, screenshots, actual use, and necessary text. The model carries the remaining documents, code, configuration, and maintenance. It needs a clear work scope, usable tools, and resumable records; personal decisions such as purchases, identity verification, and publication remain governed by actual authorization.

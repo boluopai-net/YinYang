@@ -502,8 +502,11 @@ more capable counterpart to understand and improve the arrangement.
 [Forward evolution toward new capabilities](preference-harness.md#evolve-forward-with-more-capable-models)
 allows old prompts, tools, and compensations to be replaced, without requiring
 new practice to remain organized around earlier model limitations.
-**Forward compatibility** here is a direction for joint design and continued
-maintenance; actual understanding, works, and action must show whether a new
+**Forward compatibility** here is the usual direction for joint design and continued
+maintenance. Compare the whole activity's gains and burdens through
+[efficiency and economy](preference-harness.md#evolve-forward-with-more-capable-models), retiring obsolete
+or more costly conventions during revision so new capabilities serve current purposes.
+Actual understanding, works, and action must show whether a new
 model can carry it forward. Personal environments can develop from present
 needs without first waiting for every external institution and participant
 to adopt the same understanding.

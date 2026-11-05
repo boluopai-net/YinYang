@@ -65,7 +65,14 @@ evidence about the method and the person's developing possibilities.
 
 ## The shared formation and revision method
 
-Read adopted philosophy and relevant fresh sources, correct Personal understanding, condense the six accounts
+Philosophy and the personal environment revise one another; either can come first. Philosophy first
+usually helps orient the work, while practice often begins with the environment. Once both have
+usable results, use them to reconsider their organizing meta-level methods, including this formation
+account and the six writing guides. Object and meta-level exchange roles with the current activity.
+The [practice overview](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+develops the movement and a concrete example.
+
+When synthesizing the six working accounts, read adopted philosophy and relevant fresh sources, correct Personal understanding, condense the accounts
 and check them together, then realize selected Skill/environment changes and read back their use.
 The [revision guide](formation/revision.md#refresh-the-selected-grounds) develops this dependency.
 Personal retains readable topic articles and original sources; the six accounts select their implications for cooperation.

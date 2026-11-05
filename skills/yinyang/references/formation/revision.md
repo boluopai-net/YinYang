@@ -59,6 +59,23 @@ that remains unfinished.
 
 ## Establish the current material
 
+### Move between two objects and their meta-level methods
+
+Philosophy and the personal environment are two mutually revising objects. Developing philosophy
+first usually helps clarify direction, while practice often begins with an actual environmental
+difficulty. Make a usable result in the current object, then bring it into the other to develop
+understanding and realization together. Once both have usable results, use them to reconsider the
+source selection, questions, order, and evaluation methods organizing revision. The
+[practice overview](../docs/creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+develops a reading-arrangement example.
+
+The private revision account carries the person's actual method; public formation and use guides
+carry methods others can borrow. The six writing guides, Core views and tables, reading guides,
+appendices, and diagrams can all be affected by this return. Revise their actual owners according to
+changed meaning and keep language editions and reading surfaces coherent. A method being rewritten
+is the current object; when used in the next activity, it acts at that activity's meta-level.
+New results can continue changing both the method and the original philosophy.
+
 ### Revise the collection as a connected whole
 
 A request to revise Yinyang selects the connected collection as the scope of
@@ -112,13 +129,14 @@ retain the passage and say what was checked. Reconcile any affected site-only su
 and route, both language editions and the paired PDFs. The different outcomes
 follow their actual dependencies; uniform cosmetic changes add no evidence.
 
-This document maintenance belongs to the first revision loop, alongside
-philosophy, Personal understanding and the six accounts. The later
-[Skills and environment assessment](#let-the-whole-yinyang-revise-skills-and-the-environment)
-is a second loop: assess whether other Skills and arrangements realize that
-understanding, and repair their actual instructions or behavior through their
-owners. A guide about a Skill can need revision even when that Skill needs no
-implementation change; changing a Skill does not by itself update its guide.
+These documents develop with philosophical formation, Personal understanding, the six accounts,
+and relevant environmental practice in the current revision. A subsequent, separately selected
+[assessment of other Skills and environments](#let-the-whole-yinyang-revise-skills-and-the-environment)
+can use the formed connected understanding to examine other Skills and arrangements, repairing
+instructions or behavior through their owners. That assessment and the current movement from
+environmental practice into philosophy and back to meta-level methods have their respective objects.
+Check a Skill's guide and its implementation separately too: changed understanding can call for
+document revision alone; an implementation change needs behavioral readback and corresponding guidance.
 
 ### Delegate work according to the actual dependencies
 
@@ -367,6 +385,12 @@ interpretation, describe a new situation, or introduce unresolved conflict.
 Explain important inferences: what supports them, why the connection matters,
 and what limits their use. Several summaries of one source add no independent
 support.
+
+Rewrite current accounts through the [relative weight of correspondence, coherence, and current
+interpretation](../docs/core-views.md#yy-09), keeping original words and context at their source.
+Later clarification usually helps interpret the present; factual grounds and coherence of the whole
+determine the account adopted. Completing a useful arrangement and establishing an explanation of
+it each require their appropriate checks.
 
 Keep extended episodes and unique originals with their existing owners; give
 derived accounts usable locators and grounds. In the private package, the

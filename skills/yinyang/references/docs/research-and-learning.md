@@ -33,6 +33,17 @@ Broad reading connects with perception and action: a sketch can reveal a spatial
 
 This is **bidirectional pruning**: practical demand selects the scope and depth of theory, while theoretical dependencies identify missing foundations. When the selected theory remains unclear, supply what makes it intelligible and return to the original question. Theory can also expose mistaken practical assumptions and unnecessary steps. Adjust scope to actual difficulties. Pure theoretical inquiry can follow its own questions, concepts, and arguments.
 
+A learning arrangement can also make its organizing method an object of revision. For example, when
+resuming an argument after interruption proves difficult, have the model place the source, your
+interpretation, and feedback where they can be compared, then actually try to recover the argument.
+Bring the result into philosophy to judge whether it supports access, shared understanding, or the
+cultivation of capacity. Once both have usable results, examine the learning method. If it checked
+only that the material opened, change the check to whether you can return to the passage, recover
+its relations, and continue interpreting. Carry this change into exercises, tool guidance, and
+relevant working accounts. The next learning activity can examine the new method's contribution.
+The [practice overview](creation-method.md#example-return-from-a-reading-arrangement-to-the-learning-method)
+explains how object and meta-level exchange roles.
+
 Consider what you want this time. Do you want to finish a piece of work, make study easier to resume, or practice explaining, judging or coming up with an idea? A well-organized answer can help you continue. Your next attempt shows what you have learned. Once you choose an ability to practice, keep that part of the activity for yourself and let the model handle preparation it can reliably complete. Consider the time, attention, physical effort, supervision and maintenance the whole activity takes. Adjust the division of work as your interests and tools change. [Personal RSI in economic reality](economic-personal-rsi.md) explores how to choose which abilities to cultivate.
 
 If you want to **give yourself a university education, or fill important gaps in foundational and practical knowledge**, the five steps below provide a systematic route: draft a curriculum from your interests, prepare courses, books, tools, and an environment, then write theory and practice paths and begin learning. You can cover one important field or gradually develop your own curriculum.

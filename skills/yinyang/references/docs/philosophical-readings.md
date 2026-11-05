@@ -8,6 +8,13 @@ The [reading map](../reading-map.md) locates the arguments themselves; this page
 explains which originals bear on them, which are proposed comparisons, and where
 an interpretation extends its source. Select by question and read the relevant passage in context.
 
+Philosophical reading also changes with practical questions: follow the relevant sources to reconsider
+a premise exposed by the personal environment. Usable philosophical and environmental results can
+in turn revise the questions and routes selected here. The
+[practice overview](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+explains this movement between object and meta-level. The relevant sections develop interpretations
+of sources; your practice continues examining the reasons for adopting them.
+
 ## Heraclitus: fire, measure, and opposing tension
 
 [B6](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_6)

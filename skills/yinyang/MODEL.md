@@ -61,6 +61,14 @@ Native extraction/Observations/topic pages can implement Personal correction;
 no complete manual rewrite or compulsory summary-of-summary is required, but
 corrected understanding must inform synthesis and original grounds stay reachable.
 
+This evidence dependency applies when synthesizing working accounts. Formation itself can begin
+with philosophy or the personal environment: each is an object that can revise the other. Philosophy
+first usually clarifies direction; practice often starts with environmental conditions. Once both
+have usable results, use them to revise the organizing methods, including private actual revision,
+public formation/use guidance, six writing guides, Core views, readings, and relevant appendices.
+Object and meta-level roles follow the current activity and can exchange. Keep a separately selected
+assessment of other Skills and environments distinct from this practice-led philosophical formation.
+
 Each synthesis instruction/native `source_query` derives full scope from all six
 guides. Check shared premises, concepts, relations and consequences across all
 six; a common bank or per-page success is no guarantee. Siblings are current
