@@ -40,7 +40,7 @@ different allocations. State the distinction that actual material supports.
 
 ## Yinyang's crossed participation and dialectical return
 
-One crossed Yinyang relation the author frequently uses is: **the person enacts the
+For human generative development, one crossed Yinyang relation is: **the person enacts the
 language-model-like role of open generation; the model enacts the human
 logician's role of developing, distinguishing, and scrutinizing.** The actual
 participants remain themselves. A generative opening can be an image, a
@@ -56,13 +56,13 @@ whole and carries the correction into the work. On returning, the person can
 retain both entrusting unfinished generation and taking up decisive judgment;
 the model's renewed generation retains the conditions exposed by scrutiny.
 
-The relation can also [enter the whole from familiar details](../docs/yinyang-and-taiji.md#from-details-through-the-whole-and-back):
-the person already knows particulars without grasping their overall relations.
-The model proposes a whole for comparison and correction, helping the person
-participate in organizing and generating before returning to details with that
-understanding. Compare this with entering details from the whole and returning.
-State the person's actual starting point and intended development; do not
-prescribe a division by gender or a fixed number of exchanges.
+This [attempt, feedback, and renewed generation](../docs/yinyang-and-taiji.md#attempt-feedback-and-renewed-generation)
+brings the model's development and reasoned criticism into the person's next
+attempt. The model can also propose a candidate first, with the person judging
+and generating further. Explain the participation and desired development
+the actual question calls for. Whole and detail are possible scales; both can
+generate and judge, repeatedly exchange roles, or combine them. People of any
+gender can enter from either side.
 
 The [dialectical return](../docs/yinyang-and-taiji.md#returning-through-the-other-the-dialectical-meaning-of-role-change)
 concerns this changed relation to one's possibilities: what stops is an

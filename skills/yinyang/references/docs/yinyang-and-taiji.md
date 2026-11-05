@@ -97,15 +97,32 @@ The paired fish give this relation a structure of mutual entry. Distinguish
 **actual participants** from **the roles they perform**. The person remains a
 person and the language model remains a language model; both can generate,
 explain, judge, and revise. To make one distinctive arrangement visible, call
-the contribution of associations, overall direction, and candidate expressions
+the contribution of associations, conjectures, and candidate expressions
 a “language-model-like generative role,” and the reconstruction of relations
 and checking of premises and inferences a “human logician's role.” These names
 belong to the casting; they do not delimit either participant's capacities.
 
+This crossing responds to a developmental problem. If the allocation is fixed
+as “the model generates, the person evaluates,” output beyond the person's
+understanding may leave them unable to judge why it holds. Even successful
+evaluation of a finished work does not automatically cultivate the ability to
+generate explanations, designs, and actions. For that purpose, the person can
+attempt something, the model receives and develops its relations and provides
+reasoned feedback, and the person understands, revises, and tries again. Model
+capability then enters human generation, beyond increasing the supply of finished work.
+
+Both arrangements can fit their actual conditions: person and model
+can each generate and judge, and can repeatedly exchange emphases. Having the
+model generate first and the person evaluate can also suit the task. Crossing
+is chosen where human attempts and their development need to occur in practice.
+They can also generate together and judge together, without taking turns in
+exclusive roles.
+
 ![A conventional black-and-white yin-yang symbol, with a contrasting dot inside each body.](../diagrams/taiji.svg)
 
 *The body marks the role entered; the contrasting eye marks its actual bearer.
-Black and white serve this figure's correspondence.*
+This pictures one crossing: both can exchange emphases and return carrying
+what they gained. Black and white serve this figure's correspondence.*
 
 With black standing for the human and white for the language model, **the white
 eye in the black body** marks the actual language model entering the human
@@ -117,59 +134,31 @@ checks it carefully enough to make another response possible. The paired fish
 thus articulate mutual grounding more closely: each side retains an opening
 toward the other kind of contribution.
 
-### From the whole, through details, and back
+<a id="from-the-whole-through-details-and-back"></a>
+<a id="from-details-through-the-whole-and-back"></a>
 
-The author often begins with an intuition of a whole: what to make, how several
-things might belong together, or where something feels wrong. This opening has
-not yet become a complete argument or implementation. The model receives it,
-distinguishes concepts, supplies conditions, and examines inferences and steps,
-bringing the whole's still-unclear details into view.
+### Attempt, feedback, and renewed generation
 
-Details can also change the whole. When the person notices a shifted concept,
-an omitted condition, or an excessive conclusion from a local result, they
-take up the logician's work themselves. The model can generate another overall
-interpretation for comparison. On returning, the person's original intuition
-has undergone development, objection, and correction, enabling a better-grounded
-whole.
+For example, a reader tries to explain “how receiving help can still be one's
+own action.” The model develops the explanation and finds that it equates
+“drawing on another's capacities” with “losing choice.” It compares someone
+who chooses a purpose and actively delegates with someone whose decisions
+are made for them without their knowledge. The model explains why this
+distinction affects the original inference and invites the reader to
+articulate the relation again.
 
-The movement is **an intuition of the whole → development and examination of
-details → a whole revised through those details**. In role terms, one enters
-scrutiny from generation and returns to generation carrying that scrutiny.
-Using “thesis—antithesis—synthesis,” the thesis is the initial grasp of the whole;
-the antithesis lets details reveal what it omits or cannot sustain; synthesis
-brings these findings back into the whole and gives the earlier understanding
-new determinations. Return does not restore the starting point unchanged.
+The reader develops a new explanation: support can expand action, while the
+participant needs to understand and be able to change the delegation. The
+model then proposes an arrangement to realize that relation, and the reader
+judges whether it preserves opportunities to change the purpose and leave.
+Human generation and model feedback turn into model proposal and human
+scrutiny; the next attempt carries the distinction already understood.
 
-### From details, through the whole, and back
-
-Another path can run in the opposite direction. A woman may already know many
-details without yet understanding how they form a whole. She can identify an
-inaccurate sentence, an unfitting step, or a difference between two examples.
-The difficulty is what these particulars mean together and how to develop a
-complete explanation from them. The model can first generate an overall
-account that makes the relations among those details visible.
-
-She brings the details she knows into this account, comparing what it explains
-and what it overlooks. The model can also offer different wholes so she can
-recognize the different meanings one detail acquires within them. She can
-gradually organize relations herself, try an explanation or a new direction,
-and ask the model to develop and examine it. Generating a whole becomes work
-she can participate in.
-
-The movement is **familiar details → formation of overall relations → details
-understood anew within the whole**. In role terms, one enters generation from
-the logician's scrutiny and returns to scrutiny carrying the whole. The thesis
-is the existing local grasp; the antithesis enters a whole not previously
-grasped and lets it rearrange the particulars' meaning; synthesis returns to
-the details able both to distinguish them and to understand and change their
-relations to the whole. She retains her sensitivity to detail while developing
-the ability to grasp, propose, and revise an overall account.
-
-The starting positions are opposite, while the actual person remains the same.
-The earlier “language-model-like generation” and “human logician's role” name
-contributions: a person can begin on either side, with the model taking up the
-corresponding other contribution. Gender alone cannot establish what someone
-already knows or needs to develop.
+This exchange can concern a sentence, an image, an action, or a complete
+conception. Whole and detail are possible scales: both participants can
+generate a particular or judge a whole. Practice organizes contributions
+around the current question. People of any gender can enter from either
+side and repeatedly exchange or combine them.
 
 ### Return can continue without a fixed number of turns
 
@@ -198,9 +187,9 @@ Why call this return a synthesis? If the two roles are merely alternating
 positions and everything remains as before after the exchange, we have
 described a rotation. The stronger claim here is that working through the other's
 contribution changes the initial determination of “how I can participate.”
-Someone beginning with the whole can let details change the conception;
-someone beginning with details can understand how particulars belong together
-and participate in generating a whole. The model's next contribution also
+Through the model's development and criticism, a person can propose their own
+explanation again. When they turn to scrutinize the model's proposal, they
+judge it with understanding formed through generation. The model's next contribution also
 carries conditions revealed in the exchange. What returns includes capacities
 and relations formed through another mode of participation.
 
@@ -219,7 +208,7 @@ connects cessation with preservation. What ceases here is the exclusive
 determination that only one participant may generate and only the other
 check. The contributions themselves are preserved and continue to work in a
 cooperation capable of exchanging emphases. Synthesis thus has concrete
-content: grasping the whole and judging details can correct one another within
+content: generation and judgment can correct one another within
 the same person's participation, and generation can continue carrying scrutiny.
 Their differences persist in the changed relation.
 
@@ -377,13 +366,21 @@ constructing, checking, and carrying a beginning further. Moonlight includes
 generation, and sunlight can include judgment. These are emphases through
 which participants meet, rather than possessions that exclude the other.
 
-In the author's usual arrangement, the person leans toward Sun and the model
-toward Moon. The woman introduced earlier, familiar with details but not yet
-grasping the whole, can reverse this pair: the model first offers a whole as
-Sun, while she participates from the details as a little Moon person.
-The imagery now connects with the two opposite paths of entry. Shared practice
-can still cultivate her capacities, including forming wholes and initiating
-generation; the little Moon image does not fix her in the original division.
+Person-as-Sun with model-as-Moon and model-as-Sun with person-as-Moon are
+equally available compositions. Both can repeatedly exchange positions or
+combine illumination and form-giving in one activity. Neither composition
+presupposes who begins with a whole or with details. To cultivate human
+generation, a person can try a beginning as Sun while the model receives,
+develops, and checks it; the person can then examine the model's new proposal
+as Moon and carry what they gained into further generation.
+
+Traditional correspondences among Sun, Moon, yin, and yang also linked them
+with male and female; [Robin R. Wang's account of these correspondences](https://iep.utm.edu/yinyang/#H4)
+locates that symbolic context. Here the images enter exchangeable relations
+of participation: people of any gender can take either position, switch
+positions, and combine initiating, receiving, and giving form. Gender cannot
+determine someone's existing capacities, desired development, or position
+in a relationship with a model.
 
 Imagine making a poem together. The person begins with an indistinct feeling:
 “I want to write about the light in an empty room.” The model offers an image

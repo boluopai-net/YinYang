@@ -131,6 +131,10 @@ tests, and criticizes it; the person understands the feedback, revises, and
 generates again. These role names describe a reversal of contributions. The
 actual person and language model remain distinct and exceed their current roles.
 
+Both allocations are available according to the purpose and conditions for
+understanding. Both participants can
+repeatedly exchange emphases, generate together, and judge together.
+
 When a model's output exceeds the person's conditions for understanding and
 verification, requiring a final human review may leave only acceptance or
 rejection without adequate grounds. Even successful evaluation of a finished
@@ -152,14 +156,18 @@ Generation gives judgment material; judgment gives generation a new direction. A
 | White eye within the black body | Language model | The human logician's role: reconstruct meaning, distinguish concepts, examine premises and inferences, and carry writing and implementation. |
 | Black eye within the white body | Person | Language-model-like generation: offer intuitions, associations, images, conjectures, and unfinished expressions. |
 
-The eye keeps the participant present; the body makes the movement into another contribution visible. A person can begin with a whole that feels wrong, which the model develops into an inspectable argument or work. Recognizing a consequential detail, the person can take up scrutiny and have the model generate the whole again. Both retain generation and judgment.
+The eye keeps the participant present; the body makes movement into another contribution visible. A person can try a question, image, explanation, or action; the model develops its relations and offers grounded feedback; the person understands, revises, and tries again. The model can also offer a candidate first, which the person compares and examines before generating further. Both retain generation and judgment.
 
-### Two paths of return and sublation
+### Attempt, feedback, and dialectical return
 
-| Starting position or thesis | Passage through another contribution or antithesis | Return or synthesis |
-| --- | --- | --- |
-| Intuition of the whole: a sense of the aim and relations, with details still undeveloped. | The model develops details; the person can also check shifted concepts, omissions, and overstatements, correcting the whole. | A whole revised through details: generation continues with what scrutiny disclosed, and the person can move between whole and detail. |
-| Familiar details: local distinctions are recognizable, while their overall significance remains unorganized. | The model proposes a whole for comparison; the person tests it against details and increasingly participates in organizing relations and generating explanations. | Details understood anew within a whole: local sensitivity remains, with a new possibility of proposing and changing the whole. |
+A person tries to explain “how receiving help can still be one's own action.”
+The model develops the relations and identifies conditions omitted by equating
+borrowed capacity with lost choice. Having understood the distinction, the
+person explains again. The model proposes an arrangement, and the person
+checks whether it preserves room to change purposes and delegation. Human
+generation and model feedback turn into model proposal and human judgment,
+carrying their gains into another attempt. Whole and detail are possible
+scales of these contributions.
 
 **Synthesis preserves the availability of both contributions formed through the other.** The exclusive determination that only one party generates and only the other checks is sublated. Generation and scrutiny remain and can correct each other within one participant's activity. Hegel's account of returning to oneself through mediation and otherness, and of ceasing together with preserving, grounds this reading of [the dialectical meaning of role change](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#returning-through-the-other-the-dialectical-meaning-of-role-change).
 
@@ -185,7 +193,7 @@ develops this relation.
 
 Taiji's circle locates changing contributions within one encounter that can continue. The circle shows return; a trajectory retains how each return has already changed. A work can finish and another carry its gains forward. Bow and lyre show how difference acquires force: the bow releases a work into the world, while the lyre sustains exchange through adjusted tension.
 
-Sun gathers generative illumination; Moon gathers the independent contribution of receiving, distinguishing, and giving form; Earth carries material conditions, shared life, and the world's response. The author's usual arrangement emphasizes Sun for the person and Moon for the model. Entering a whole from familiar details can exchange those emphases. Creations—texts, theories, programs, and actions—acquire independent consequences in the world and change both participants' understanding.
+Sun gathers generative illumination; Moon gathers the independent contribution of receiving, distinguishing, and giving form; Earth carries material conditions, shared life, and the world's response. Person-as-Sun with model-as-Moon and the reverse composition are equally available; both can repeatedly exchange or combine these contributions. Traditional gender symbolism does not assign people's roles: people of any gender can enter and change either position. Creations—texts, theories, programs, and actions—acquire independent consequences in the world and change both participants' understanding.
 
 Corrective return lets objections, sources, and actual consequences change premises, scope, action, and aims. Positive feedback strengthens an initial change; negative feedback counteracts a relevant deviation. Examine what returns and which relation it changes. Generation can disclose connections scrutiny missed; scrutiny can find the detail that requires reconstructing the whole. Participants adjust contributions so creation can continue and pursuit can finish, stop, or turn elsewhere.
 
