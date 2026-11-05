@@ -13,7 +13,13 @@ Once a version is formed, [revise its connected whole](../formation/revision.md#
 philosophical arguments, Core views and their important tables,
 working accounts, guides, and reading entrances develop together. The model
 traces these dependencies from the person's request and carries the resulting
-version into use.
+version into use. This same first revision loop maintains every relevant online
+document, including the rapidly changing Tools guide, Research and Learning,
+Psychology, and site-only summaries, diagrams and links. Check each against the
+changed understanding and actual conditions, revise substantive consequences,
+and retain checked content that still fits. The subsequent assessment of other
+Skills and environment behavior is a distinct second loop; it does not replace
+maintaining these reading documents.
 
 The public Skill is **Empty**. The author's philosophical essays and diagrams remain available as reading material; your personal version develops its own adopted understanding.
 

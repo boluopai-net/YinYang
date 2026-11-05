@@ -3,6 +3,10 @@
 形成自己的版本后，按[相连整体修订](../formation/revision.zh-CN.md#把文集作为相连整体修订)：
 哲学论证、基本观点及重要表格、工作描述、指南和阅读入口共同发展。
 模型从本人的请求追踪这些依赖，并将形成的版本交付到实际使用处。
+同一个第一轮修订也维护所有相关在线文档，包括快速变化的工具使用页、科研与学习页、
+心理页，以及网站独有的摘要、图示与链接。联系改变后的理解和实际条件逐项检查，
+实质改写受到影响的内容，保留经核对仍然适用的部分。随后对其他 Skills 与环境行为的
+评估是另一个第二轮，不能代替这些阅读文档的维护。
 
 [首页](../../README.zh-CN.md) · [工作模型的形成与修订](../design-and-revision.zh-CN.md) · [阴阳的日常协作](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md) · [English](creation-method.md)
 

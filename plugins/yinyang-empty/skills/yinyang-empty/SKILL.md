@@ -151,7 +151,11 @@ correction available, not amplify one interpretation indefinitely. Agreement,
 relief, completed output, and lasting development require different evidence.
 
 Refresh selected sources, Personal understanding and the six actual accounts,
-following the [revision method](references/formation/revision.md). Read back
+following the [revision method](references/formation/revision.md). Maintain
+the relevant online documents in the same revision, including Tools, Research
+and Learning, Psychology and site-only reading material; maintain their affected
+substance through the actual source owners before the separate assessment of
+other Skills and environment behavior. Read back
 the actual consumer and result when changing an environment. The task owner
 retains execution and completion; specialist methods retain their own work.
 Ordinary subagents receive bounded relevant task context without private

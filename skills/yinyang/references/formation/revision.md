@@ -84,6 +84,41 @@ still accounting for its place in the whole. A new image, for example, changes
 its article and visual inventory; a new philosophical relationship can also
 change Core views, tables, guides, and reading questions.
 
+### Maintain the relevant online documents in the same revision
+
+When the person initiates revision, the model also carries maintenance of all
+relevant online-visible documents through that same revision. Recover the actual
+website contents alongside the collection: the Tools guide, Research and Learning,
+Psychology, and related introductions, summaries, diagrams, captions, navigation,
+and links, including material authored only at the Site. Follow each document to
+its source owner, revise its substance where the changed understanding or current
+conditions require it, and deliver the connected reading surfaces together.
+The person need not separately request website updates or list every page.
+
+Tools change quickly: inspect the actual capabilities, available routes and
+current use relevant to the revision, then correct obsolete advice and examples.
+Research and Learning and Psychology usually change more slowly, but still check
+their premises, methods and cross-links against this revision. Retain a passage
+when that comparison supports it; merely opening a page or changing its date is
+not a substantive check. Preserve specialist and evidence boundaries.
+
+For example, a new way of jointly reading a source may require replacing the
+Tools guide's old workflow and rewriting the Research and Learning passage about
+how questions and source-grounded feedback return to the learner. Check the
+Psychology guide for consequences too: if its distinction between interpreting
+material and claiming psychological change still holds, retain that account and
+say what was checked. Reconcile any affected site-only summary, diagram, caption
+and route, both language editions and the paired PDFs. The different outcomes
+follow their actual dependencies; uniform cosmetic changes add no evidence.
+
+This document maintenance belongs to the first revision loop, alongside
+philosophy, Personal understanding and the six accounts. The later
+[Skills and environment assessment](#let-the-whole-yinyang-revise-skills-and-the-environment)
+is a second loop: assess whether other Skills and arrangements realize that
+understanding, and repair their actual instructions or behavior through their
+owners. A guide about a Skill can need revision even when that Skill needs no
+implementation change; changing a Skill does not by itself update its guide.
+
 Complete the integrated version before reporting the revision finished:
 compare the user's purpose with the actual main text and appendix entrances,
 check bilingual meaning and important visual relationships, and read back
