@@ -4,6 +4,8 @@ Materials, understanding, and support can advance one another. A model can help 
 
 This page concerns evidence, measurement, and practical help. [Research and Learning](research-and-learning.md) offers resources for studying psychology; philosophical interpretation has its own place elsewhere in the collection.
 
+You can begin with an unfinished account, a felt difficulty, or an example. You can ask the model to listen and help you find words, organize what is already available, examine an explanation, or prepare practical help. The model can develop a partial expression into something you can inspect and correct. These contributions can change during the conversation; receiving support does not require first explaining yourself or taking up a self-analysis exercise.
+
 ## Page navigation
 
 <nav class="guide-navigation" aria-label="Page navigation" markdown="1">
@@ -35,13 +37,15 @@ For example, counseling may bring new expression, knowledge, and questions for d
 
 Start with the present concern and the help you want. The model can find original research, public guidance, and relevant records you authorize it to read, compare their claims, and preserve useful material with its source, date, and context. It should distinguish what was recorded or said from a later interpretation, keeping uncertainty and conflicting evidence visible.
 
+An experience, the circumstances it concerns, and an explanation have different grounds. Feeling overwhelmed is part of what needs understanding; whether the demands changed, and what contributed to the feeling, are further questions. A model's plausible account does not settle them. Ask it to show which parts come from your expression, other records, or its own interpretation, and what would help distinguish relevant alternatives. A useful working explanation can guide a manageable next step while its limits and other supported possibilities remain available. [Reasoning within an unfinished stream](reasoning.md) develops this distinction between sources and interpretations.
+
 **Materials include knowledge that makes help understandable.** Advice without an understanding of its purpose, grounds, and relation to the situation may be difficult to judge or use. The model can find reliable explanations for the current question, explain a measure's construct, a score, or differences between forms of support, and retain useful sources and explanations. Learning and receiving help can proceed together. [NICE's shared decision-making guidance](https://www.nice.org.uk/guidance/ng197/chapter/recommendations) provides a reference for understandable information and joint judgment in professional care.
 
 An **Obsidian private vault**, or an existing comparable note environment, can retain this psychological material: readings, conceptual explanations, life records, and counseling, psychotherapy, or medical-visit material the person chooses to save. Link sources, circumstances, and subsequent changes. The model can help find, organize, and maintain the collection.
 
 In Yinyang, `personal` retains **dynamic, important material relevant to current understanding, together with its source entrances**. Examples include current concerns, questionnaire answers and results, significant changes, and an interpretation of one's own name and its personal meaning. Name interpretation is personal expression and interpretation. Full sources keep their existing place in the vault; `personal` can hold the records needed now or links to them. New experience and understanding can revise what belongs in this current selection.
 
-Personal records stay with their private owner. In Yinyang, use `personal` to read currently relevant material yourself or ask a language model to help read and understand it. The six working accounts select implications for cooperation.
+Personal records stay with their private owner. In Yinyang, use `personal` to read currently relevant material yourself or ask a language model to help read and understand it. Preserve original expression alongside revisable understanding, keeping the original grounds reachable through later summaries. The six working accounts select implications for cooperation; the psychological material and its developing interpretation retain their own private home.
 
 <a id="questionnaires"></a>
 
@@ -61,6 +65,8 @@ The model can calculate and independently check scores using the exact version's
 
 Keep the version, language, completion date, recall period, original answers, missingness, calculation, and result together in the appropriate private record. In Yinyang, retain currently important measurement records in `personal`, or link to the complete records in the vault, so subsequent understanding can use actual materials. You can ask for a short table that makes the calculation reproducible and explains the score's direction, reference population, and interpretive limits. Any cutoff or suggested follow-up must come from the instrument's relevant guidance. Diagnosis requires professional clinical assessment.
 
+Ask for an understandable account of the result in relation to your actual answers and question. A number or “higher means more” may leave the important experience unclear; different answer patterns can also produce the same total. The explanation should make its basis and uncertainty visible, without inventing severity bands or treating a result as confirmation of an earlier personal interpretation.
+
 <a id="statistics"></a>
 
 ## Read patterns and changes
@@ -75,7 +81,7 @@ An observed change can return work to another area: find knowledge explaining th
 
 ## Turn understanding into practical support
 
-You can ask the model to help reduce a practical difficulty: make an activity easier to begin, adjust an overwhelming environment, find reliable general well-being information, or organize a manageable next step. What helps should be judged through your actual experience and revised if it adds burden.
+You can ask the model to help reduce a practical difficulty: make an activity easier to begin, adjust an overwhelming environment, find reliable general well-being information, or organize a manageable next step. Understanding a difficulty does not establish that you can already initiate, interrupt, or switch the activity. Records, reminders, and environmental adjustments can carry some of the work. Judge help through what becomes easier in actual life, including the effort of explaining, supervising, recording, and returning after interruption. An organized record shows that material is available; whether it brings relief is a further question. Revise the arrangement and frequency of recording according to the benefit and burden you experience.
 
 Support also includes counseling, psychotherapy, and medical care. The model can explain their purposes, help locate qualified professionals suited to the present need, and organize questions and relevant material; the person and professional determine specific care together. When difficulties persist, worsen, or interfere with ordinary life, a concise timeline, effects on functioning, and records the person chooses to share can help communicate the concern. Clinical assessment considers duration, functioning, and context as well as symptoms; see [NICE's assessment guidance](https://www.nice.org.uk/guidance/ng222/chapter/recommendations#recognition-and-assessment).
 
@@ -88,5 +94,7 @@ For immediate danger, serious injury, poisoning, or another urgent need, seek lo
 ## Model assistance and professional support
 
 The model carries much of the searching, reviewing, preservation, calculation, and preparation. Your answers and experience remain yours; you can correct an interpretation, decline a questionnaire, or ask for practical help without accepting a personal portrait.
+
+You can offer your own explanation for the model to develop and examine, or ask it to propose possibilities first, changing contributions as needed. When you correct a point, the model should revise that interpretation and its consequences while preserving the other concerns and help still wanted. Ask it to examine whether a mismatch concerns its account, the support arrangement, or changed circumstances, and make consequential changes in its understanding clear enough for you to inspect and correct.
 
 The model assists with materials, score checking, and preparation. Appropriately qualified professionals provide clinical assessment and treatment, with the person and professional judging specific care together. The useful outcome here is a clearer question, trustworthy records, an understandable result where measurement helps, and a next step that fits the situation.

@@ -4,6 +4,8 @@
 
 Design is one example: deciding what to make, why, how to organize it, and what would count as a fitting result. When AI carries implementation, people can concentrate their learning on these questions. Designing twice or more means generating and comparing alternatives, reconsidering the problem, premises, and evaluation criteria when needed. Even the framework organizing practice and reflection can change; this is the sense of [reasoning beyond the current double loop](https://boluopai.net/philosophy/embodied-experimental-philosophy/en/) used here.
 
+Broad reading connects with perception and action: a sketch can reveal a spatial relation, hearing can distinguish rhythm, and trying a design in its use situation can expose what a description misses. Let the model develop explanations, retrieve sources, and realize alternatives around those encounters. [Shared reflection and continued cultivation](participation-and-support.md#why-organize-participation-this-way) develops this division of attention and work; either participant can generate, reason, and revise.
+
 ## Reading entrances
 
 <nav class="guide-navigation" aria-label="Page navigation" markdown="1">
@@ -30,6 +32,8 @@ Design is one example: deciding what to make, why, how to organize it, and what 
 **Theory and practice support each other; unless the current purpose is purely theoretical inquiry, begin with practice.** Identify what you want to accomplish: the abilities an employment direction needs, the problem a project addresses, or what an assignment asks you to explain or produce. Work backward to the relevant concepts, principles, and methods.
 
 This is **bidirectional pruning**: practical demand selects the scope and depth of theory, while theoretical dependencies identify missing foundations. When the selected theory remains unclear, supply what makes it intelligible and return to the original question. Theory can also expose mistaken practical assumptions and unnecessary steps. Adjust scope to actual difficulties. Pure theoretical inquiry can follow its own questions, concepts, and arguments.
+
+Consider what you want this time. Do you want to finish a piece of work, make study easier to resume, or practice explaining, judging or coming up with an idea? A well-organized answer can help you continue. Your next attempt shows what you have learned. Once you choose an ability to practice, keep that part of the activity for yourself and let the model handle preparation it can reliably complete. Consider the time, attention, physical effort, supervision and maintenance the whole activity takes. Adjust the division of work as your interests and tools change. [Personal RSI in economic reality](economic-personal-rsi.md) explores how to choose which abilities to cultivate.
 
 If you want to **give yourself a university education, or fill important gaps in foundational and practical knowledge**, the five steps below provide a systematic route: draft a curriculum from your interests, prepare courses, books, tools, and an environment, then write theory and practice paths and begin learning. You can cover one important field or gradually develop your own curriculum.
 
@@ -189,6 +193,8 @@ Follow the [reading priority](#reading-order): open the main textbook, chapter, 
 
 Use diagrams to see relationships and discussion to express your understanding and questions. Ask the teacher to connect new and existing knowledge, compare explanations, and develop what remains unclear, then check whether it misunderstood. Saved notes and current explanations can revise one another: add useful examples, explanations, and new questions to the existing materials.
 
+When you want to practice explaining, judging or designing, **try once, ask your teacher for feedback grounded in the source or the result, then try again**. Before opening a prepared solution, explain a passage in your own words, sketch a relation, predict a result or give an example. Even a half-formed intuition or objection is enough to begin. The teacher can help you put it into words, show which step the source supports, and identify a missing condition. Then revise your explanation or test it on a different example. If you cannot find a starting point, ask the model to demonstrate first, then take the step you want to practice.
+
 #### Work backward from practice to theory, then return
 
 Select an ability currently needed from the practice outline. Have the teacher use the actual object to specify what to do, compare, and check. For example, begin by comparing interface transitions; when a response makes the system's state hard to judge, enter the relevant theory of motion, feedback, or perception. When a dataset needs interpretation, select an appropriate statistical model and its conditions. If the theory remains unclear, supply the foundations it actually depends on, then bring that understanding back to the original design or analysis.
@@ -201,9 +207,11 @@ Tool familiarity includes knowing what a tool can do, how files and operations a
 
 Return to relevant concepts, conditions, and evidence when a detail could change the overall judgment, results depart from expectations, understanding becomes inconsistent, or a method is entering a new context. Identify the specific difficulty with the teacher, then use examples, counterexamples, reasoning, or experiments to examine it. For example, moving from correlation to a causal explanation calls for identifying the additional assumptions and whether evidence supports them.
 
-**Actual practice should exclude most prepared material, retaining only the very few points essential now.** Add diagrams, concrete examples, and smaller exercises at those points; repeat or change contexts when needed until understanding supports the current judgment, then return to the whole. Unselected materials remain available for later needs or review after forgetting.
+**Select practice around the consequential relations and difficulties now.** Often this leaves only a few points from the prepared materials; retain further foundations or sustained practice when the chosen ability depends on them. Add diagrams, concrete examples, and smaller exercises at those points; repeat or change contexts when needed until understanding supports the current judgment, then return to the whole. Unselected materials remain available for later needs or review after forgetting.
 
-Practice develops understanding; testing supplies performance evidence; evaluation uses that evidence to decide what needs improvement. Explanations, responses to counterexamples, and practical work can also supply evidence. When judging personal understanding, distinguish your contribution from model assistance. Assess mastery through explanation, application, and correction.
+Practice develops understanding; testing supplies performance evidence; evaluation uses that evidence to decide what needs improvement. Explanations, responses to counterexamples, and practical work can also supply evidence. Name the capacity being judged and the support available: explaining or applying a relation with recoverable sources and a model can be a reliable available capacity; transferring it to a new situation or performing unaided requires corresponding attempts. Preserve personal foundations needed to understand contributions, detect consequential errors, and connect them to reality. A fluent explanation accepted from the teacher alone leaves those questions open.
+
+When returning later, try recovering the question, explaining a consequential relation, or using it with a new example. Notice separately whether the arrangement eases continuation and whether your understanding or generation has changed. If a difficulty recurs, revise the teaching method as well as the current material—for example, replace repeated explanation with predictions followed by comparison. Later learning shows whether that change makes the method more effective; an edited guide alone establishes the edit.
 
 #### Research also requires checking the result
 
@@ -216,6 +224,8 @@ Learning can serve curiosity and understanding. Research develops a reasoned, te
 ### When a paper is inaccessible, find an understandable starting point through its references
 
 Choose a target paper relevant to your question. Ask the model to explain its problem, contribution, and the concepts or inferences blocking understanding. When background knowledge is missing, examine that gap. Have the model inspect the references and search backward for more foundational papers explaining those concepts, results, or methods. Inspect the material to judge which source supplies the missing foundation. A textbook chapter or review can provide a bridge where needed.
+
+Read the relevant source passages, in a readable edition or faithful translation, alongside the model's orientation. Keep what the author argues distinct from the model's reconstruction and your own candidate interpretation. When interpretations differ, retain their grounds and compare what passage, proof step, or result could distinguish them; interest can select a question to pursue without deciding which answer the evidence supports.
 
 Begin with material you can connect to what you already understand. Grasp its **question, main conclusions, conditions, and the basic argument or proof supporting them**. Return to the paper that uses it and explain how this newly understood knowledge supports the next step. If a gap remains, look further back; when the current dependency is understood sufficiently, work forward toward the target. The model can diagram these relationships and retain original passages so you can see why each paper is being read and what it contributes.
 
@@ -233,9 +243,9 @@ A preferred method supplies motivation to learn; its fit to a problem still depe
 
 ## III. Everyday learning
 
-If your purpose is everyday learning and broader understanding, reading an unfamiliar field's papers can usually focus on **valuable, important abstractions and final conclusions**. Ask the model what phenomena the paper represents through which objects and relationships, why that abstraction is useful, what conclusions it reaches, and how these connect to things you already know.
+If your purpose is everyday learning and broader understanding, reading an unfamiliar field's papers can usually focus on **valuable, important abstractions and final conclusions**. Read the passages developing them in a readable edition or faithful translation, using the model to locate and explain them. Ask what phenomena the paper represents through which objects and relationships, why that abstraction is useful, what conclusions it reaches, and how these connect to things you already know.
 
-Also understand its key conditions, scope, and limitations. Use a concrete example and a case where it does not apply to check understanding. Technical details that do not serve the current purpose can be left aside, while keeping the authors' findings, the model's explanation, and your own associations distinguishable. This achieves understanding of important ideas and conclusions.
+Also understand its key conditions, scope, and limitations. Try giving a concrete example and a case where it does not apply, then ask the teacher to examine them and revise your explanation where needed. Technical details that do not serve the current purpose can be left aside, while keeping the authors' findings, the model's explanation, and your own associations distinguishable. These attempts help judge your understanding of important ideas and conclusions.
 
 When an abstraction is especially fruitful, or you intend to make a practical decision from it, examine the corresponding argument, evidence, and foundations more closely. Everyday reading can already be a complete learning purpose.
 
