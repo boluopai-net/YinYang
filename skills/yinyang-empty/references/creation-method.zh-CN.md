@@ -33,6 +33,9 @@
 方法与实现通常[向前演进](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.zh-CN.html#面向更有能力的模型向前演进)，
 以效率与经济性比较整项工作的所得与负担，沿用有贡献的惯例，并在修订中退役过时的约定。
 
+整理共享工作上下文时，按[宿主全局提示词与个人阴阳的分工](formation/revision.zh-CN.md#协调宿主全局提示词与个人阴阳)
+选择内容的维护源，接续相连载体并检查实际供给与执行。
+
 ### 例子：从阅读安排返回学习方法
 
 设想一位读者希望在中断后继续理解一段论证。先从环境入手，模型把原文、读者的解释与反馈放在

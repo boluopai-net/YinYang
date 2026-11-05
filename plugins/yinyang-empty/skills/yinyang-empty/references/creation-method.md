@@ -41,6 +41,10 @@ Methods and realizations usually [evolve forward](https://boluopai.net/repositor
 comparing the whole activity's gains and burdens through efficiency and economy, continuing useful
 conventions and retiring obsolete ones during revision.
 
+When organizing shared working context, use the
+[division between host-wide instructions and personal Yinyang](formation/revision.md#coordinate-host-wide-instructions-and-personal-yinyang)
+to choose maintained sources, connect their carriers, and check actual context supply and execution.
+
 ### Example: return from a reading arrangement to the learning method
 
 Imagine a reader who wants to resume understanding an argument after interruption. Starting with the environment,

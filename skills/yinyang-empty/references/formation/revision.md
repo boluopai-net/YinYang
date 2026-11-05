@@ -38,6 +38,26 @@ judgments, source relationships, correction and realization, not merely how to
 call a backend. A native question can help form it, with checked actual content
 projected at the private revision path; no seventh summary is required.
 
+## Coordinate host-wide instructions and personal Yinyang
+
+Retain both the host's global instructions and personal Yinyang's global working context, placing
+content by its contribution to actual work. Where fitting, put shared purposes, understanding, and
+cooperative relations in readable Yinyang accounts by default, so the participants can read, judge,
+and revise them together. Host-wide instructions operate independently of loading this Skill and
+carry bootstrapping and context access, host rules, tool conditions, and requirements that need
+global scope. A specialist Skill maintains its task-specific method.
+
+Give the same meaning one maintained source; other consumers obtain it through a usable reference
+or generated projection. The model proactively compares current carriers and their dependencies,
+deciding what to retain, move, reference, or retire as duplication, and carries changes through the
+affected owners. Revised shared understanding reaches the relevant global carriers; changed host
+arrangements prompt a check that Yinyang still describes them accurately. Read back actual consumers.
+The model carries discovery of stale copies and completion of connected changes.
+
+Verify Skill discovery or activation, actual supply of global context, and enforcement of host
+settings and tool permissions separately. Prose describes the intended work; host configuration
+and actual entrypoints determine executable conditions. Check their effects through their respective routes.
+
 ## Scope and connected changes
 
 Identify the result sought and the part that needs development. Distinguish
