@@ -120,6 +120,29 @@ understanding, and repair their actual instructions or behavior through their
 owners. A guide about a Skill can need revision even when that Skill needs no
 implementation change; changing a Skill does not by itself update its guide.
 
+### Delegate work according to the actual dependencies
+
+The model chooses and delegates agent work on its own, judging the problem's
+difficulty, volume and actual dependencies, the host's available capabilities,
+and the time needed for dispatch, integration and checking. In a revision with
+many content and mechanism changes, independent contributions can proceed in
+parallel to save the person's time. Choose capable agents and reasoning effort
+for each contribution under the host's current selection rules. A small change
+can remain with one agent; useful delegation needs no additional permission
+within the task's existing authority and privacy boundaries.
+
+For example, once the shared direction is settled, one agent can revise a
+bounded set of public reader documents, another can check the rendering or
+publication mechanism, and another can gather evidence from an already
+available consumer version. Give writers separate files or isolated workspaces;
+sequence shared decisions, conflicting writes, and work that needs another
+result. Final reader and behavior checks must use the integrated successor,
+so earlier consumer evidence does not stand in for acceptance of later edits.
+The task owner integrates the contributions, resolves disagreements, checks
+coherence across the accounts and editions, and verifies actual readers and
+behavior. This division can support either revision loop without expanding its
+scope or distributing private material beyond what each contribution needs.
+
 Complete the integrated version before reporting the revision finished:
 compare the user's purpose with the actual main text and appendix entrances,
 check bilingual meaning and important visual relationships, and read back

@@ -155,7 +155,9 @@ following the [revision method](references/formation/revision.md). Maintain
 the relevant online documents in the same revision, including Tools, Research
 and Learning, Psychology and site-only reading material; maintain their affected
 substance through the actual source owners before the separate assessment of
-other Skills and environment behavior. Read back
+other Skills and environment behavior. Choose and delegate independent agent
+work according to difficulty, volume and actual dependencies when this saves
+time; integrate and check the whole through the revision method. Read back
 the actual consumer and result when changing an environment. The task owner
 retains execution and completion; specialist methods retain their own work.
 Ordinary subagents receive bounded relevant task context without private
