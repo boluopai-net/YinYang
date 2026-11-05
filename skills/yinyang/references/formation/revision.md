@@ -87,8 +87,8 @@ change Core views, tables, guides, and reading questions.
 ### Maintain the relevant online documents in the same revision
 
 When the person initiates revision, the model also carries maintenance of all
-relevant online-visible documents through that same revision. Recover the actual
-website contents alongside the collection: the Tools guide, Research and Learning,
+relevant online-visible documents through that same revision. Use the website's
+current contents and reading pages to locate the Tools guide, Research and Learning,
 Psychology, and related introductions, summaries, diagrams, captions, navigation,
 and links, including material authored only at the Site. Follow each document to
 its source owner, revise its substance where the changed understanding or current
@@ -102,12 +102,13 @@ their premises, methods and cross-links against this revision. Retain a passage
 when that comparison supports it; merely opening a page or changing its date is
 not a substantive check. Preserve specialist and evidence boundaries.
 
-For example, a new way of jointly reading a source may require replacing the
-Tools guide's old workflow and rewriting the Research and Learning passage about
-how questions and source-grounded feedback return to the learner. Check the
-Psychology guide for consequences too: if its distinction between interpreting
-material and claiming psychological change still holds, retain that account and
-say what was checked. Reconcile any affected site-only summary, diagram, caption
+For example, a revised account may have the learner first offer an interpretation
+of the original text, then have the model give feedback against that text. The
+Tools guide should explain how to place the source and feedback together;
+Research and Learning should bring reading, attempting an interpretation and
+feedback into the exercise. Check Psychology too: if its distinction between
+reported experience and an interpretation of that report remains accurate,
+retain the passage and say what was checked. Reconcile any affected site-only summary, diagram, caption
 and route, both language editions and the paired PDFs. The different outcomes
 follow their actual dependencies; uniform cosmetic changes add no evidence.
 
