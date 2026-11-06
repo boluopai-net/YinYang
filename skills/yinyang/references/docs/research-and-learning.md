@@ -206,6 +206,11 @@ Use diagrams to see relationships and discussion to express your understanding a
 
 When you want to practice explaining, judging or designing, **try once, ask your teacher for feedback grounded in the source or the result, then try again**. Before opening a prepared solution, explain a passage in your own words, sketch a relation, predict a result or give an example. Even a half-formed intuition or objection is enough to begin. The teacher can help you put it into words, show which step the source supports, and identify a missing condition. Then revise your explanation or test it on a different example. If you cannot find a starting point, ask the model to demonstrate first, then take the step you want to practice.
 
+Feedback can identify both relations worth developing and premises that need changing. Ask the teacher
+to connect its reasons to the source, a counterexample, or an actual result, then use the distinction
+in the next explanation, prediction, or design. [Amplification and correction](yinyang-and-taiji.md#turning-and-corrective-feedback)
+concern how return changes the next attempt; encouragement and criticism retain their communicative roles.
+
 #### Work backward from practice to theory, then return
 
 Select an ability currently needed from the practice outline. Have the teacher use the actual object to specify what to do, compare, and check. For example, begin by comparing interface transitions; when a response makes the system's state hard to judge, enter the relevant theory of motion, feedback, or perception. When a dataset needs interpretation, select an appropriate statistical model and its conditions. If the theory remains unclear, supply the foundations it actually depends on, then bring that understanding back to the original design or analysis.

@@ -248,13 +248,28 @@ names the danger through Kuafu: every increase in power can become a reason
 to pursue more power. The intended corrective return makes that amplification
 answerable to something it cannot simply absorb as confirmation.
 
-Positive feedback reinforces an initiating change; negative feedback opposes
-a relevant deviation. These directions do not mean good and bad, or agreement
-and disagreement. [Feedback systems](https://www.cds.caltech.edu/~murray/FBS/Introduction.html)
-also require attention to the actual loop: feedback can cause instability when
-poorly arranged. Alternating positions alone therefore establishes neither
-negative feedback nor stability. A disagreement can even reinforce an account
-if every objection is interpreted as further proof of it.
+**Positive and negative feedback provide important support for Yinyang dialectics: generation needs
+room to develop and the capacity to be corrected by different grounds.** Suppose an explanation
+builds a premise into every example, then uses agreement among those examples to confirm the premise.
+Further elaboration can make the original understanding appear ever firmer. Adding criticism can
+continue the same cycle if each objection is reinterpreted as proof of the premise. What matters is
+how returning material changes the next judgment; argument length and response counts show elaboration.
+
+In [Åström and Murray's *Feedback Systems*, §1.4](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf),
+positive feedback further strengthens a change through its return, while negative feedback counteracts
+a disturbance or deviation. Positive and negative describe the direction of a loop's action, good and
+bad evaluate consequences, and agreement and criticism describe a response's attitude. Criticism can
+reinforce an explanation's original conviction; encouragement can help someone stop an unproductive
+pursuit and reconsider a premise. Identify the specific change, return path, and consequence.
+An actual loop's stability also depends on its dynamic conditions.
+
+The counterpart's independent contribution and the world's response therefore have substantive work
+to do. The model can compare explanations the person has not adopted; the person can contribute an
+experience the model omitted. Original texts, use of works, and other people's responses bring grounds
+from beyond the participants' current account. Independent judgment matters because such grounds can
+change conclusions and actions. Two participants sharing an unchecked premise can continue amplifying
+it through mutual confirmation; returning to sources and actual results lets their shared understanding
+encounter something capable of correcting it.
 
 In this collaboration, corrective return becomes concrete when a different
 argument, original text, or actual result changes a premise, a scope, an action,
@@ -266,14 +281,28 @@ the useful construction as its own. The source keeps an independent meaning,
 and the new creation keeps room to exist. Neither side has to be distorted
 to make the other valid.
 
-Crossed roles make several entries into such correction available. Generating
-can disclose a relation that scrutiny missed; scrutiny can reveal a detail
-that changes the whole. Returning from the other's role retains the contribution
-instead of giving either position permanent victory. But the dialectical
-movement and the feedback analogy answer different questions: the former
-concerns how participation changes through return, the latter whether what
-returns counteracts a specified direction or discrepancy. Their connection is
-an adopted aim to realize and assess, not a measured psychological mechanism.
+Positive feedback can also make a worthwhile contribution. Once a grounded distinction helps
+understanding, the participants can develop it into further examples, works, and usable methods;
+actual gains can make further investment easier. After the attribution above is corrected, for
+example, the author's own construction can still develop fully, and new works can supply material
+for further creation. Reasons, purposes, and actual consequences guide what to amplify and why.
+Correction lets that amplification change direction; amplification lets a useful beginning develop
+sufficiently. Both support mutual becoming through their specific relations.
+
+Crossed roles make several entries into correction available. Generation can disclose a relation
+scrutiny missed; scrutiny can reveal a detail that changes the whole. The crucial passage carries
+feedback into the next generation: the person understands a distinction the model identified and
+proposes an explanation again; the model takes up the person's scrutiny and changes its proposal.
+Returning through the other's role makes correction a distinction both can use later and gives
+content to their combined availability of generation and judgment. Role exchange thereby helps
+feedback change participation as well as improve a finished work.
+
+Feedback theory explains how a return strengthens or counteracts a change, supplying a design reason
+for this arrangement. The dialectical account also explains how participants return through the other,
+which exclusive determination is sublated, and which contributions the new relation preserves.
+Negative feedback can simply regulate a deviation under a fixed aim; connecting it to those dialectical
+relations requires the preceding argument about mediation, participation, and preservation. Here feedback
+supports a realizable and revisable shared practice, whose effects are judged through actual participation.
 
 The purpose of this turning is thus to keep generation corrigible. A work can
 finish, a pursuit can end, and the standard used to judge it can itself be

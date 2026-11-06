@@ -42,6 +42,7 @@
 
 | 当前问题 | 基本观点与具体阅读 |
 | --- | --- |
+| 为什么生成还需要不同根据，正负反馈怎样支持阴阳辩证法？ | [YY-03](docs/core-views.zh-CN.md#yy-03)与[转动与纠偏反馈](docs/yinyang-and-taiji.zh-CN.md#转动与纠偏反馈)联系放大、纠正、独立伙伴与世界，以及角色返回怎样改变下一次生成。 |
 | 哪些值得本人参与，哪些交给模型承担？ | [YY-02](docs/core-views.zh-CN.md#yy-02) 与 [YY-06](docs/core-views.zh-CN.md#yy-06)把具身多模态参与接到语言外包。[认知复杂度与表达范围](docs/metaphor-and-self-revision.zh-CN.md#认知复杂度与表达范围)比较表征、已有知识、监督、中断与恢复。 |
 | 人与模型怎样在设计、理解和构造之间换位？ | [YY-13](docs/core-views.zh-CN.md#yy-13)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
 | 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-16](docs/core-views.zh-CN.md#yy-16)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |

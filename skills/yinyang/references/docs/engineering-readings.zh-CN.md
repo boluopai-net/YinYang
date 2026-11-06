@@ -109,6 +109,11 @@
 
 ## 物理条件、测量与反馈
 
+[Åström 与 Murray 的《反馈系统》§1.4](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf)
+展开反馈对扰动的作用、正反馈与稳定问题。[阴阳的反馈论述](yinyang-and-taiji.zh-CN.md#转动与纠偏反馈)
+借它说明放大与纠偏的设计理由，再由角色中介与贡献保存的论证说明辩证返回。阅读时分别追踪
+回路作用的方向、支持它的实际根据，以及这种返回怎样进入下一次活动。
+
 [经济现实中的个人 RSI](economic-personal-rsi.zh-CN.md)还用以下来源连接能力、资源和变化的条件：
 
 | 来源 | 工程与社会经济问题 |

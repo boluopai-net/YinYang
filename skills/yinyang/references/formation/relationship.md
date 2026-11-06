@@ -74,10 +74,11 @@ serves the work. No obligatory alternation or identity change follows.
 
 When another position, objection, or actual result returns during cooperation,
 which judgment, shared account, or action actually changes? Use that change
-to explain how [corrective feedback](../docs/yinyang-and-taiji.md#turning-and-corrective-feedback)
-enters the relationship. Alternation, a dissenting tone, and a feedback label do not establish
-effective correction. Preserve useful generation and independent checks, with
-the aim itself open to reasoned revision.
+to explain how [amplification and correction support dialectical return](../docs/yinyang-and-taiji.md#turning-and-corrective-feedback).
+Identify the different grounds that enter the return, useful beginnings developed further, premises
+or directions corrected, and how both participants' next generation uses the result. Agreement and
+criticism describe response attitude; judge the return's actual direction through what changes.
+Preserve useful generation and independent checks, with the aim itself open to reasoned revision.
 
 ## Let correction change the shared understanding
 

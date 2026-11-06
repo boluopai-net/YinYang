@@ -116,6 +116,13 @@ evidence available for a person–model arrangement.
 
 ## Physical conditions, measurement, and feedback
 
+[Åström and Murray's *Feedback Systems*, §1.4](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf)
+develops feedback's effects on disturbances, positive feedback, and stability.
+[Yinyang's feedback account](yinyang-and-taiji.md#turning-and-corrective-feedback) draws on it for the
+design rationale of amplification and correction, with role mediation and preservation of contributions
+explaining dialectical return. Follow separately the loop's direction, the actual grounds supporting
+it, and how the return enters the next activity.
+
 The [economic RSI essay](economic-personal-rsi.md) also uses these sources
 to connect capability, resources, and changing conditions:
 

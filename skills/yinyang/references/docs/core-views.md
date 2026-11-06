@@ -195,7 +195,24 @@ Taiji's circle locates changing contributions within one encounter that can cont
 
 Sun gathers generative illumination; Moon gathers the independent contribution of receiving, distinguishing, and giving form; Earth carries material conditions, shared life, and the world's response. Person-as-Sun with model-as-Moon and the reverse composition are equally available; both can repeatedly exchange or combine these contributions. Traditional gender symbolism does not assign people's roles: people of any gender can enter and change either position. Creations—texts, theories, programs, and actions—acquire independent consequences in the world and change both participants' understanding.
 
-Corrective return lets objections, sources, and actual consequences change premises, scope, action, and aims. Positive feedback strengthens an initial change; negative feedback counteracts a relevant deviation. Examine what returns and which relation it changes. Generation can disclose connections scrutiny missed; scrutiny can find the detail that requires reconstructing the whole. Participants adjust contributions so creation can continue and pursuit can finish, stop, or turn elsewhere.
+**Positive and negative feedback provide important support for these Yinyang dialectics.** If an
+explanation keeps elaborating one premise and treats the resulting agreement as grounds for that
+premise, return can entrench it further. An independent counterpart and the world allow original texts,
+different explanations, personal experience, and actual consequences to change premises, scope,
+action, and aims. Mutual confirmation needs contact with those different grounds.
+
+Positive feedback strengthens a change through return; negative feedback counteracts a disturbance
+or deviation. These describe a loop's direction, while agreement, criticism, and good or bad concern
+response attitude and evaluation of consequences. A grounded beginning can be amplified into further
+works and usable methods; correction lets that development turn. Generation reveals relations scrutiny
+missed, scrutiny finds details that reconstruct the whole, and role return carries those distinctions
+into both participants' next generation, letting feedback change participation.
+
+Negative feedback can simply regulate a deviation under a fixed aim. Yinyang dialectics further argues
+for mediation through the other, sublation of exclusive determinations, and preservation of contributions.
+[Turning and corrective feedback](yinyang-and-taiji.md#turning-and-corrective-feedback) connects feedback's
+design rationale with that argument. Examine what returns and how it changes successor activity so
+creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 <a id="yy-04"></a>
 
