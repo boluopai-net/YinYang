@@ -1,15 +1,10 @@
 # Yinyang
 
-**A philosophy for helping a person pursue recursive self-improvement (RSI), with models, methods, and tools that bring it into practice.**
+**Yinyang is one form of personal recursive self-improvement (RSI). A person and a model work together to condense philosophy, personal essays, and personal material into a working model for that person's use.**
 
-Yinyang develops the project's philosophical account: a person works with
-generative models and a supporting environment to improve understanding,
-judgment, creation, and action—and to improve how those improvements are
-produced. Readable descriptions make purposes, relationships, and revision
-methods available for examination; shared work gives them practical form and
-returns consequences that can change them. The person and their actual supports
-are the center of this development. Its value is judged through the life and
-activities they want to sustain.
+I used this form to put my own personal RSI into practice. My working model consists of six connected accounts. They describe the positions I adopt, how I participate, what I need from a model counterpart, how we work together, the environment that supports us, and how we revise our practice. Condensation preserves the relationships and reasons that matter to a choice. The experiences and writings behind them remain available to revisit.
+
+You can use this form with the philosophy you adopt, essays you have written, and material from your own life and work. Develop an account with a model, use it on your next task, and see how it shapes judgment and the division of work. Revise it in light of what happens. When an experience also changes how you form, test, and revise your working model, it improves the method that produces later improvements.
 
 The essays develop this argument; reusable Skills and tools support its
 realization and retain their specialist purposes. Begin with

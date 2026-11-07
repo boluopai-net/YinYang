@@ -1,6 +1,6 @@
 # yinyang-empty
 
-**Keep reverse alignment, Yinyang dialectics, and the formation methods; develop your own philosophy and personal version.**
+**Use Empty to put personal RSI into practice. Work with a model to condense the philosophy you adopt, your own essays, and your personal material into a working model that fits you.**
 
 [简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Philosophy](https://boluopai.net/philosophy/en/)
 

@@ -7,10 +7,7 @@ Yinyang's public Skill is **Empty**, where a person and model form their own
 philosophy, Personal material, and six working accounts. The author's actual
 entrypoint and personal models are maintained privately. No Full package is offered.
 
-The essays develop a philosophy for personal recursive self-improvement:
-understanding, judgment, creation, action, and the methods producing later
-improvements. Read the arguments, consider their grounds, and select what helps
-your own questions. The [practice overview](references/docs/creation-method.md)
+The essays develop the form of personal RSI used in Yinyang. The author and a model condense philosophy, personal essays, and personal material into a working model, then use the results of collaboration to revise both the model and the way it was formed. Readers can use the same form to develop different working models from their own material. The [practice overview](references/docs/creation-method.md)
 connects these readings with the Empty method.
 
 <a id="use-and-understand-yinyang"></a>

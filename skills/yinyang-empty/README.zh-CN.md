@@ -1,6 +1,6 @@
 # yinyang-empty
 
-**保留反向对齐、阴阳辩证法与形成方法，形成自己的哲学与个人版。**
+**用 Empty 实践个人 RSI：与模型一起，把你采用的哲学、自己的文章和个人材料压缩成适合你的工作模型。**
 
 [English](README.md) · [日常协作](SKILL.zh-CN.md) · [哲学文章](https://boluopai.net/philosophy/)
 
